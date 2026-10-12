@@ -16,7 +16,7 @@ Researched 9 Oct 2026 from retailer listings and reviews. Weights are medium unl
 | **POC Ventral Air MIPS** | ~290g (S 282-290g, L 320g) | $260-270 | MIPS | EU/CE-spec listing shows 230g, vs 270g under CPSC. Certification changes the number |
 | **POC Omne Air MIPS** | 305-333g | $180-220 | MIPS | Listings disagree on weight. See note below |
 | **Giro Agilis MIPS** | 280g (S 260g) | €85-125 | MIPS (Roc Loc 5) | Cheapest MIPS road option. No visor |
-| **Van Rysel RCR-R MIPS** (assumed "R2R") | ~300g claimed | Price not found | MIPS | Aero road helmet, magnetic buckle. May be an older, no-longer-restocked model. Sibling **RCR MIPS** is ~270-279g, £80 |
+| **Van Rysel RCR MIPS** | 270g claimed; 278.6g measured | £80 / €70-90 | MIPS | Best value on the list. Non-MIPS version is ~£60 |
 | **Thousand Heritage** | 460g (S 410g, L 490g) | $99 / £71-100 | No | Urban style helmet. About 2x the weight of the road helmets. Sold by Brompton |
 
 ## Ranked by weight (lightest first)
@@ -28,11 +28,11 @@ Researched 9 Oct 2026 from retailer listings and reviews. Weights are medium unl
 5. MET Trenta 3K Carbon MIPS: ~256-285g
 6. Kask Elemento: ~260-277g
 7. Giro Aries Spherical: ~265g
-8. Abus AirBreaker 2.0 MIPS: ~275g
-9. Giro Agilis MIPS: ~280g
-10. Bell XR Spherical: ~285g
-11. POC Ventral Air MIPS: ~290g
-12. Van Rysel RCR-R MIPS: ~300g
+8. Van Rysel RCR MIPS: ~270-279g
+9. Abus AirBreaker 2.0 MIPS: ~275g
+10. Giro Agilis MIPS: ~280g
+11. Bell XR Spherical: ~285g
+12. POC Ventral Air MIPS: ~290g
 13. POC Omne Air MIPS: ~305-333g
 14. Thousand Heritage: ~460g
 
@@ -41,6 +41,5 @@ Researched 9 Oct 2026 from retailer listings and reviews. Weights are medium unl
 - **"MET," with no model** in the request was skipped. The two MET models listed are the Trenta 3K Carbon and Rivale. Say if another MET model was intended.
 - **POC "Omnie"** is treated as the **Omne Air MIPS**. No "Omne Air Spherical" turned up. POC also makes the lighter **Omne Lite** (240g claimed, £170) and **Omne Ultra** (340g claimed, £180).
 - **"Thousands"** is treated as **Thousand Heritage** (the model Brompton sells). Thousand also makes the Chapter and Jr ranges.
-- **Van Rysel "R2R"** is not a model I could find. I used the **RCR-R MIPS** (weight is the German retailer's ~300g, no price found). If you meant the plain **RCR MIPS** (270g claimed, 278.6g measured, £79.99 RRP) or the aero **RCR F MIPS** (300g claimed, A$179.99), say so and I'll swap it.
 - **Kask "Utpopia"** is treated as **Utopia**.
 - **Kask models are marked "No" for MIPS.** Confirmed for the Elemento only; the others are from general knowledge that Kask relies on its own WG11 test and construction. Verify before relying on it.
