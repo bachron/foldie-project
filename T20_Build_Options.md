@@ -462,7 +462,15 @@ Taiwanese Brompton upgrade specialist (minimods.com.tw). ⚠️ **Most of their 
 | ⭐ **Extralite UltraLevers 3** `[8.3kg ref]` | **22.5g each / 46g pair** | Used on the 8.3kg build. Astonishingly light |
 | **Extralite UltraLevers 2+** | 50-52g pair | Previous generation |
 | **Growtac Equal levers** | — | Designed as a system with the Equal calipers |
-| **Paul Love Levers** | — | Premium, heavier |
+| **Paul Love Lever Compact** | 125g (Paul does not say if pair or each; likely pair) | Long pull, 6061 Al, 22.2mm clamp, 2-finger. **US$109.50-262.00** (range = finish/side/pair, not split out by Paul). Dual sealed bearings, reach screw. Black/purple/pink/blue/gold/green/red/orange/silver anodised or polished. Pairs with V-brake and long-pull mech discs |
+| **Paul Love Lever 2.5** | 137g (same pair/each caveat) | Same lever, 3-finger blade. Same US$109.50-262.00 range. Black/purple/silver only |
+| **Paul Canti Lever** | 134g pair | **Short pull**, 22.2mm, US$108.00-259.00. Standard and short reach. Only if the caliper is short-pull |
+| **Paul Reverse Lever** | 80g each | Bar-end style for drop-bar tops, 19-25mm inner bar diameter, US$137.00-331.00. Not a flat-bar lever |
+| **Paul E-Lever** | Not published | Single-finger short pull, 22.2mm or 23.8mm, US$87.00-122.00. Paul says not for sole braking, so ruled out |
+| **Paul Duplex Lever** | Not published | One lever pulls two cables (polo/adaptive use), 22.2mm, US$159.00-205.00. Niche |
+| **Paul Cross Lever** | 140g | Inline for drop-bar tops, 31.8mm clamp only, US$91.00-251.00. Does not fit a flat bar |
+
+> Paul Love Levers are the only Paul lever that makes sense for the T20 flat bar. At 125g they are about **79g heavier** than the Extralite UltraLevers 3 pair (46g) if 125g is a pair, up to ~200g heavier if it is each. Source: paulcomp.com product pages, Oct 2026. Check lever pull (long vs short) against the final caliper before buying.
 
 ### Rotors — centre-lock (140mm on flat mount; **160mm if you go post**)
 

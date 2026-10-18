@@ -222,7 +222,11 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 | ⭐ Extralite UltraLevers 3 `[8.3kg ref]` | **22.5g each / 46g pair** |
 | Extralite UltraLevers 2+ | 50-52g pair |
 | Growtac Equal levers | — |
-| Paul Love Levers | — |
+| Paul Love Lever Compact (long pull) | 125g ⚠️ pair vs each unconfirmed |
+| Paul Love Lever 2.5 (long pull) | 137g ⚠️ pair vs each unconfirmed |
+| Paul Canti Lever (short pull) | 134g pair |
+| Paul Reverse Lever (bar-end, adjustable pull) | 80g each |
+| Paul E-Lever / Duplex / Cross | Not weighed / drop-bar or specialist, not suited to flat bar |
 
 ### Rotors — centre-lock (140mm flat / **160mm post**)
 | Option | Weight (140mm) |
