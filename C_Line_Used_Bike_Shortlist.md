@@ -1,4 +1,4 @@
-# Foldie Project — Used Brompton Donor Shortlist Guide
+# Foldie Project — Black Lacquer Superlight Build — Used Donor Guide
 
 Part of the C Line build (`C_Line_Build_Plan.md`). Research as of 23 Oct 2026. **No live Singapore listings could be read** (Carousell returned 403). Paste candidates into chat to score them.
 

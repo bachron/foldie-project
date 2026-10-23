@@ -1,4 +1,4 @@
-# Foldie Project — Brompton C Line / pre-C Line Build Plan
+# Foldie Project — Black Lacquer Superlight Build (Brompton C Line / pre-C Line) — Build Plan
 
 **Base bike:** a USED Brompton, **C Line or pre-C Line** (classic hand-brazed steel frame, 16" / 349mm wheels, rim brakes). Donor not yet chosen — candidates are being shortlisted.
 **Headline rebuild (the main event):** **Titanium stem + lighter fork + titanium rear triangle.** Everything else follows the T20 / G Line build's approach: lightweight, practical for city use, easier low gears over top speed, Singapore sellers preferred.

@@ -1,6 +1,6 @@
-# Foldie Project — Brompton C Line / pre-C Line — Parts Options Tracker
+# Foldie Project — Black Lacquer Superlight Build — Parts Options Tracker
 
-Companion to `C_Line_Build_Plan.md`. Research date 23 Oct 2026. FX used by the agents: ~US$1 = S$1.30, £1 = S$1.70 (approximate, not looked up).
+Companion to `C_Line_Build_Plan.md` (Black Lacquer Superlight build). Research date 23 Oct 2026. FX used by the agents: ~US$1 = S$1.30, £1 = S$1.70 (approximate, not looked up).
 Legend: ✅ locked in · 🛒 active decision · 🔮 future · ❌ incompatible · ⚠️ unverified (not read off a vendor page).
 Tables below are the raw research notes, one section per area, lightly re-headed. Where two sections disagree, the Plan file's note applies and the conflict is flagged there.
 

@@ -1,4 +1,4 @@
-# Foldie Project — C Line Donor Shortlist (Carousell SG)
+# Foldie Project — Black Lacquer Superlight Build — Donor Shortlist (Carousell SG)
 
 Saved 23 Oct 2026 from the owner's screenshots (six complete bikes and one frame-only route). Listing details only; **no seller names, links or chat history are kept here because this repo is public.** Screenshots are stored locally in `private/screenshots/` (git-ignored, iMac only). Re-check each listing before acting: prices and availability change, and the owner has not seen any bike in person yet.
 
