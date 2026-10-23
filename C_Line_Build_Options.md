@@ -635,3 +635,32 @@ Weights are listings. USD = approx; SGD estimate from my own rough rate.
 5. Is TPW's Ti/carbon rack fit for classic-frame C Line (Mk5)? SJS wording conflicts.
 6. SG pricing: only Carousell asking prices and Brompton SG store (S$250 rack kit) found. No SG retail pricing for TPW, H&H or WOOdman verified.
 7. Brompton's current maximum load (rider + luggage) and its guidance on seatpost-mounted child seats: not verified.
+
+---
+
+# 6. 6-speed wheelset — Singapore options (Carousell, 23 Oct 2026)
+
+Decision: **the wheelset is a 6-speed set** (see the Plan's decision note). Prices are Carousell listing asks, not sold prices; descriptions are the sellers' claims, so everything is ⚠️ unverified until you chat with the seller. Seller handles omitted (public repo).
+
+**(a) Stock Brompton 6-speed system** (Sturmey Archer 3-speed hub + 2-speed derailleur, 112mm)
+- No complete 6-speed wheelset was found for sale on its own; the stock 6-speed set comes with the bike. Candidates **A, D, E** are already 6-speed (M6L / S6R), so their wheelset can stay or be swapped for a lighter set of the same type. **G is a 3-speed** and **C was modded to 2/3-speed** (original 6-speed hubs and rims included), so both need their wheels checked against this decision.
+- Lighter 3/6-speed wheelset: "**3/6 speed carbon wheelset**, S$550 new" (a moving-sale listing, "was S$850"). ⚠️ Confirm it is a true 6-speed (BWR + 3-speed hub) fit, the rim weight limit with a child seat, and the brake surface (carbon rim needs carbon pads).
+- Stock-weight reference: Brompton Superlight front wheel 535g (£121, saves ~115g); BZ alloy + Hubsmith 1,030g pair; SMC carbon ~880g pair. (From Options §3.)
+
+**(b) External multi-speed (6/7-speed freehub) sets** — need a cassette, chain and derailleur kit, which changes the gearing plan:
+| Set | Asking price | Notes |
+|---|---|---|
+| Silverock carbon 3K SR30-349, "4 to 7 speeds", 74/112mm, **830g pair** | S$480 new | Carbon rim; ⚠️ confirm freehub speed and rim-brake surface |
+| Suncord 7-speed alloy sets | S$460 (lightly used) to S$680 new; carbon version S$1,280 | Magnetic-pawl hub; 7-speed hub, usable as 6 with a 6-speed cassette (⚠️ confirm) |
+| Hubsmith HS-Bumbee A349 7-speed alloy | S$1,330-1,568 new | Ceramic bearings, sold for A/C/P/T |
+| SMC Lunate 7-speed carbon | S$700 (well used) | Previously noted ~880g pair |
+| SMC Govan tri-spoke 7-speed carbon | S$880 (heavily used) | Avoid heavily used carbon |
+| Dcch Supernoro 7-speed P-Line wheelset | S$500 new | Straight-pull, P Line spec: ⚠️ check C Line fit |
+| H&H cassettes | 7-speed 11-28/11-32T or **6-speed 12-28T: S$250**; 5-speed 11-25T for a 2-speed BWR hub S$188 | The 6-speed cassette is what makes a 7-speed hub a "6-speed" |
+| H&H derailleur and tensioner V4 | S$399 | Needed for a freehub set |
+
+**What the 6-speed decision means for the other parts**
+- **Rear triangle:** a derailleur or hub-gear triangle must carry the shifter/tensioner geometry; ask tibicycles/COMEPLAY (not stated on their page). The genuine Brompton Ti triangle fits the stock 6-speed layout.
+- **Chainring:** keep the 44T idea (~12% easier than stock 50T) with a 6-speed. Candidate **G has a 54T ring**, which is the opposite direction; plan a swap.
+- **Brake surface:** every set listed is rim-brake only. Carbon rims need carbon-specific pads.
+- **Suspension block:** H&H DT TPU suspension block for A/C Line 2/3/6-speed is S$100 new, a possible small upgrade.

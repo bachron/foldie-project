@@ -9,6 +9,10 @@
 
 > 📌 **Different platform from the T20.** The C Line is **not** a G Line. The T20 plan's fitment decisions (100/142 thru-axle, flat-mount discs, 31.8mm bar, WOOdman G Line headset, TPW G Line rack, 140mm centre-lock rotors, 11-50T cassette) **do not carry over.** Only the *approach* does.
 
+> ✅ **DECISION (23 Oct 2026): the wheelset is a 6-SPEED set, and this applies to every candidate bike and every part choice below.** Where a candidate has a different wheelset, the 6-speed set replaces it. The wheelset, rear triangle, chainring and derailleur choices all have to work together as a 6-speed system.
+>
+> ⏳ **One thing to pin down:** "6-speed" means two different systems on a Brompton. **(a) The stock Brompton 6-speed:** a Sturmey Archer 3-speed hub plus the 2-speed derailleur (BWR), stock 112mm rear, same family as bikes A, D and E. **(b) An external 6-/7-speed freehub set** (Hubsmith, Suncord, Silverock, SMC "7 speed" sets with a cassette such as the H&H 6-speed 12-28T). Both stay in the Brompton 112mm system. Tell me which; the Singapore prices for each are in `C_Line_Build_Options.md` §6.
+
 ---
 
 ## 1. Headline upgrades
@@ -25,6 +29,8 @@
 **Cost per gram saved (US$):** forks ~0.6-0.7 (best) · TiBi / Comeplay triangle ~1.2 · Comeplay / TiBi stems ~0.9-1.2 · UXN stems ~1.6-2.7 · genuine Brompton Ti triangle ~2.5.
 
 ### Rear spacing — decide this *before* ordering the triangle
+✅ **Resolved by the 6-speed decision:** the build stays in the Brompton **112mm** system. Path 2 below (custom 135mm triangle and 1x cassette) is dropped. The remaining check is that the Ti triangle carries the **derailleur / tensioner geometry and rear-wheel fit** a 6-speed needs; the tibicycles/COMEPLAY page states none of this, so ask.
+
 Research found a **stock Brompton is 112mm at the rear and 74mm at the front** (not 135mm). The tibicycles/COMEPLAY page gives **no spacing, dropout, eyelet or suspension-block info.** Two paths:
 1. **Stay in the Brompton system** (112mm, hub gears or Brompton-style 2-speed). Cheapest, lowest risk.
 2. **Custom 135/130mm triangle + hanger for a 1x cassette.** A custom triangle was quoted anecdotally at £400-725 (⚠️ unverified) and no builder was verified. This is the only route to the T20-style 11-50T low gear.
@@ -60,7 +66,7 @@ Research found a **stock Brompton is 112mm at the rear and 74mm at the front** (
 
 | Area | T20 / G Line choice | C Line translation (researched) |
 |---|---|---|
-| Gearing | 11-50T cassette + 48T ring (0.96:1 low) | Stock 50T ring → **44T (~12% easier, cheap)** in the Brompton hub system. A true 1x cassette needs the custom 135mm triangle |
+| Gearing | 11-50T cassette + 48T ring (0.96:1 low) | **6-speed system (decided).** Stock 50T ring → **44T (~12% easier, cheap)** in the Brompton hub system. A true 1x cassette needs the custom 135mm triangle |
 | Crank | Praxis Doon 335-342g | Brompton Superlight carbon 50T, £250 (~S$425); weight sources conflict (~767g); BB shell must be faced and re-tapped on C Line. Aftermarket cranks **not verified** |
 | Wheels | SMC carbon 945-1,045g | 349mm: SMC Lunate carbon ~880g pair; SMC + Hubsmith ~960g (B.Spokes, Joo Chiat); BZ alloy + Hubsmith 1,030g / S$599 on Carousell SG. Cheap step: Brompton Superlight front wheel 535g (saves ~115g, £121) |
 | Tyres | Conti Contact Urban 430g | Contact Urban 16" folding 205-285g (retailers disagree); Schwalbe One ~175g; Marathon Racer 240-280g; stock Marathon 420g |

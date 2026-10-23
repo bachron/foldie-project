@@ -93,6 +93,9 @@ Evidence for the first offer, with its quality:
 - Ask each seller for: serial and receipt, model code, weight, service history, whether a test ride, hinge-check and a stolen-check (Brompton registration) are fine.
 - Anything the seller lists "included" that this build **replaces anyway** (stem, fork, rear triangle, wheels, hub) is resale value: ask what they include and value it.
 
+## 6-speed wheelset decision (23 Oct 2026)
+The wheelset is a **6-speed set** for every candidate. **A, D, E** already have 6-speed bikes. **B** model is not stated. **C** (modded 2/3-speed, original 6-speed hubs and rims included) and **G** (3-speed, Hubsmith wheelset, 54T ring) both need their wheels replaced with a 6-speed set: add that to the offer math. Set options and prices are in `C_Line_Build_Options.md` §6.
+
 ## Singapore live-price check (Carousell, 23 Oct 2026)
 Read in the built-in browser; listing prices, not sold prices. Seller handles omitted. Everything ⚠️ unverified until you chat with the seller.
 
