@@ -1,6 +1,6 @@
 # Foldie Project — C Line Donor Shortlist (Carousell SG)
 
-Saved 23 Oct 2026 from the owner's screenshots (five complete bikes and one frame-only route). Listing details only; **no seller names, links or chat history are kept here because this repo is public.** Screenshots are stored locally in `private/screenshots/` (git-ignored, iMac only). Re-check each listing before acting: prices and availability change, and the owner has not seen any bike in person yet.
+Saved 23 Oct 2026 from the owner's screenshots (six complete bikes and one frame-only route). Listing details only; **no seller names, links or chat history are kept here because this repo is public.** Screenshots are stored locally in `private/screenshots/` (git-ignored, iMac only). Re-check each listing before acting: prices and availability change, and the owner has not seen any bike in person yet.
 
 Scoring method, inspection checklist and buy/pass rules: `C_Line_Used_Bike_Shortlist.md`. Part prices below use the Plan's rough rate of US$1 ≈ S$1.30.
 
@@ -13,6 +13,7 @@ Scoring method, inspection checklist and buy/pass rules: `C_Line_Used_Bike_Short
 | **C** | **Superlight** S6L-X, Black Edition, black lacquer | **3,883** | Lightly used | modded to 2/3-speed | **Yes — Superlight is a titanium fork + rear triangle model** (⚠️ confirm stem) | Not stated | bumped 2 weeks ago |
 | **D** | C Line Explore M6L, black lacquer | **2,200** | Like new | 6-speed | No | Offer box open (S$2,200 prefilled) | ~1 week ago |
 | **E** | C Line M6L special Black Edition, all-black components | **2,400** | Like new | 6-speed | No | Offer box open (S$2,400 prefilled) | **over 3 months ago** |
+| **G** | **Custom build, already has Ti fork + triangle** | **2,800** | Lightly used | 3-speed | **Yes** (Ti fork, Ti triangle, Ti hinge, Ti bolts) | Offer box open (S$2,800 prefilled) | bumped 15 hours ago |
 | **F** | **Main frame only**, black lacquer (build from scratch) | **1,299** | Like new | none | n/a | Not stated | **over 3 months ago** |
 
 ## A — C Line Explore S6R, Black Edition, black lacquer — S$2,099
@@ -51,6 +52,14 @@ Scoring method, inspection checklist and buy/pass rules: `C_Line_Used_Bike_Short
 - **Listed over 3 months ago** and still unsold: the strongest negotiation position among the complete bikes, and the highest ask of the C Line group. Ask why it has not sold.
 - Missing: service receipts, serial, which wheels/grips, weight. (Screenshot was sent inline; no file was saved locally, only these notes.)
 
+## G — Custom-built Brompton, 3-speed — S$2,800
+- Seller calls it "under utilized, custom built, black lacquer", 3-speed, lightly used, 32 likes, bumped 15 hours ago.
+- **Parts listed:** Chris King headset, Joseph Kuosac handlebar, Paul brake lever, Ergon grips, Ti Parts Workshop hinge, **Ti fork and triangle**, Hubsmith wheelset, H&H crank, **Ridea oval 54T ring**, MKS pedals, Token bottom bracket, upgraded Ti bolts and nuts.
+- **Why it matters:** it is close to the project's headline rebuild already done, and the parts are worth more than the ask. For scale, Carousell shows a new Hubsmith 7-speed alloy wheelset at S$1,330-1,568, an H&H Ti hinge clamp at S$160, and a Ti fork + triangle set at S$450-620. So S$2,800 for the whole bike could be good value. **Not verified:** which Ti fork and triangle brand (clone or genuine), the stem (not listed, so probably still steel), weights, which frame year, the condition of the base frame.
+- ⚠️ **Gearing mismatch with the plan:** the **54T ring is bigger than stock (50T)** and the opposite of the Plan's low-gear idea (44T for a child-seat rider). A 3-speed hub plus 54T is a tall gearing. Ask the ratios, and price a 44T swap (ring is a small cost).
+- ⚠️ **Child-seat checks** from the Plan still apply: the Joseph Kuosac bar and Ti fork were not tested with a Yepp Mini, and 54T/3-speed is a hill-climbing risk with a child aboard.
+- Ask: receipts for the Ti parts, weight, serial, the Ti triangle's rear spacing and whether the 3-speed hub is a Hubsmith external type, plus the stock parts' (steel fork, triangle, stem, wheels) availability.
+
 ## F — Main frame only, black lacquer — S$1,299 (the "build from scratch" route)
 - Listed by an official Brompton dealer (808 Cycles), like new, free delivery in 3-5 days, buyer protection, **over 3 months ago**, 36 likes. Photo shows the bare steel main frame only (no fork, rear triangle, stem or wheels).
 - Not stated: which line and year the frame is from (C Line, or something else), whether it carries a serial number and registration/warranty, whether it is a new take-off from a build or a used frame. **Ask before anything else:** serial, year, and whether the 7-year frame warranty transfers.
@@ -71,9 +80,10 @@ Scoring method, inspection checklist and buy/pass rules: `C_Line_Used_Bike_Short
 
 ## Quick read (not a verdict: nobody has inspected these)
 1. **D** is the cleanest paper trail and the easiest to anchor a negotiation on. **E** has the best negotiating position (3+ months unsold) but the highest ask.
-2. **B** is the cheapest; the unknowns (model, mods) decide it.
-3. **A** costs the most weight for the money (rack, roller rack, all steel) and the PPF hides the frame.
-4. **C** only makes sense if you want the genuine Ti parts and they come with the mods you want; otherwise buy a C Line and the Ti kit.
+2. **G** may be the best value on paper (Ti fork + triangle, Hubsmith wheels, H&H crank, Chris King headset, Paul levers already fitted for S$2,800), but it needs the gearing and stem fixed and every part verified.
+3. **B** is the cheapest; the unknowns (model, mods) decide it.
+4. **A** costs the most weight for the money (rack, roller rack, all steel) and the PPF hides the frame.
+5. **C** only makes sense if you want the genuine Ti parts and they come with the mods you want; otherwise buy a C Line and the Ti kit.
 
 ## Negotiation anchors
 Evidence for the first offer, with its quality:
