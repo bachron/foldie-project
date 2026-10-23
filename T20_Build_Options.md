@@ -1,4 +1,4 @@
-# HEXATI T20 Build — Parts Options Tracker
+# Foldie Project — HEXATI T20 / G Line Build — Parts Options Tracker
 
 Minimum of 3 options tracked per part. ✅ = current pick.
 

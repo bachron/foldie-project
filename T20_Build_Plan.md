@@ -1,4 +1,4 @@
-# HEXATI T20 Build Plan
+# Foldie Project — HEXATI T20 / G Line Build Plan
 
 **Base bike:** HEXATI T20 — titanium tri-fold 20" gravel-style folding bike, positioned as a Brompton G Line alternative.
 **Rider priorities:** general city use with a front child seat, easier low gears over top speed, weight-conscious throughout, prefers Singapore-based sellers where possible.
