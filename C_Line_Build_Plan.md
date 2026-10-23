@@ -51,7 +51,8 @@ Research found a **stock Brompton is 112mm at the rear and 74mm at the front** (
 - **Serial:** 10 digits, first four are year then month (1903220161 = March 2019).
 - **Price anchors:** UK eBay sold ~£650-1,090 for used C Lines; Singapore used prices are **not verified** (my estimates: pre-C 6-speed S$1,000-1,600; 2021+ C Line S$1,600-2,300 ⚠️).
 - **Resale offsets:** sell the replaced steel stem, fork and triangle plus the stock wheels and hub.
-- Candidate scoring sheet, inspection checklist and buy/pass rules are in `C_Line_Used_Bike_Shortlist.md`. **Paste your candidates into chat and I will score them.**
+- **Shortlisted candidates, the frame-only "build from scratch" route and live Singapore prices are in `C_Line_Donor_Shortlist.md`.**
+- Candidate scoring sheet, inspection checklist and buy/pass rules are in `C_Line_Used_Bike_Shortlist.md`. 
 
 ---
 
@@ -88,7 +89,7 @@ References: WeightWeenies C Line at 8.88kg on a stock frame (parts list unseen);
 
 ## 6. Open decisions / next steps
 
-- [ ] **Send me your used-bike candidates** (model, year, price, photos / link, any serial) for scoring
+- [ ] Contact sellers on the shortlist (`C_Line_Donor_Shortlist.md`): serial, receipt, model code, mods list, weight
 - [ ] Choose donor: pre-C vs C Line; check stem lock design (cone vs wedge) and 2018+ calipers
 - [ ] **Decide rear spacing:** stay at 112mm Brompton system vs custom 135mm 1x (needs a builder)
 - [ ] Ask tibicycles / COMEPLAY for the rear triangle's **OLN, hanger, eyelets, suspension-block interface and pivot bore** before paying
