@@ -115,6 +115,7 @@ Your spider is **110 BCD, 5-arm**, so rings must be 110 BCD **5-bolt**.
 | **AbsoluteBlack** | 110, 5-bolt | ❌ Not found above 52T | 50T = 118g, 52T = 133g | Premium | Oval and round, but the range stops short of 54T |
 | **Wolf Tooth** | 110, 5-bolt | ❌ **No 54T in 5-bolt** | 50T = 125g, 52T = 143g | — | Tops out at 52T in this fitment |
 | **Praxis** | 110 | ❌ **46T max** | — | — | Doesn't offer 54T |
+| **Digirit carbon** | **130 × 5** listed ("110 not confirmed") | ✅ 44-58T listed (a 56T ring is fitted on Carousell donor C) | — (est. ~50g at 44T, from the Lightworks 44T 45g plus margin; not published) | ~US$245 (~S$319), Fantastic4Toys, **sold out** | ⚠️ **Fits a 110 spider only if Digirit makes a 110 BCD 5-bolt version, which is not confirmed. The 130 option will not fit your 5-arm Lightworks spider.** Logged from the C Line parts list for the G / T20 build; ask F4T for a 110 BCD size before counting it. Also see donor C in `C_Line_Donor_Shortlist.md`, which includes a Digirit 56T ring |
 | **Ridea LF** | **130** | ✅ but wrong BCD | 120g | ~US$142 (~S$185) | ❌ **130 BCD — won't fit a 110 spider** |
 | **e*thirteen UL** | Direct mount | ❌ MTB sizes ~30-38T | — | — | ❌ No 54T, and DM only |
 | **Rotor 1x DM Spidering** | Direct mount (Aldhu) | ✅ **38-54T** | — | — | Combined spider+ring in one 7075 unit. Only viable if you also switch to a Rotor Aldhu crank |
