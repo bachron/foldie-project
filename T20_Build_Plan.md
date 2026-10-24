@@ -165,6 +165,9 @@ Spider is **110 BCD, 5-arm** — rings must be 110 BCD **5-bolt**.
 ### Cassette — ✅ Nuton Cycling null¹ MTB 12S/HG 11-50T (**286g**, official)
 - Chose to keep HG freehub/cassette instead of Micro Spline, while retaining the XT M8100 derailleur/shifter
 
+### Cassette option added 24 Oct 2026 — Neutron Lightweight 11-speed (MK2), 138g (11-28T) / 160g (11-32T), US$239
+- Lighter than the Nuton by ~126-148g but tops out at 32T, so the 48T/11-50T low gear (0.96:1) would become 1.5:1 unless the chainring drops to ~32-34T. Needs an 11-speed derailleur/shifter. Details: `T20_Build_Options.md` Cassette section. Not yet confirmed as the switch.
+
 ### Chain — KMC 11-speed (from earlier reference spec; may need revisiting for 12-speed XT compatibility)
 
 ### Headset — ⏳ Not yet decided
