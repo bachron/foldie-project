@@ -8,8 +8,8 @@ Scoring method, inspection checklist and buy/pass rules: `C_Line_Used_Bike_Short
 
 | | Model (as listed) | Ask (S$) | Condition | Gears | Already has Ti parts? | Upgrades | Remarks |
 |---|---|---|---|---|---|---|---|
-| **A** | [C Line Explore Low Bar + Rack / S6R, Black Edition, black lacquer, PPF-wrapped](https://www.carousell.sg/p/brompton-c-line-explore-low-bar-with-rack-s6r-black-edition-black-lacquer-ppf-wrapped-since-day-1-1464440833/) | **2,099** | Lightly used | 6-speed | No | TBD | — |
-| **B** | [C Line, black lacquer ("dark bronze"), "urgently need to sell"](https://www.carousell.sg/p/brompton-c-line-black-lacquer-urgently-need-to-sell%E2%80%BC%EF%B8%8F-1448157771/) | **2,000** | Like new | 6-speed (assumed) | No | TBD | — |
+| **A** | [C Line Explore Low Bar + Rack / S6R, Black Edition, black lacquer, PPF-wrapped](https://www.carousell.sg/p/brompton-c-line-explore-low-bar-with-rack-s6r-black-edition-black-lacquer-ppf-wrapped-since-day-1-1464440833/) | **2,099** | Lightly used | 6-speed | No | None | — |
+| **B** | [C Line, black lacquer ("dark bronze"), "urgently need to sell"](https://www.carousell.sg/p/brompton-c-line-black-lacquer-urgently-need-to-sell%E2%80%BC%EF%B8%8F-1448157771/) | **2,000** | Like new | 6-speed (assumed) | No | • Not listed (seller only says "some modification… in the photos")<br>• Photos show black platform pedals and a hub-only rear (no derailleur visible) | — |
 | **D** | [C Line Explore M6L, black lacquer](https://www.carousell.sg/p/brompton-c-line-explore-black-lacquer-m6l-6-speed-1467554174/) | **2,200** | Like new | 6-speed | No | • 44T chainring | — |
 | **E** | [C Line M6L special Black Edition, all-black components](https://www.carousell.sg/p/brompton-folding-bike-black-edition-black-lacquer-1429057209/) | **2,400** | Like new | 6-speed | No | • Upgraded wheels<br>• Upgraded grips | — |
 | **G** | [2021 Brompton M6L black lacquer, C Line Explore Black Edition, with H&H components](https://www.carousell.sg/p/2021-brompton-m6l-black-lacquer-c-line-explore-black-edition-folding-bike-foldable-trifold-bicycle-with-h-h-components-1459226577/) | **1,700** | Lightly used | 6-speed | No | • H&H hinge clamps<br>• H&H coil rear shock<br>• DMR 25th Anniversary saddle<br>• Ergon grips | — |
@@ -32,6 +32,7 @@ Scoring method, inspection checklist and buy/pass rules: `C_Line_Used_Bike_Short
 - Dark bronze, bought 2024, rarely used, "ready for its next owner". Listed as a **fixed price** but the description says **price negotiable**: treat as negotiable and ask.
 - "Some modification has been included such as in the photos" — **ask exactly which parts** (no Ti parts: no Ti stem, triangle or fork). 44 likes, "7 people also want this" (pressure, not a reason to rush).
 - **Treated as 6-speed** for this build; the listing does not say, so confirm the gear count with the seller. Missing: model code (M/S/H), service history, serial, receipt.
+- **Photo check (Claude, not stated by the seller):** the rear wheel shows a hub with a pull-rod and chain tensioner and no rear derailleur, so this may be a 2- or 3-speed rather than a 6-speed. Black platform pedals are fitted. Confirm both with the seller.
 - Cheapest of the four, so a good first message: ask for model code, serial, mods list, weight if weighed.
 
 ## [D — C Line Explore M6L, black lacquer — S$2,200](https://www.carousell.sg/p/brompton-c-line-explore-black-lacquer-m6l-6-speed-1467554174/)
