@@ -16,7 +16,7 @@ Scoring method, inspection checklist and buy/pass rules: `C_Line_Used_Bike_Short
 | **G** | [**Custom build, already has Ti fork + triangle**](https://www.carousell.sg/p/brompton-folding-bike-custom-build-1444221621/) | **2,800** | Lightly used | 3-speed | **Yes** (Ti fork, Ti triangle, Ti hinge, Ti bolts) | Offer box open (S$2,800 prefilled) | bumped 15 hours ago |
 | **F** | [**Main frame only**, black lacquer (build from scratch)](https://www.carousell.sg/p/brompton-main-frame-black-lacquer-1433478217/) | **1,299** | Like new | none | n/a | Not stated | **over 3 months ago** |
 | **H** | [2021 Brompton M6L black lacquer, C Line Explore Black Edition, with H&H components](https://www.carousell.sg/p/2021-brompton-m6l-black-lacquer-c-line-explore-black-edition-folding-bike-foldable-trifold-bicycle-with-h-h-components-1459226577/) | **1,700** | Lightly used | 6-speed | No Ti seen; H&H hinge clamps, H&H coil rear shock | Offer box open (S$1,700 prefilled) | ~1 month ago |
-| **I** | [Brompton S6LX Super Light, Black](https://www.carousell.sg/p/brompton-s6lx-super-light-1209297248/) | not captured | not captured | 6-speed (S6LX) | Yes: Superlight has a titanium fork and rear triangle (⚠️ confirm stem) | not captured | added 25 Oct 2026 |
+| **I** | [Brompton S6LX Super Light, Black](https://www.carousell.sg/p/brompton-s6lx-super-light-1209297248/) | not captured | not captured | 4-speed external (DCCH, 11/13/17/21T), 56T ring | **Yes** (Superlight Ti fork + triangle, plus Ti seatpost, bar, pedals, hinge, QR) | Has Buy / Add to Cart buttons, so probably fixed price | not captured |
 
 ## [A — C Line Explore S6R, Black Edition, black lacquer — S$2,099](https://www.carousell.sg/p/brompton-c-line-explore-low-bar-with-rack-s6r-black-edition-black-lacquer-ppf-wrapped-since-day-1-1464440833/)
 - All-steel 6-speed, low (S) bar, **rear roller rack**; delivery by mover about S$35 (struck down from S$67).
@@ -88,10 +88,12 @@ Scoring method, inspection checklist and buy/pass rules: `C_Line_Used_Bike_Short
 - Ask: the **full upgrade list and receipts**, the weight, serial, service history, whether the seller will drop the price and what is included in the sale.
 
 ## [I — Brompton S6LX Super Light, Black](https://www.carousell.sg/p/brompton-s6lx-super-light-1209297248/)
-- Added 25 Oct 2026 from the listing link only (saved in the owner's Likes). **Price, condition, mods and photos not captured yet** (Carousell blocks our tools); fill in from the listing.
-- Title says **S6LX Super Light**: the same Superlight family as C (titanium fork and rear triangle, 6-speed, X = extra-light spec). Compare it with C (S$3,883) once the price is known.
-- The listing ID is older than the other entries (1209... vs 1429... to 1467...), so it may have been up for a long time: check it is still available and ask why it has not sold.
-- Ask: price, the weight as it stands, stem material, serial, service history, any mods.
+- Seller writes **"M6LX black edition"** in the description while the title says S6LX Super Light: confirm the model code. 49 likes, one-line shipping/price not captured; the page has **Buy and Add to Cart** buttons (no offer box seen), so likely a fixed price.
+- **Mods listed (screenshot may cut off the end of the list):** Cane Creek crank and brakes (tie dye), **SMC carbon wheels with Hubsmith hubs**, **DCCH external 4-speed** with a Shimano cog set (11/13/17/21T), **Digirit 56T carbon chainring**, **Ti Parts titanium seatpost (600 mm)**, **Ti Parts flat titanium handlebar**, Ti Parts X pedals, Ti quick release, **Ti Parts hinge and lever**, Ti Parts carbon rack (taken off, seller will include), Brooks C17 centre-cut saddle, Paul component lever, microSHIFT shifter, Spur Cycle bell, **Chris King headset**.
+- Stem: **modified to S (original stem)**, and the seller still has the M stem. Ask which stem material and whether the M stem comes with it.
+- Why it matters: this is the closest listing to the Plan's headline build (Ti seatpost, Ti bar, Ti hinge, carbon wheels, Chris King headset all done) next to G. It overlaps the whole parts budget, so price it against buying the parts one by one.
+- ⚠️ **Gearing mismatch with the plan:** a **56T ring** on an 11-21T cassette is a tall, 4-speed gear range, the opposite of the low-gear idea for a child-seat rider (see G). Check the lowest gear and the cost of swapping the ring and cassette.
+- Ask: price, weight as it stands, receipts for the Ti and carbon parts, serial, service history, what is included (the rack, the M stem), and whether the original gearing parts exist.
 
 ## Quick read (not a verdict: nobody has inspected these)
 1. **D** is the cleanest paper trail and the easiest to anchor a negotiation on. **E** has the best negotiating position (3+ months unsold) but the highest ask.
