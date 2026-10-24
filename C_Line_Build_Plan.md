@@ -9,6 +9,8 @@
 
 > 📌 **Different platform from the T20.** The C Line is **not** a G Line. The T20 plan's fitment decisions (100/142 thru-axle, flat-mount discs, 31.8mm bar, WOOdman G Line headset, TPW G Line rack, 140mm centre-lock rotors, 11-50T cassette) **do not carry over.** Only the *approach* does.
 
+> ✅ **Update 25 Oct 2026: Jagwire confirmed for the brake line cover (cable housing); kit model not chosen.** Parts Book artifact (private): https://claude.ai/artifact/Jga26EY9GJLgF9oPCTejtZ
+>
 > ✅ **Update 24 Oct 2026: owner is fine with 7 gears (Neutron B7 7-speed cassette, own external drivetrain).**
 >
 > ✅ **DECISION (23 Oct 2026): the wheelset is a 6-SPEED set, and this applies to every candidate bike and every part choice below.** Where a candidate has a different wheelset, the 6-speed set replaces it. The wheelset, rear triangle, chainring and derailleur choices all have to work together as a 6-speed system.
