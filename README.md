@@ -10,4 +10,4 @@ Each build has its own plan and parts tracker. Child seats and their mounts are 
 
 Handoffs live in `docs/handoffs/`.
 
-> The GitHub repo and folder are still named `t20-g-line`; only the project name changed.
+> The GitHub repo and folder are named `foldie-project` (renamed from `t20-g-line` on 2026-10-24).

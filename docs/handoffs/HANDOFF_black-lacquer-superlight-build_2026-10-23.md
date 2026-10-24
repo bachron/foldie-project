@@ -26,7 +26,7 @@ Rename the project to Foldie Project (scope now: folding bikes in general), keep
 4. Confirm the Ti rear triangle (tibicycles/COMEPLAY) rear spacing, derailleur/tensioner geometry, eyelets and pivot bore with the seller.
 5. Child-seat checks: measure the Brompton stem tube against the Yepp Mini's 20-28mm range; Ti stem wall (UXN is 1.2mm) vs seat clamp; 150mm free seatpost for the Nexxt 2 Maxi.
 6. Follow-up research still open: aftermarket cranks and chainring BCD, Extralite levers, brake pads, H&H / Silverock / Aceoffix product pages (none found), frame generation of each donor (Mk5 or older vs 2025+ "Advance" rear).
-7. Optional: rename the GitHub repo and folder to `foldie-project`; rename "T20 Bike Builder" in Brain Studio's `studio.json` (the report script has no rename option).
+7. DONE 2026-10-24: repo and folders renamed to `foldie-project`. Rename "T20 Bike Builder" in Brain Studio's `studio.json` (the report script has no rename option).
 
 ## Broken / failed approaches (don't repeat)
 - Carousell, eBay, Facebook Marketplace, BikeForums and WeightWeenies blocked WebSearch/WebFetch (403). **The built-in browser reads Carousell fine** (search pages and `a[href*="/p/"]` links via `javascript_tool`).
