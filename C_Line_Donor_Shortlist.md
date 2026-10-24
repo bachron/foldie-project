@@ -6,16 +6,16 @@ Scoring method, inspection checklist and buy/pass rules: `C_Line_Used_Bike_Short
 
 ## Shortlist at a glance
 
-| | Model (as listed) | Ask (S$) | Condition | Gears | Already has Ti parts? | Listed | Remarks |
+| | Model (as listed) | Ask (S$) | Condition | Gears | Already has Ti parts? | Upgrades | Remarks |
 |---|---|---|---|---|---|---|---|
-| **A** | [C Line Explore Low Bar + Rack / S6R, Black Edition, black lacquer, PPF-wrapped](https://www.carousell.sg/p/brompton-c-line-explore-low-bar-with-rack-s6r-black-edition-black-lacquer-ppf-wrapped-since-day-1-1464440833/) | **2,099** | Lightly used | 6-speed | No | ~3 weeks ago | — |
-| **B** | [C Line, black lacquer ("dark bronze"), "urgently need to sell"](https://www.carousell.sg/p/brompton-c-line-black-lacquer-urgently-need-to-sell%E2%80%BC%EF%B8%8F-1448157771/) | **2,000** | Like new | 6-speed (assumed) | No | bumped 2 weeks ago | — |
-| **D** | [C Line Explore M6L, black lacquer](https://www.carousell.sg/p/brompton-c-line-explore-black-lacquer-m6l-6-speed-1467554174/) | **2,200** | Like new | 6-speed | No | ~1 week ago | — |
-| **E** | [C Line M6L special Black Edition, all-black components](https://www.carousell.sg/p/brompton-folding-bike-black-edition-black-lacquer-1429057209/) | **2,400** | Like new | 6-speed | No | **over 3 months ago** | — |
-| **G** | [2021 Brompton M6L black lacquer, C Line Explore Black Edition, with H&H components](https://www.carousell.sg/p/2021-brompton-m6l-black-lacquer-c-line-explore-black-edition-folding-bike-foldable-trifold-bicycle-with-h-h-components-1459226577/) | **1,700** | Lightly used | 6-speed | No | ~1 month ago | — |
-| **F** | [**Custom build, already has Ti fork + triangle**](https://www.carousell.sg/p/brompton-folding-bike-custom-build-1444221621/) | **2,800** | Lightly used | 3-speed | Fork, triangle | bumped 15 hours ago | — |
-| **H** | [**Main frame only**, black lacquer (build from scratch)](https://www.carousell.sg/p/brompton-main-frame-black-lacquer-1433478217/) | **1,299** | Like new | none | No | **over 3 months ago** | — |
-| **I** | [**Superlight** S6L-X, Black Edition, black lacquer](https://www.carousell.sg/p/brompton-superlight-black-lacquer-black-edition-1462118241/) | **3,883** | Lightly used | 2/3-speed (modded) | Fork, triangle, stem | bumped 2 weeks ago | — |
+| **A** | [C Line Explore Low Bar + Rack / S6R, Black Edition, black lacquer, PPF-wrapped](https://www.carousell.sg/p/brompton-c-line-explore-low-bar-with-rack-s6r-black-edition-black-lacquer-ppf-wrapped-since-day-1-1464440833/) | **2,099** | Lightly used | 6-speed | No | TBD | — |
+| **B** | [C Line, black lacquer ("dark bronze"), "urgently need to sell"](https://www.carousell.sg/p/brompton-c-line-black-lacquer-urgently-need-to-sell%E2%80%BC%EF%B8%8F-1448157771/) | **2,000** | Like new | 6-speed (assumed) | No | TBD | — |
+| **D** | [C Line Explore M6L, black lacquer](https://www.carousell.sg/p/brompton-c-line-explore-black-lacquer-m6l-6-speed-1467554174/) | **2,200** | Like new | 6-speed | No | • 44T chainring | — |
+| **E** | [C Line M6L special Black Edition, all-black components](https://www.carousell.sg/p/brompton-folding-bike-black-edition-black-lacquer-1429057209/) | **2,400** | Like new | 6-speed | No | • Upgraded wheels<br>• Upgraded grips | — |
+| **G** | [2021 Brompton M6L black lacquer, C Line Explore Black Edition, with H&H components](https://www.carousell.sg/p/2021-brompton-m6l-black-lacquer-c-line-explore-black-edition-folding-bike-foldable-trifold-bicycle-with-h-h-components-1459226577/) | **1,700** | Lightly used | 6-speed | No | • H&H hinge clamps<br>• H&H coil rear shock<br>• DMR 25th Anniversary saddle<br>• Ergon grips | — |
+| **F** | [**Custom build, already has Ti fork + triangle**](https://www.carousell.sg/p/brompton-folding-bike-custom-build-1444221621/) | **2,800** | Lightly used | 3-speed | Fork, triangle | • Chris King headset<br>• Joseph Kuosac handlebar<br>• Paul brake lever<br>• Ergon grips<br>• Ti Parts Workshop hinge<br>• Ti22 fork and triangle<br>• Hubsmith wheelset<br>• H&H crank<br>• Ridea oval 54T ring<br>• MKS pedals<br>• Token bottom bracket<br>• Ti bolts and nuts | — |
+| **H** | [**Main frame only**, black lacquer (build from scratch)](https://www.carousell.sg/p/brompton-main-frame-black-lacquer-1433478217/) | **1,299** | Like new | none | No | None | — |
+| **I** | [**Superlight** S6L-X, Black Edition, black lacquer](https://www.carousell.sg/p/brompton-superlight-black-lacquer-black-edition-1462118241/) | **3,883** | Lightly used | 2/3-speed (modded) | Fork, triangle, stem | • 2/3-speed conversion<br>• Bumble Bee alloy wheelset<br>• Swiss/DT-type shifter<br>• Compact EZ pedals<br>• Joseph Kuosac bar<br>• H&H hinge clamps<br>• Third-party titanium stem | — |
 
 **Remarks** tracks the negotiation. Use one of: **1. Arrange for viewing** · **2. Viewed** · **3. Nego (price offered)** · **4. Reject / counter offer (price)**. "—" means not started. Example: `3. Nego S$2,000`.
 
