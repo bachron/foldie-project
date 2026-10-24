@@ -97,6 +97,13 @@ Other: Kinetics (UK custom builder) offers steel Columbus Zona forks (£295, sam
 
 Carbon: no aftermarket carbon 16" Brompton fork found. Brompton T Line uses a one-piece carbon fork + steerer with magnetic pedal holder and an integrated headset (https://condorcycles.com/products/brompton-t-line-one-2024-folding-bike-1-speed). Not a drop-in for C Line (threaded 1-1/8" steerer vs T Line integrated). Weight of the T Line fork alone not published (⚠️ unverified). The earlier brief says "carbon steerer/fork fine for the child seat"; the practical answer is that there is no usable carbon option for a C Line frame. Schmolke makes carbon Brompton parts, but no fork was listed in the sources found.
 
+#### Carbon fork to explore: Aceoffix T1 (untested, dimensions unknown)
+Owner's lead (25 Oct 2026): use the carbon fork from the **Aceoffix T1** (also sold as the C5, a Brompton T Line-style clone with a carbon fork; see `Aceoffix_C5_T1_Build_Plan.md`) as the C Line carbon fork option. **Nobody has tested it on a C Line and its dimensions are not known.**
+- **Two generations, per the owner:** the **older Aceoffix fork works normally** (conventional shape). The **newer one has the Mk2 / T Line fork look**, so it may follow T Line geometry rather than the classic C Line fork. Which generation is sold today, and on which bikes, is not confirmed.
+- **Main risk:** the C Line takes a threaded 1-1/8" steerer and a 74 mm rim-brake fork. A T Line-style fork may use a different steerer, headset, brake-mount position or offset (see the T Line note above), so the newer one may not be a drop-in.
+- **To get from the seller before buying (in writing):** which generation; steerer diameter, length and thread (or not); brake type and mount spacing (rim 74 mm vs disc); fork length (axle to crown race) and offset; dropout width (100 mm); weight; crown race seat size; rider weight limit and whether a child seat is allowed. Ask for a photo of the fork next to a ruler, or buy only one to measure first.
+- Status: ⚠️ unverified. Not ranked in the table above until dimensions are known.
+
 #### Fit unknowns for every aftermarket fork (ask seller)
 
 - Steerer length and threaded vs non-threaded (Brompton uses a threaded 1-1/8" steerer; TiBi quotes 138.5 mm).
