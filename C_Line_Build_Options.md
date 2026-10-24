@@ -664,3 +664,37 @@ Decision: **the wheelset is a 6-speed set** (see the Plan's decision note). Pric
 - **Chainring:** keep the 44T idea (~12% easier than stock 50T) with a 6-speed. Candidate **G has a 54T ring**, which is the opposite direction; plan a swap.
 - **Brake surface:** every set listed is rim-brake only. Carbon rims need carbon-specific pads.
 - **Suspension block:** H&H DT TPU suspension block for A/C Line 2/3/6-speed is S$100 new, a possible small upgrade.
+
+---
+
+# 7. 16" (349) carbon wheelset shortlist: Light Bicycle, SMC Plume, SMC Lunate (24 Oct 2026)
+
+Asked for: **Light Bicycle**, **SMC Plume** and "**Lunatee**". ⚠️ No product called "Lunatee" exists in any search; I read it as **SMC Lunate** (please confirm). All figures are vendor claims from product pages on 24 Oct 2026, not weighed. USD unless stated. All three are rim-brake carbon: use carbon pads (Swissstop Black Prince / Flash Evo).
+
+**Key fit fact (decides the shortlist):** the 6-speed decision means the rear wheel must be one of (a) the stock Brompton 3-speed hub + BWR derailleur (SMC sells only a **rear rim** you lace onto your own hub) or (b) an external 6/7-speed freehub set (cassette 12-28T).
+
+| | Light Bicycle RF621 | SMC Plume (6-speed, CW2FR) | SMC Plume (3/4-speed or 7-speed, CW2) | SMC Lunate (7-speed, CW3) |
+|---|---|---|---|---|
+| Type | Complete wheelset | Front wheel + **rear rim only** (you supply/relace the stock hub) | Complete wheelset, Hubsmith (ext. 2-4 speed) or RHET (7-speed) | Complete wheelset, RHET ratchet hub |
+| Weight | 816 g pair (rims 225 g each, ±3%) | front ~295 g + rear rim ~190 g (labels unconfirmed) | ~760-780 g pair (SMC page says "from 680 g") | 880 ±25 g pair |
+| Price | from US$605 (incl. $80 transfer) | US$765 | US$998 (3/4-speed), US$1,198 (7-speed) at Fantastic4Toys; S$1,350 at B.Spokes (sold out) | US$1,198 |
+| Rim | 30 mm deep, 21 mm inner, 20H, tubeless-ready | 22 mm deep, 19 mm inner / 25 mm outer | 22 mm deep, 14H front / 20H rear | 38 mm deep, 19/25 mm |
+| Rider limit | 130 kg | **100 kg** | not stated | 120 kg |
+| Hub | Light Bicycle BR01, 74/112 mm, **Shimano 5/7-speed freehub only**; other hubs by custom order | Stock Brompton rear hub | Hubsmith (ceramic) or RHET | RHET (ceramic) |
+| Tubeless | yes | "clincher or tubeless" | sources disagree (custom order) | clincher |
+| Warranty | 3 years | 5 years | 5 years | 5 years |
+| Lead time | ~3 days (default), 4 weeks custom | 15-20 days if not in stock | similar | similar |
+
+**Reading it against the 6-speed rule**
+1. **SMC Plume 6-speed (CW2FR), US$765, ~485 g for the front wheel + rear rim:** the only option that keeps the true stock 6-speed (3-speed hub + BWR). Lightest, but the 100 kg limit matters because of the rear child seat (rider + seat + child). ⚠️ The page does not mention BWR compatibility; ask SMC.
+2. **SMC Plume 7-speed (CW2), US$1,198 or the 3/4-speed Hubsmith set ~US$998:** lightest *complete* set (~780 g) for the external-freehub reading of "6-speed" (run 12-28T cassette). Same rider-limit question.
+3. **SMC Lunate 7-speed (CW3), US$1,198:** heavier (880 g) and deeper (38 mm), 120 kg limit. Same price as Plume 7-speed for ~100 g more, so only worth it if the load limit decides.
+4. **Light Bicycle RF621, from US$605:** cheapest complete set and highest rider limit (130 kg), but only a Shimano 5/7-speed freehub is listed, so it is a route (b) set only. No Brompton-hub option unless they build to order. Pair weight 816 g is close to Plume. US$605 includes an $80 warehouse transfer; shipping/duty to Singapore not checked.
+
+**Singapore:** B.Spokes (Joo Chiat) listed the Plume 3/4-speed at S$1,350 (was S$1,450), sold out; WhatsApp +65 6910 6333. Carousell has a Plume at S$1,387 (new listing seen via search). Compare against ordering direct from SMC (US$998) plus shipping.
+
+**Questions for the sellers**
+- SMC: does CW2FR work with the BWR (3-speed hub + 2-speed derailleur) set-up? Rear rim only: do they lace it for me, and who supplies the hub? Is the 100 kg Plume limit firm with a child seat?
+- Light Bicycle: can they build the RF621 rear on a Brompton 3-speed hub or Hubsmith 6-speed? Confirm shipping and duty to Singapore.
+
+**Sources:** [Light Bicycle RF621](https://www.lightbicycle.com/rf621-16inch-carbon-wheelset-for-brompton-bike.html) · [SMC Plume 6-speed](https://www.speedminicycle.com/mini-wheels/16-inch-349-carbon-wheels/16-inch-349-plume-super-light-carbon-wheels-for-brompton-6-speed.html) · [SMC Plume 2-4/7-speed](https://www.speedminicycle.com/use-for/brompton/plume-16-inch-349-super-light-22mm-carbon-wheels-for-brompton-external-2-3-4-speed.html) · [SMC Lunate CW3](https://www.speedminicycle.com/use-for/brompton/lunate-349-cw3-16-inch-349-38mm-carbon-wheels-for-brompton-ratchet-system-7-speed.html) · [B.Spokes Plume](https://www.b-spokes.co/products/smc-16349-plume-carbon-wheel) · [Fantastic4Toys Plume](https://www.fantastic4toys.com/products/smc-16-340-plume-carbon-lightweight-wheelset-for-brompton-bicycle)
