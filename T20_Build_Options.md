@@ -154,7 +154,7 @@ With the 11-50T cassette on 20×2.0 tyres (~506mm wheel):
 | Option | Weight | Notes |
 |---|---|---|
 | ✅ **Nuton Cycling null¹ MTB 12S/HG 11-50T** | **286g** (official; 11-46T 275g). ¥28,600 | Locked in. HG freehub retained |
-| 🆕 **Neutron Lightweight 11-speed cassette (MK2)** | **138g (11-28T) / 160g (11-32T)**, ex lockring. US$239 | Added by owner 24 Oct 2026. Shimano HG Road 11-speed, CNC steel + 7075 alloy big cog, PVD. **Sold while stock lasts, no restock planned.** Saves ~126-148g vs the Nuton. ⚠️ Conflicts with the locked 48T ring + 11-50T plan: see note below. [neutron.bike](https://www.neutron.bike/products/lightweight-11-speed-cassette-neutron-mk2) |
+| 🆕 **Neutron Lightweight 11-speed cassette (MK2)** | **138g (11-28T) / 160g (11-32T)**, ex lockring. US$239 | Added to list only (owner 24 Oct 2026); T20 decisions on hold. Shimano HG Road 11-speed, sold while stock lasts. [neutron.bike](https://www.neutron.bike/products/lightweight-11-speed-cassette-neutron-mk2) |
 | **Lightweight cassette** `[8.3kg ref]` | **230g** | The 8.3kg build's cassette (model not stated) — a useful target number to weigh yours against |
 
 ## Wheelset
@@ -984,9 +984,3 @@ Everything here is **tracked, not being purchased now**. "?" means the part you 
 | Carbon-Ti 54T chainring | 110 × **4-arm** — your spider is 5-arm |
 | Wolf Tooth / AbsoluteBlack 54T | Neither makes 54T in 110 BCD 5-bolt |
 | H&H handlebars | 25.4mm clamp — G Line reference is 31.8mm |
-
-## Neutron 11-speed cassette: what it changes (24 Oct 2026)
-
-The Neutron is 11-speed with a 28T or 32T biggest cog, not 11-50T. Lowest gear on the 20" wheel (~506 mm) by chainring, 32T cog: **48T = 1.50:1** (was 0.96:1 with 11-50T and 48T, a big step harder), 40T = 1.25:1, 36T = 1.13:1, 34T = 1.06:1, 32T = 1.00:1. To keep roughly the 0.96-1.0:1 low gear the 11-50T build was chosen for, a 32-34T chainring would be needed, which also lowers the top gear (11T cog: 34T ring = 3.1:1 vs 4.4:1 with 48T). With a child seat and hills, check gearing before dropping the Nuton.
-- **Drivetrain match:** an 11-speed cassette needs an 11-speed chain (KMC 11-speed is already in the plan), shifter and derailleur. The XT M8100 is 12-speed, so the 11-speed route (microSHIFT Advent or similar, see the 11/12-speed section) now applies. A road-style 11-32T needs a derailleur rated for a 32T cog.
-- **Status:** added as an option; the Nuton 11-50T stays marked locked until the owner confirms the switch, the chainring and the derailleur.
