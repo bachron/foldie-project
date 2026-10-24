@@ -719,3 +719,13 @@ From [neutron.bike](https://www.neutron.bike/products/lightweight-7-speed-casset
 - **Gearing:** with a 44T chainring the low gear is 44/30 = 1.47:1 (the 11T top is 4:1).
 - **T20 / G Line build:** not changed. It runs a 12-speed HG cassette (Nuton null¹ 11-50T) on 20" wheels; a Brompton 7-speed cassette does not apply there.
 - **Ask Neutron:** shipping to Singapore, tooth-by-tooth weight, and whether it clears the Ti rear triangle/derailleur on a 112 mm hub.
+
+## 7c. SMC 349-CW1FR-25 front wheel + rear rim (owner's current lean, 24 Oct 2026)
+
+[Product page](https://www.speedminicycle.com/mini-wheels/16-inch-349-carbon-wheels/product/view/18/206.html), listed "for Brompton internal 6-speed". **US$575** for one front wheel + one **rear rim** (29 spokes, 32 nipples, titanium front axle, rim tape, Swissstop Black Prince Flash Evo pads). Warranty 5 years; 15-20 days to produce if not in stock.
+- **Weights:** front wheel 330-340 ±15 g (page gives both), rear rim 240 ±10 g, so ~570-580 g before the rear hub.
+- **Max load: 120 kg / 265 lb** (higher than Plume's 100-110 kg).
+- **Rim:** 18.4 mm inner / 25 mm outer, ERD 308 mm, clincher, 25-47 mm tyres, Presta, 130 psi max. ⚠️ Depth is inconsistent on the page: title and code say 25 mm, spec table says 30 mm (and a "CW1FR-30" model number). Ask SMC.
+- **Front hub:** Hubsmith, 74 mm, black/red/silver; ceramic bearings +US$27.
+- **Rear:** rim only. The page lists the Brompton original rear hub and no freehub option. ⚠️ The owner runs a **Shimano HG external drivetrain with the Neutron B7**, so the rear rim must be laced onto a 112 mm HG freehub hub by the dealer (spoke length depends on that hub; ERD 308 mm). Ask the dealer for the price of the rear build and which hub.
+- **Next:** owner to ask the Singapore dealer for his price on this front wheel + rear rim set.
