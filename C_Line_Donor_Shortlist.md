@@ -16,6 +16,7 @@ Scoring method, inspection checklist and buy/pass rules: `C_Line_Used_Bike_Short
 | **G** | [**Custom build, already has Ti fork + triangle**](https://www.carousell.sg/p/brompton-folding-bike-custom-build-1444221621/) | **2,800** | Lightly used | 3-speed | **Yes** (Ti fork, Ti triangle, Ti hinge, Ti bolts) | Offer box open (S$2,800 prefilled) | bumped 15 hours ago |
 | **F** | [**Main frame only**, black lacquer (build from scratch)](https://www.carousell.sg/p/brompton-main-frame-black-lacquer-1433478217/) | **1,299** | Like new | none | n/a | Not stated | **over 3 months ago** |
 | **H** | [2021 Brompton M6L black lacquer, C Line Explore Black Edition, with H&H components](https://www.carousell.sg/p/2021-brompton-m6l-black-lacquer-c-line-explore-black-edition-folding-bike-foldable-trifold-bicycle-with-h-h-components-1459226577/) | not captured | not captured | 6-speed (M6L) | Unknown (H&H parts, which ones not captured) | not captured | added 25 Oct 2026 |
+| **I** | [Brompton S6LX Super Light](https://www.carousell.sg/p/brompton-s6lx-super-light-1209297248/) | not captured | not captured | 6-speed (S6LX) | Yes: Superlight has a titanium fork and rear triangle (⚠️ confirm stem) | not captured | added 25 Oct 2026 |
 
 ## [A — C Line Explore S6R, Black Edition, black lacquer — S$2,099](https://www.carousell.sg/p/brompton-c-line-explore-low-bar-with-rack-s6r-black-edition-black-lacquer-ppf-wrapped-since-day-1-1464440833/)
 - All-steel 6-speed, low (S) bar, **rear roller rack**; delivery by mover about S$35 (struck down from S$67).
@@ -83,6 +84,12 @@ Scoring method, inspection checklist and buy/pass rules: `C_Line_Used_Bike_Short
 - Added 25 Oct 2026 from the listing link only. **Price, condition, seller notes and photos not captured yet** (Carousell blocks our tools); fill in from the listing.
 - The title says **2021**, **M6L** (6-speed, mid bar, lightweight) and **H&H components**. H&H (HH Innovation) is a titanium and alloy parts maker, so some of the Ti-class parts the Plan wants may already be fitted.
 - Ask: which H&H parts (and receipts), the price, the weight, the serial, service history. A 2021 frame is older than the D listing, so check the rear-frame generation against the Ti triangle fit.
+
+## [I — Brompton S6LX Super Light](https://www.carousell.sg/p/brompton-s6lx-super-light-1209297248/)
+- Added 25 Oct 2026 from the listing link only (saved in the owner's Likes). **Price, condition, mods and photos not captured yet** (Carousell blocks our tools); fill in from the listing.
+- Title says **S6LX Super Light**: the same Superlight family as C (titanium fork and rear triangle, 6-speed, X = extra-light spec). Compare it with C (S$3,883) once the price is known.
+- The listing ID is older than the other entries (1209... vs 1429... to 1467...), so it may have been up for a long time: check it is still available and ask why it has not sold.
+- Ask: price, the weight as it stands, stem material, serial, service history, any mods.
 
 ## Quick read (not a verdict: nobody has inspected these)
 1. **D** is the cleanest paper trail and the easiest to anchor a negotiation on. **E** has the best negotiating position (3+ months unsold) but the highest ask.
