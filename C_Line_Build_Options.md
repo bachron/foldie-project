@@ -679,15 +679,15 @@ Asked for: **Light Bicycle**, **SMC Plume** and "**Lunatee**". ⚠️ No product
 | Weight | 816 g pair (rims 225 g each, ±3%) | front ~295 g + rear rim ~190 g (labels unconfirmed) | ~760-780 g pair (SMC page says "from 680 g") | 880 ±25 g pair |
 | Price | from US$605 (incl. $80 transfer) | US$765 | US$998 (3/4-speed), US$1,198 (7-speed) at Fantastic4Toys; S$1,350 at B.Spokes (sold out) | US$1,198 |
 | Rim | 30 mm deep, 21 mm inner, 20H, tubeless-ready | 22 mm deep, 19 mm inner / 25 mm outer | 22 mm deep, 14H front / 20H rear | 38 mm deep, 19/25 mm |
-| Rider limit | 130 kg | **100 kg** | not stated | 120 kg |
+| Rider limit | 130 kg | **100 kg** (speedminicycle.com) | 100 kg (speedminicycle.com) / 110 kg (smcbike.com); ⚠️ SMC's own pages disagree | 120 kg |
 | Hub | Light Bicycle BR01, 74/112 mm, **Shimano 5/7-speed freehub only**; other hubs by custom order | Stock Brompton rear hub | Hubsmith (ceramic) or RHET | RHET (ceramic) |
 | Tubeless | yes | "clincher or tubeless" | sources disagree (custom order) | clincher |
 | Warranty | 3 years | 5 years | 5 years | 5 years |
 | Lead time | ~3 days (default), 4 weeks custom | 15-20 days if not in stock | similar | similar |
 
 **Reading it against the 6-speed rule**
-1. **SMC Plume 6-speed (CW2FR), US$765, ~485 g for the front wheel + rear rim:** the only option that keeps the true stock 6-speed (3-speed hub + BWR). Lightest, but the 100 kg limit matters because of the rear child seat (rider + seat + child). ⚠️ The page does not mention BWR compatibility; ask SMC.
-2. **SMC Plume 7-speed (CW2), US$1,198 or the 3/4-speed Hubsmith set ~US$998:** lightest *complete* set (~780 g) for the external-freehub reading of "6-speed" (run 12-28T cassette). Same rider-limit question.
+1. **SMC Plume 6-speed (CW2FR), US$765, ~485 g for the front wheel + rear rim:** the only option that keeps the true stock 6-speed (3-speed hub + BWR). Lightest, but the 100 kg limit matters because of the rear child seat (rider + seat + child). SMC's two sites disagree for the other Plume pages (100 kg vs 110 kg); no page found says 120 kg (that is the Lunate's figure). ⚠️ The page does not mention BWR compatibility; ask SMC.
+2. **SMC Plume 7-speed (CW2), US$1,198 or the 3/4-speed Hubsmith set ~US$998:** lightest *complete* set (~780 g) for the external-freehub reading of "6-speed" (run 12-28T cassette). Rider limit 100-110 kg depending on the SMC page.
 3. **SMC Lunate 7-speed (CW3), US$1,198:** heavier (880 g) and deeper (38 mm), 120 kg limit. Same price as Plume 7-speed for ~100 g more, so only worth it if the load limit decides.
 4. **Light Bicycle RF621, from US$605:** cheapest complete set and highest rider limit (130 kg), but only a Shimano 5/7-speed freehub is listed, so it is a route (b) set only. No Brompton-hub option unless they build to order. Pair weight 816 g is close to Plume. US$605 includes an $80 warehouse transfer; shipping/duty to Singapore not checked.
 
