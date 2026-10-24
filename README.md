@@ -8,6 +8,8 @@ Each build has its own plan and parts tracker. Child seats and their mounts are 
 | **T20 / G Line** | HEXATI T20 titanium tri-fold, 20" wheels, Brompton G Line geometry | Parts being decided and ordered | `T20_Build_Plan.md`, `T20_Build_Options.md` |
 | **Black Lacquer Superlight** (C Line / pre-C Line) | Used Brompton donor, 16" wheels, rebuilt around a Ti stem, fork and Ti rear triangle | Research | `C_Line_*` (added once research lands) |
 
+| **Aceoffix C5 / T1** | Aceoffix C5 (sold as T1 by some resellers), 16" aluminium tri-fold, carbon fork | New plan | `Aceoffix_C5_T1_Build_Plan.md` |
+
 Handoffs live in `docs/handoffs/`.
 
 > The GitHub repo and folder are named `foldie-project` (renamed from `t20-g-line` on 2026-10-24).
