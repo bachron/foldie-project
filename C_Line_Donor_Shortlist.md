@@ -9,7 +9,7 @@ Scoring method, inspection checklist and buy/pass rules: `C_Line_Used_Bike_Short
 | | Model (as listed) | Ask (S$) | Condition | Gears | Already has Ti parts? | Price status | Listed |
 |---|---|---|---|---|---|---|---|
 | **A** | [C Line Explore Low Bar + Rack / S6R, Black Edition, black lacquer, PPF-wrapped](https://www.carousell.sg/p/brompton-c-line-explore-low-bar-with-rack-s6r-black-edition-black-lacquer-ppf-wrapped-since-day-1-1464440833/) | **2,099** | Lightly used | 6-speed | No (all-steel) | Not stated | ~3 weeks ago |
-| **B** | [C Line, black lacquer ("dark bronze"), "urgently need to sell"](https://www.carousell.sg/p/brompton-c-line-black-lacquer-urgently-need-to-sell%E2%80%BC%EF%B8%8F-1448157771/) | **2,000** | Like new | not stated | Unknown ("some modification" in photos) | Says both *fixed* and *negotiable* | bumped 2 weeks ago |
+| **B** | [C Line, black lacquer ("dark bronze"), "urgently need to sell"](https://www.carousell.sg/p/brompton-c-line-black-lacquer-urgently-need-to-sell%E2%80%BC%EF%B8%8F-1448157771/) | **2,000** | Like new | 6-speed (assumed, seller does not say) | Unknown ("some modification" in photos) | Says both *fixed* and *negotiable* | bumped 2 weeks ago |
 | **C** | [**Superlight** S6L-X, Black Edition, black lacquer](https://www.carousell.sg/p/brompton-superlight-black-lacquer-black-edition-1462118241/) | **3,883** | Lightly used | modded to 2/3-speed | **Yes — Superlight is a titanium fork + rear triangle model** (⚠️ confirm stem) | Not stated | bumped 2 weeks ago |
 | **D** | [C Line Explore M6L, black lacquer](https://www.carousell.sg/p/brompton-c-line-explore-black-lacquer-m6l-6-speed-1467554174/) | **2,200** | Like new | 6-speed | No | Offer box open (S$2,200 prefilled) | ~1 week ago |
 | **E** | [C Line M6L special Black Edition, all-black components](https://www.carousell.sg/p/brompton-folding-bike-black-edition-black-lacquer-1429057209/) | **2,400** | Like new | 6-speed | No | Offer box open (S$2,400 prefilled) | **over 3 months ago** |
@@ -30,7 +30,7 @@ Scoring method, inspection checklist and buy/pass rules: `C_Line_Used_Bike_Short
 ## [B — C Line black lacquer — S$2,000](https://www.carousell.sg/p/brompton-c-line-black-lacquer-urgently-need-to-sell%E2%80%BC%EF%B8%8F-1448157771/)
 - Dark bronze, bought 2024, rarely used, "ready for its next owner". Listed as a **fixed price** but the description says **price negotiable**: treat as negotiable and ask.
 - "Some modification has been included such as in the photos" — **ask exactly which parts** (could be Ti or just pedals/saddle). 44 likes, "7 people also want this" (pressure, not a reason to rush).
-- Missing: model code (M/S/H, gears), service history, serial, receipt.
+- **Treated as 6-speed** for this build (25 Oct 2026); the listing does not say, so confirm the gear count with the seller. Missing: model code (M/S/H), service history, serial, receipt.
 - Cheapest of the four, so a good first message: ask for model code, serial, mods list, weight if weighed.
 
 ## [C — Brompton Superlight S6L-X, Black Edition, black lacquer — S$3,883](https://www.carousell.sg/p/brompton-superlight-black-lacquer-black-edition-1462118241/)
@@ -111,7 +111,7 @@ Evidence for the first offer, with its quality:
 - Anything the seller lists "included" that this build **replaces anyway** (stem, fork, rear triangle, wheels, hub) is resale value: ask what they include and value it.
 
 ## 6-speed wheelset decision (23 Oct 2026)
-The wheelset is a **6-speed set** for every candidate. **A, D, E** already have 6-speed bikes. **B** model is not stated. **C** (modded 2/3-speed, original 6-speed hubs and rims included) and **G** (3-speed, Hubsmith wheelset, 54T ring) both need their wheels replaced with a 6-speed set: add that to the offer math. Set options and prices are in `C_Line_Build_Options.md` §6.
+The wheelset is a **6-speed set** for every candidate. **A, D, E** already have 6-speed bikes. **B** is treated as 6-speed (assumed; the listing does not state it, so confirm). **C** (modded 2/3-speed, original 6-speed hubs and rims included) and **G** (3-speed, Hubsmith wheelset, 54T ring) both need their wheels replaced with a 6-speed set: add that to the offer math. Set options and prices are in `C_Line_Build_Options.md` §6.
 
 ## Singapore live-price check (Carousell, 23 Oct 2026)
 Read in the built-in browser; listing prices, not sold prices. Seller handles omitted. Everything ⚠️ unverified until you chat with the seller.
