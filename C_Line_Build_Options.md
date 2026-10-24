@@ -709,3 +709,13 @@ This removes route (a). Consequences for the shortlist above:
 - **Dropout fit:** a 112 mm rear needs the Ti triangle (or frame) to take a freehub hub and derailleur hanger; still the open item in the Plan.
 
 **Light Bicycle rim page (owner screenshot, 24 Oct 2026):** RF621 rim only: 225 ±15 g, 30 mm deep, 21 mm inner / 28 mm outer, 20H, non-disc, "High TG" braking surface, UD weave, Presta, US$169 per rim (valve stem and tubeless tape not included by default). **Made to order, typically ships in 6-8 weeks** (longer if Full Custom). This is longer than the "about 3 days" shown on the complete-wheelset page's default configuration, so confirm lead time before planning around it. Two rims cost US$338, so the wheelset from US$605 is mostly hubs, spokes and the $80 transfer.
+
+## 7b. Cassette: Neutron Lightweight 7-Speed Cassette for Brompton (B7), added 24 Oct 2026
+
+From [neutron.bike](https://www.neutron.bike/products/lightweight-7-speed-cassette-for-brompton?variant=53531466662206) (owner screenshot plus page): **7-speed, 11-13-15-18-21-23-30T, 122 g, Shimano HG freehub body, PVD coating, US$239** (Orange; a purple one is also shown). Vendor claims, not weighed. Neutron also sells 11- and 12-speed cassettes, a crankset with power meter (US$699), a crank arm (US$349) and a carbon hollow chainring (US$149), not yet reviewed.
+
+- **This is now the C Line cassette.** It replaces the H&H 6-speed 12-28T idea in §6. ⚠️ It has **7** gears, so it conflicts with the "6-speed" wording of the 23 Oct decision; it runs on the same 7-speed freehub, so confirm with the owner that 7 gears is what is wanted.
+- **Fit with the wheelsets:** it needs a **Shimano HG** freehub. **Light Bicycle RF621** (Shimano 5/7-speed freehub) fits. **SMC Plume/Lunate 7-speed use a RHET ratchet hub, not HG**, so they do NOT take this cassette unless SMC confirms an HG option. This tilts the shortlist toward Light Bicycle.
+- **Gearing:** with a 44T chainring the low gear is 44/30 = 1.47:1 (the 11T top is 4:1).
+- **T20 / G Line build:** not changed. It runs a 12-speed HG cassette (Nuton null¹ 11-50T) on 20" wheels; a Brompton 7-speed cassette does not apply there.
+- **Ask Neutron:** shipping to Singapore, tooth-by-tooth weight, and whether it clears the Ti rear triangle/derailleur on a 112 mm hub.
