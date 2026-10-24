@@ -37,6 +37,19 @@ Research found a **stock Brompton is 112mm at the rear and 74mm at the front** (
 1. **Stay in the Brompton system** (112mm, hub gears or Brompton-style 2-speed). Cheapest, lowest risk.
 2. **Custom 135/130mm triangle + hanger for a 1x cassette.** A custom triangle was quoted anecdotally at £400-725 (⚠️ unverified) and no builder was verified. This is the only route to the T20-style 11-50T low gear.
 
+### Singapore dealer quotes (received 24 Oct 2026, assumed S$; seller name kept out because the repo is public)
+
+| Item | Price |
+|---|---|
+| Comeplay Ti **fork + rear triangle**, raw sand-polished | **600** |
+| Comeplay Ti fork + rear triangle, black anodized | **700** (+100 for anodizing) |
+| Comeplay Ti **stem + fork + triangle**, black anodized | **1,250** (stem alone works out to ~550 on top of the 700) |
+| SMC **Plume 4-speed wheelset** (Hubsmith 3/4-speed external) | **1,090** |
+
+- **Compare with importing:** fork + triangle direct from the vendors is ~US$510-570 (~S$660-740) before shipping, GST and duty, so the local quote is at or below import cost. The Plume at S$1,090 undercuts B.Spokes (S$1,350, sold out) and SMC direct (US$998, ~S$1,300 before shipping).
+- ⚠️ **Plume 4-speed conflicts with the Neutron B7:** a 3/4-speed Hubsmith wheel takes a 3-4 sprocket external cog set, not the 7-speed Shimano HG cassette. For 7 gears the Plume must be the 7-speed RHET version (US$1,198 online, about +S$200 over the 4-speed), which is a ratchet hub, not HG. Confirm which wheel was quoted and whether the quote can be a 7-speed.
+- Black anodizing is a finish choice (adds ~100 on fork + triangle); ask whether it adds weight and whether it is on the stem too.
+
 ---
 
 ## 2. Known risks on the headline parts
