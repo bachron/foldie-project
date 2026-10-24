@@ -2690,3 +2690,312 @@ All Bjorn saddles use oversized oval 7 x 9 mm carbon rails (seller claim, Fair W
 - Estimates: 9.5 mm clamp (weight, price), Rool weight, Lapka weight. Other weights are page values.
 - Not accessible: bjorncycles.com product pages (404), bjorncycles.eu (does not resolve), Instagram/Facebook (not read). Ti Parts Workshop SG price at Fantastic4Toys not shown on the collection page.
 
+
+
+## Added 25 Oct 2026: BBInfinite and other T20-plan brands
+
+Rows from the T20 plan brands the first pass missed (BBInfinite, CEMA, Chris King, Eggbeater, Lightworks spider and others). Same columns. These rows are also in the Foldie Build page.
+
+
+### Bottom brackets
+
+| Brand | Model | Weight (g) | Price S$ | Basis |
+|---|---|---|---|---|
+| BBInfinite | BSA Shimano road 24 mm, ABEC-7 steel (6805) | 91 | 199 SG | page (price, 16B); weight pag… |
+| BBInfinite | BSA Shimano road 24 mm, ABEC-7 steel (6805) | 91 | 286 | page |
+| BBInfinite | BSA Shimano road 24 mm, Ceramitech (6805) | 89 | 269 SG | page (price); weight from BBI… |
+| BBInfinite | BSA Shimano road 24 mm, Ceramitech (6805) | 89 | 399 SG | page |
+| BBInfinite | BSA Shimano road 24 mm, Ceramitech (6805) | 89 | 286 | page |
+| BBInfinite | BSA Shimano road 24 mm, WS2 Ceramitech (6805) | 88 | 286 | page |
+| BBInfinite | BSA SRAM DUB road (29 mm, 4030), ABEC-7 | 78 | 332 | page |
+| BBInfinite | BSA SRAM DUB road (29 mm, 4030), Ceramitech | 75 | 332 | page |
+| BBInfinite | BSA SRAM DUB road (29 mm, 4030), WS2 Ceramitech | 73 | 332 | page |
+| BBInfinite | BSA GXP road cup (24/22 mm, 6805), ABEC-7 | 96 | 293 | page |
+| BBInfinite | BSA GXP road cup, Ceramitech | 94 | 293 | page |
+| BBInfinite | BSA GXP road cup, WS2 Ceramitech | 93 | 293 | page |
+| BBInfinite | BSA 30 mm road "BSA30" (4030), ABEC-7 stainless | 76 | 306 | page |
+| BBInfinite | BSA 30 mm road "BSA30" (4030), Ceramitech | 73 | 306 | page |
+| BBInfinite | BSA 30 mm road "BSA30" (4030), Ceramitech | 73 | 299 SG | page |
+| BBInfinite | BSA 30 mm road "BSA30" (4030), Ceramitech | 73 | 399 SG | page |
+| BBInfinite | BSA 30 mm road "BSA30" (4030), WS2 Ceramitech | 71 | 306 | page |
+| BBInfinite | BSA Praxis M30 (28/30 mm, 4030), ABEC-7 | 83 | 345 | page |
+| BBInfinite | BSA Praxis M30 (28/30 mm, 4030), Ceramitech | 80 | 345 | page |
+| BBInfinite | BSA Praxis M30 (28/30 mm, 4030), WS2 Ceramitech | 78 | 345 | page |
+| BBInfinite | BSA 30 mm MTB (73 mm shell), Ceramitech | 73 | 306 | page |
+| BBInfinite | BSA Shimano MTB 24 mm (73 mm shell), Ceramitech | 89 | 286 | page |
+| BBInfinite | 30 mm and DUB to Shimano 24 mm adaptor set (Delrin, 2 pcs) | ~6 est. | 59 | page (price); weight est. (tw… |
+| BBInfinite | ABEC-7 replacement bearings, 6805 (25x37x7), pair | 39 (19.5 each) | 91 | page |
+| CEMA | BSA for Praxis M30, ceramic | ~91 | 142 | page (price); weight from T20… |
+| CEMA | BSA for Praxis M30, stainless | ~95 | 138 | T20 doc (not re-read at vendo… |
+| CEMA | BSA for SRAM DUB, ceramic | ~90 est. | 142 | page (price); weight est. (M3… |
+| CEMA | BSA to Shimano Hollowtech II 24 mm, ceramic | ~88 est. | ~140 est. | snippet; page blocked (403) |
+| Chris King | ThreadFit 24, steel bearings | 89 | 276 | snippet |
+| Chris King | ThreadFit 24, ceramic bearings | 85 | 419 | snippet |
+| Chris King | ThreadFit 30 (Fit Kit #3, Praxis/30 mm), steel | ~94 | 385 SG | T20 doc |
+| Chris King | ThreadFit 30 (Fit Kit #3), ceramic | ~92 est. | 550 SG | T20 doc; weight est. (slightl… |
+| Chris King | ThreadFit 30 with Fit Kit 1 (DUB MTB), steel | ~94 est. | 311 | snippet; archived price |
+| Praxis Works | M30 BSA OEM, stainless | 103 | 128 SG | T20 doc |
+| Praxis Works | M30 BSA, ceramic | ~98 est. | 229 | snippet (price); weight est.… |
+| Extralite | Superlight/Hyper BSA cups + Enduro 6806 and 6806/28 bearings | ~69 est. | ~84 est. | T20 doc; est. |
+| Enduro | Maxhit BSA (DUB), full 440C stainless, no alloy cups | ~100 est. | 259 | page (price); weight est. (pa… |
+| Enduro | XD-15 angular-contact BSA cups, 24 mm | ~95 est. | 194 | snippet (price); weight est. |
+| Enduro | BK-6034 BSA (thread-in, ABEC-3) | ~110 est. | 152 | snippet (price); weight est. |
+| Wheels Manufacturing | BSA 30 mm base (Praxis M30/28 and 30 mm), steel | ~100 est. | 130 | snippet |
+| Wheels Manufacturing | BSA 30 mm angular contact | ~102 | 172 | snippet |
+| Wheels Manufacturing | BSA threaded, SRAM DUB base | ~100 est. | 130 | snippet |
+| Hope | BSA 24 mm threaded, stainless | 110 | 179 | snippet |
+| Hope | BSA30 threaded (30 mm axle; DUB-compatible version exists) | 102 | 187 | page |
+| Token | BSA threaded ceramic (TBT, 24 mm) | 100 | 170 | page |
+| Token | BSA threaded ceramic (SRAM DUB 28.99) | 100 | 238 | page |
+| Token | BSA outboard steel (30 mm DUB) | ~105 est. | 77 | snippet (price); weight est. |
+| Rotor | BB1 BSA 24 mm, steel | 93 | 65 | page |
+| Rotor | BB1 BSA 24 mm, ceramic | 91 | 195 | page |
+| Rotor | BSA 30 mm, steel (68/73 mm) | 96 | 85 | snippet |
+| Rotor | BSA 30 mm, ceramic | 89 | 260 | snippet |
+
+<details><summary>Where to buy, links and fit notes</summary>
+
+1. **BBInfinite BSA Shimano road 24 mm, ABEC-7 steel (6805)** — orig. S$199; where: 16B Cycle SG; https://www.16bcycle.com/collections/bbinfinite/products/bbinfinite-abec-7-24mm-bottom-bracket; fit: Cheapest SG BBInfinite. For Hollowtech 24 mm cranks (Elilee 24, Rotor 24). Stock not shown.
+2. **BBInfinite BSA Shimano road 24 mm, ABEC-7 steel (6805)** — orig. US$220; where: bbinfinite.com (sold out 25 Oct 2026); https://www.bbinfinite.com/products/bsa-threaded-cups-shimano-road-bottom-brackets; fit: Direct price; Black/Red/Nickel finish. 1-yr bearing warranty.
+3. **BBInfinite BSA Shimano road 24 mm, Ceramitech (6805)** — orig. S$269; where: 16B Cycle SG ("BB24 Ceramic", red); https://www.16bcycle.com/collections/bbinfinite/products/bbinfinite-bb24-ceramic-bottom-bracket; fit: Lifetime bearing warranty. 16B page shows no weight; used BBI's 89 g.
+4. **BBInfinite BSA Shimano road 24 mm, Ceramitech (6805)** — orig. S$399; where: Bike Stop SG; https://bikestop.com.sg/products/bbinfinite-bottom-bracket-bsa-english-threaded-ceramictech; fit: SG, dearer than 16B. Same page also sells the 30 mm version at S$399.
+5. **BBInfinite BSA Shimano road 24 mm, Ceramitech (6805)** — orig. US$220; where: bbinfinite.com (sold out); https://www.bbinfinite.com/products/bsa-threaded-cups-shimano-road-bottom-brackets; fit: Direct price.
+6. **BBInfinite BSA Shimano road 24 mm, WS2 Ceramitech (6805)** — orig. US$220; where: bbinfinite.com (sold out); https://www.bbinfinite.com/products/bsa-threaded-cups-shimano-road-bottom-brackets; fit: Lightest 24 mm variant; WS2 coating on balls.
+7. **BBInfinite BSA SRAM DUB road (29 mm, 4030), ABEC-7** — orig. US$255; where: bbinfinite.com (sold out); https://www.bbinfinite.com/products/bsa30-dub-ultra-lite-road-threaded-external-cup-bottom-bracket-68mm; fit: Also fits DUB-clone spindles (Elilee, Cybrei). Page text also says "68 g for the set", conflicts with 73-78 g table; used table.
+8. **BBInfinite BSA SRAM DUB road (29 mm, 4030), Ceramitech** — orig. US$255; where: bbinfinite.com (sold out); https://www.bbinfinite.com/products/bsa30-dub-ultra-lite-road-threaded-external-cup-bottom-bracket-68mm; fit: DUB and DUB Wide variants; with or without spindle protector.
+9. **BBInfinite BSA SRAM DUB road (29 mm, 4030), WS2 Ceramitech** — orig. US$255; where: bbinfinite.com (sold out); https://www.bbinfinite.com/products/bsa30-dub-ultra-lite-road-threaded-external-cup-bottom-bracket-68mm; fit: Nickel-plated twin sold at shop.bbinfinite.com in EUR (snippet: EUR 226.95-232.95 = S$340-349).
+10. **BBInfinite BSA GXP road cup (24/22 mm, 6805), ABEC-7** — orig. US$225; where: bbinfinite.com (sold out); https://www.bbinfinite.com/products/threaded-external-cup-gxp-road-bottom-brackets; fit: For SRAM/Cobb/Quarq GXP cranks only.
+11. **BBInfinite BSA GXP road cup, Ceramitech** — orig. US$225; where: bbinfinite.com (sold out); https://www.bbinfinite.com/products/threaded-external-cup-gxp-road-bottom-brackets; fit: Black or red.
+12. **BBInfinite BSA GXP road cup, WS2 Ceramitech** — orig. US$225; where: bbinfinite.com (sold out); https://www.bbinfinite.com/products/threaded-external-cup-gxp-road-bottom-brackets; fit: 
+13. **BBInfinite BSA 30 mm road "BSA30" (4030), ABEC-7 stainless** — orig. US$235; where: bbinfinite.com (sold out); https://www.bbinfinite.com/products/bsa-threaded-cups-pressfit30-road-bottom-brackets; fit: Long-pattern 30 mm spindles: Rotor 3D+, FSA 386 Evo, THM Clavicula, SRAM Red BB30. NOT Praxis M30 (see M30 row). Not for short-spindle BB30-only cranks.
+14. **BBInfinite BSA 30 mm road "BSA30" (4030), Ceramitech** — orig. US$235; where: bbinfinite.com (sold out); https://www.bbinfinite.com/products/bsa-threaded-cups-pressfit30-road-bottom-brackets; fit: Black or nickel; with/without spindle protector.
+15. **BBInfinite BSA 30 mm road "BSA30" (4030), Ceramitech** — orig. S$299; where: 16B Cycle SG; https://www.16bcycle.com/collections/bbinfinite/products/bbinfinite-bsa-english-threaded-for-30mm-road-spindles-ultra-lite-bottom-bracket; fit: SG price; "Unavailable" on the selected variant. Collection page showed "From $0.00" (glitch).
+16. **BBInfinite BSA 30 mm road "BSA30" (4030), Ceramitech** — orig. S$399; where: Bike Stop SG; https://bikestop.com.sg/products/bbinfinite-bottom-bracket-bsa-english-threaded-ceramictech; fit: Lists 30 mm and 24 mm variants at the same S$399.
+17. **BBInfinite BSA 30 mm road "BSA30" (4030), WS2 Ceramitech** — orig. US$235; where: bbinfinite.com (sold out); https://www.bbinfinite.com/products/bsa-threaded-cups-pressfit30-road-bottom-brackets; fit: Lightest BBInfinite BSA found.
+18. **BBInfinite BSA Praxis M30 (28/30 mm, 4030), ABEC-7** — orig. US$265; where: bbinfinite.com (sold out); https://www.bbinfinite.com/products/bsa-english-threaded-praxis-m30-road-bottom-brackets; fit: Fits Praxis Doon / Zayante / M30 cranks. 83 g matches T20 doc. Page says not endorsed by Praxis.
+19. **BBInfinite BSA Praxis M30 (28/30 mm, 4030), Ceramitech** — orig. US$265; where: bbinfinite.com (sold out); https://www.bbinfinite.com/products/bsa-english-threaded-praxis-m30-road-bottom-brackets; fit: 80 g matches T20 doc. Real price US$265, NOT the "~US$175 est." in the T20 doc.
+20. **BBInfinite BSA Praxis M30 (28/30 mm, 4030), WS2 Ceramitech** — orig. US$265; where: bbinfinite.com (sold out); https://www.bbinfinite.com/products/bsa-english-threaded-praxis-m30-road-bottom-brackets; fit: Black only.
+21. **BBInfinite BSA 30 mm MTB (73 mm shell), Ceramitech** — orig. US$235; where: bbinfinite.com (sold out); https://www.bbinfinite.com/collections/all/products/ultra-lite-mtb-threaded-external-cup-bottom-bracket-for-30mm-spindle-crank-sets; fit: 73 mm shell only (71/73/76 g by bearing). Does NOT suit the 68 mm C Line shell. Listed for completeness.
+22. **BBInfinite BSA Shimano MTB 24 mm (73 mm shell), Ceramitech** — orig. US$220; where: bbinfinite.com (sold out); https://www.bbinfinite.com/products/bsa-threaded-cups-shimano-mountain-bottom-brackets; fit: 73 mm shell only (88/89/91 g). Does NOT suit 68 mm. Completeness only.
+23. **BBInfinite 30 mm and DUB to Shimano 24 mm adaptor set (Delrin, 2 pcs)** — orig. US$45; where: bbinfinite.com; https://www.bbinfinite.com/collections/all/products/30mm-and-dub-to-shimano-24mm-adaptors-set-of-2; fit: Lets DUB/30 mm BBInfinite BBs take 24 mm cranks (Rotor 3D-24, Shimano HT2). NOT for BSA M30 model (BENG-PX-RD).
+24. **BBInfinite ABEC-7 replacement bearings, 6805 (25x37x7), pair** — orig. US$70; where: bbinfinite.com (sold out); https://www.bbinfinite.com/collections/all/products/bearings-abec-7; fit: Also 4030 (17.5 g each) and 6806 (24.5 g each) at the same US$70 per pair.
+25. **CEMA BSA for Praxis M30, ceramic** — orig. EUR 94.99 ex-VAT; where: bike-components.de; https://www.bike-components.de/en/CEMA/BSA-for-PRAXIS-M30-Bottom-Bracket-Ceramic-p250131/; fit: Page shows no weight. T20 doc had EUR 124.90 (S$184); bike-components price is ex-VAT, so the two may agree after VAT and shipping.
+26. **CEMA BSA for Praxis M30, stainless** — orig. EUR 91.90; where: per T20 doc (EU shop); /Users/asri/Developer/foldie-project/T20_Build_Options.md; fit: 94-96 g per T20 doc.
+27. **CEMA BSA for SRAM DUB, ceramic** — orig. EUR 94.99 ex-VAT; where: bike-components.de; https://www.bike-components.de/en/CEMA/BSA-Bottom-Bracket-for-SRAM-DUB-Ceramic-p250126/; fit: No weight on page. 28.99 mm DUB axle. Part no. SRC-BT-BSA386DB.
+28. **CEMA BSA to Shimano Hollowtech II 24 mm, ceramic** — orig. ~EUR 93 est.; where: bike-discount.de; https://www.bike-discount.de/en/cema-bsa-bottom-bracket-to-shimano-hollowtech-ii; fit: Weight and price est. from the other two CEMA ceramic BSA parts. Steel version also exists (price not read).
+29. **Chris King ThreadFit 24, steel bearings** — orig. US$212; where: Vital MTB listing; Rouleur Cycles NZ; RA Cycles; https://vitalmtb.com/product/guide/Bottom-Brackets,25/Chris-King/Threadfit-24,18613; fit: 89.06 g steel. Earlier file had F4T S$328. Lifetime warranty.
+30. **Chris King ThreadFit 24, ceramic bearings** — orig. US$322; where: RA Cycles; Vital MTB; https://racycles.com/collections/bottom-brackets/products/chris-king-threadfit-24-ceramic-bottom-bracket; fit: 85.02 g ceramic.
+31. **Chris King ThreadFit 30 (Fit Kit #3, Praxis/30 mm), steel** — orig. S$385; where: Elite Custom SG; /Users/asri/Developer/foldie-project/T20_Build_Options.md; fit: Base unit ~94 g; fit kit adds a little. Not re-read at vendor.
+32. **Chris King ThreadFit 30 (Fit Kit #3), ceramic** — orig. S$550; where: Elite Custom SG; /Users/asri/Developer/foldie-project/T20_Build_Options.md; fit: 
+33. **Chris King ThreadFit 30 with Fit Kit 1 (DUB MTB), steel** — orig. US$239 (archived); where: Tree Fort Bikes (discontinued page); https://www.treefortbikes.com/Chris-King-Ceramic-T47-30I-30mm-Bottom-Bracket; fit: Old price and page. Weight est. from ThreadFit 30 base. DUB kit needed for DUB cranks.
+34. **Praxis Works M30 BSA OEM, stainless** — orig. S$127.50; where: SG (per T20 doc); /Users/asri/Developer/foldie-project/T20_Build_Options.md; fit: Retail US$45-49.50 elsewhere (S$59-64) at powermetercity. Heaviest of the M30 set.
+35. **Praxis Works M30 BSA, ceramic** — orig. US$176; where: powermetercity.com; https://powermetercity.com/product/praxis-m30-bsa-threaded-bottom-bracket/; fit: T20 doc says "no ceramic option from Praxis"; this retailer shows one up to US$176 (the BB is sold in steel and ceramic).
+36. **Extralite Superlight/Hyper BSA cups + Enduro 6806 and 6806/28 bearings** — orig. cups ~US$40 + bearings GBP 14-23.50; where: Extralite + Enduro dealers; /Users/asri/Developer/foldie-project/T20_Build_Options.md; fit: Cups ~21 g WITHOUT bearings, bearings ~45-51 g (66-72 g total). M30 spindle spacing and preload unconfirmed. Price = US$52 + mid-range GBP 18.75 (S$32).
+37. **Enduro Maxhit BSA (DUB), full 440C stainless, no alloy cups** — orig. US$199; where: bikeparts.com; https://bikeparts.com/BPC202396/enduro-maxhit-bottom-bracket-bsa-dub; fit: 68/73 mm BSA, DUB spindle only. Weight est. from similar 100 g BSA BBs.
+38. **Enduro XD-15 angular-contact BSA cups, 24 mm** — orig. US$149; where: Northwest Bicycle; https://northwestbicycle.com/products/enduro-angular-contact-bottom-bracket-bsa-24mm; fit: Alloy cups, XD-15 bearings.
+39. **Enduro BK-6034 BSA (thread-in, ABEC-3)** — orig. US$116.99; where: Mike's Bikes; https://mikesbikes.com/collections/bottom-bracket/products/enduro-bearings-bk-6034-bsa-bottom-bracket; fit: Heaviest/cheapest Enduro; not a weight option.
+40. **Wheels Manufacturing BSA 30 mm base (Praxis M30/28 and 30 mm), steel** — orig. US$100.28; where: Modern Bike; https://www.modernbike.com/wheels-manufacturing-bsa-threaded-bb-30mm-base-model-teal; fit: Retailer says 92-105 g across the range. 68/73 mm shell, shell ID 33.6 mm.
+41. **Wheels Manufacturing BSA 30 mm angular contact** — orig. US$131.99; where: Zinn Cycles; https://www.zinn.bike/brands/wheels-manufacturing; fit: Earlier file used 102 g for this model.
+42. **Wheels Manufacturing BSA threaded, SRAM DUB base** — orig. US$100.28; where: Modern Bike; https://www.modernbike.com/wheels-manufacturing-bsa-threaded-bb-sram-dub-base-model-teal; fit: 24 mm and GXP 24/22 versions also exist (angular contact US$131.99 = S$172).
+43. **Hope BSA 24 mm threaded, stainless** — orig. GBP 105; where: 20Twenty Store; https://20twentystore.com/products/hope-threaded-24mm-bottom-bracket; fit: US$129 = S$168 at Tree Fort.
+44. **Hope BSA30 threaded (30 mm axle; DUB-compatible version exists)** — orig. GBP 110; where: Nevis Cycles; https://www.neviscycles.com/shop/components/sub/bottom-brackets/hope-bsa30-threaded-bottom-bracket-18825/; fit: 68/73/83/100/120 mm shells. Nashbar lists black at 112 g, US$130 (S$169). No ceramic.
+45. **Token BSA threaded ceramic (TBT, 24 mm)** — orig. AUD 199.99; where: Pushys AU; https://www.pushys.com.au/token-bsa-threaded-ceramic-bottom-bracket/; fit: 100 g per set (BB29BSA-TBT). Cheaper stainless version AUD 69.99 (S$60).
+46. **Token BSA threaded ceramic (SRAM DUB 28.99)** — orig. AUD 279.99; where: Pushys AU; https://www.pushys.com.au/token-bsa-threaded-ceramic-bottom-bracket/; fit: 
+47. **Token BSA outboard steel (30 mm DUB)** — orig. US$59; where: Modern Bike; https://www.modernbike.com/token-bottom-brackets; fit: Budget DUB. Token Ninja is PF30/BB30 only (no BSA).
+48. **Rotor BB1 BSA 24 mm, steel** — orig. US$50; where: powermetercity.com; https://powermetercity.com/?p=81670; fit: 7075 cups. Bumsonthesaddle shows 97 g steel.
+49. **Rotor BB1 BSA 24 mm, ceramic** — orig. US$150; where: powermetercity.com; https://powermetercity.com/?p=81670; fit: Snippet said US$135 (S$176). Bike-components EUR 83.99 (S$126), out of stock.
+50. **Rotor BSA 30 mm, steel (68/73 mm)** — orig. US$65; where: powermetercity.com; https://powermetercity.com/?p=35582; fit: For Rotor 30 mm cranks, and works with Praxis M30/DUB per retailer.
+51. **Rotor BSA 30 mm, ceramic** — orig. US$200; where: powermetercity.com; https://powermetercity.com/?p=35582; fit: 
+
+</details>
+
+
+### Pedals (Crankbrothers Eggbeater and Candy)
+
+| Brand | Model | Weight (g) | Price S$ | Basis |
+|---|---|---|---|---|
+| Crankbrothers | Eggbeater 1 | 256 | 78 | snippet (2011 BikeRadar); T20… |
+| Crankbrothers | Eggbeater 2 | 280 | 124 | T20 doc |
+| Crankbrothers | Eggbeater 3 | 280 | 130 | page (OutdoorGearLab) |
+| Crankbrothers | Eggbeater 11 (Ti) | 179 | 524 | snippet |
+| Crankbrothers | Candy 3 | ~285 est. | 175 | snippet (price); weight est.… |
+| Crankbrothers | Candy 7 | 325 | 220 | snippet |
+| Crankbrothers | Candy 11 | 249 | 650 | snippet |
+
+<details><summary>Where to buy, links and fit notes</summary>
+
+1. **Crankbrothers Eggbeater 1** — orig. US$60; where: US retailers; https://www.bikeradar.com/news/2011-crankbrothers-pedals-first-look; fit: Stamped steel, bushings. Old figures.
+2. **Crankbrothers Eggbeater 2** — orig. US$95; where: US/EU retailers; /Users/asri/Developer/foldie-project/T20_Build_Plan.md; fit: Cast steel, bushings.
+3. **Crankbrothers Eggbeater 3** — orig. US$99.99; where: Amazon US; Canyon outlet US$109.99; https://m.outdoorgearlab.com/reviews/biking/mountain-bike-pedals/crankbrothers-eggbeater-3; fit: Needle bearings. T20 doc quotes US$135 (S$176). Cleats+bolts 33 g extra.
+4. **Crankbrothers Eggbeater 11 (Ti)** — orig. EUR 349; where: Mantel; https://www.mantel.com/en/crankbrothers-eggbeater-11-pedals&spec[]=15127; fit: T20 doc: US$450 (S$585). Currency on Mantel unclear; assumed EUR.
+5. **Crankbrothers Candy 3** — orig. US$134.76 (sale, list US$159.99); where: Walmart US; https://www.walmart.com/ip/796575697; fit: Eggbeater mechanism with a small platform. Weight est. between Eggbeater 3 and Candy 7.
+6. **Crankbrothers Candy 7** — orig. US$169; where: REI US US$180 (S$234); https://m.pinkbike.com/news/review-crankbrothers-candy-7-pedal-has-wings.html; fit: Pinkbike measured 325 g; REI 320 g.
+7. **Crankbrothers Candy 11** — orig. US$500; where: REI US; https://www.rei.com/product/804056; fit: Ti spindle; REI lists 249 g/pair.
+
+</details>
+
+
+### Saddles (Berk, Gelu, Bontrager)
+
+| Brand | Model | Weight (g) | Price S$ | Basis |
+|---|---|---|---|---|
+| Gelu | K-3 carbon | 39 | 794 | page |
+| Gelu | K-3+ gravel | 49 | ~824 est. | snippet (weight); price est.… |
+| Berk | Lupina Short padded carbon | 98 | 459 | page |
+| Berk | Lupina 3K carbon, bare | 77 | 525 | T20 doc; price = mid of range |
+| Berk | Lupina Monocoque open padded | 125 | 808 | page |
+| Berk | Lupina Monocoque padded gravel | 129 | 714 | page |
+| Bontrager | Aeolus RSL carbon rails | 142 (145 mm) / 146 (155 mm) | 409 | snippet |
+| Bontrager | Verse Short Pro (carbon rails) | 180-190 | 247 | snippet |
+| Bontrager | Verse Short Elite (alloy rails) | 229 | 208 | snippet |
+
+<details><summary>Where to buy, links and fit notes</summary>
+
+1. **Gelu K-3 carbon** — orig. EUR 529; where: Gelu direct; bikeonline.it EUR 519 (S$779); https://gelucarboncreation.com/product/gelu-k-3/; fit: Bare shell, no padding. 80 kg limit. Bike24 lists 44 g.
+2. **Gelu K-3+ gravel** — orig. ~EUR 549 est.; where: Bike24; https://www.bike24.com/p2377634.html; fit: Weight per Bike24; price not read.
+3. **Berk Lupina Short padded carbon** — orig. GBP 269.99 (to GBP 299.99 = S$509); where: Sigma Sports UK; https://www.sigmasports.com/item/Berk-Composites/Lupina-Short-Padded-Leather-Carbon-Saddle/16MVV; fit: 98 g +/-5; road.cc measured 100 g. Widths 132/144/150 mm. 100 kg limit.
+4. **Berk Lupina 3K carbon, bare** — orig. EUR 350 est.; where: per T20 doc (EUR 319-395); /Users/asri/Developer/foldie-project/T20_Build_Plan.md; fit: 75-79 g bare, 95-104 g padded.
+5. **Berk Lupina Monocoque open padded** — orig. GBP 474.99; where: Sigma Sports UK; https://www.sigmasports.com/item/Berk-Composites/Lupina-Monocoque-Open-Padded-Carbon-Saddle/16MWC; fit: Cut-out for comfort.
+6. **Berk Lupina Monocoque padded gravel** — orig. GBP 419.99; where: Sigma Sports UK; https://www.sigmasports.com/item/Berk-Composites/Lupina-Monocoque-Padded-Gravel-Saddle/16MWL; fit: 
+7. **Bontrager Aeolus RSL carbon rails** — orig. US$314.99; where: Trek / Wheel & Sprocket outlet US$204.93 (S$266); https://outlet.wheelandsprocket.com/products/601842638842; fit: Lightest Bontrager. Carbon rails (check Pentaclip).
+8. **Bontrager Verse Short Pro (carbon rails)** — orig. US$190; where: REI US; https://www.rei.com/product/152865; fit: Weight depends on width.
+9. **Bontrager Verse Short Elite (alloy rails)** — orig. US$160; where: REI US; https://www.rei.com/product/152865; fit: Cheapest; a UK shop claims ~50 g heavier than Pro, REI shows 229 g.
+
+</details>
+
+
+### Bike computers, lights and mounts (Garmin, Wahoo, Lezyne)
+
+| Brand | Model | Weight (g) | Price S$ | Basis |
+|---|---|---|---|---|
+| Garmin | Edge 130 Plus | 33 | 246 | snippet |
+| Wahoo | ELEMNT Bolt V2 | 70 | 364 | snippet |
+| Lezyne | Mini GPS (same weight as Micro) | ~45 est. | ~104 est. | est. (article gives no figure… |
+| Lezyne | Femto USB Drive light set (front 22 g, rear 23 g) | 45 (set) | 65 | page |
+| K-Edge | Garmin Race Mount | 32 | ~46 est. | snippet (weight); price est. |
+| K-Edge | Wahoo Max XL Combo mount | 63 | 136 | page |
+| Wheeltop | Bike computer or light | n/a | n/a | no product |
+
+<details><summary>Where to buy, links and fit notes</summary>
+
+1. **Garmin Edge 130 Plus** — orig. US$188.99; where: comparison site (US price); https://frontdeskreview.com/gear/bike-computers/garmin-edge-130-plus-vs-wahoo-elemnt-bolt-v2/; fit: Smallest Garmin; mounts via standard quarter-turn.
+2. **Wahoo ELEMNT Bolt V2** — orig. US$279.99; where: comparison site (US price); https://frontdeskreview.com/gear/bike-computers/garmin-edge-130-plus-vs-wahoo-elemnt-bolt-v2/; fit: 
+3. **Lezyne Mini GPS (same weight as Micro)** — orig. ~US$80 est.; where: Lezyne retailers; https://bikerumor.com/2016/08/16/lezyne-revamps-deep-gps-line-features/; fit: Estimate only; no current price/weight found.
+4. **Lezyne Femto USB Drive light set (front 22 g, rear 23 g)** — orig. GBP 38; where: Condor Cycles UK; https://www.condorcycles.com/products/lezyne-femto-usb-c-drive-light-set; fit: Front alone GBP 18 (S$31). Tiny, strap-on light; fits 22.2 mm bars.
+5. **K-Edge Garmin Race Mount** — orig. ~US$35 est.; where: K-Edge dealers; https://www.bikeradar.com/news/k-edge-sheds-weight-with-new-wahoo-and-garmin-race-mounts; fit: 31.8 mm clamp (check shim for 22.2 mm). Works with Edge 520/820/130 class.
+6. **K-Edge Wahoo Max XL Combo mount** — orig. GBP 79.99; where: Condor Cycles UK; https://www.condorcycles.com/products/k-edge-wahoo-max-xl-combo-mount; fit: Heavy, bar-clamp.
+7. **Wheeltop Bike computer or light** — orig. n/a; where: none found; ; fit: Wheeltop only appears as the EDS electronic shifting maker (next section). No computer or light found.
+
+</details>
+
+
+### Electronic shifting (Wheeltop EDS)
+
+| Brand | Model | Weight (g) | Price S$ | Basis |
+|---|---|---|---|---|
+| Wheeltop | EDS OX2.0 (shifter 69 g + MTB rear derailleur 411 g) | 480 (RD+shifter) | 595 | T20 doc |
+
+<details><summary>Where to buy, links and fit notes</summary>
+
+1. **Wheeltop EDS OX2.0 (shifter 69 g + MTB rear derailleur 411 g)** — orig. GBP 350; where: per T20 doc; /Users/asri/Developer/foldie-project/T20_Build_Options.md; fit: Speed-agnostic 3-14 speed, so a 7-speed HG cassette is possible in principle. MTB RD is heavy and cage size/capacity vs 11-30T unverified. Not re-read at vendor.
+
+</details>
+
+
+### Bells (Crane and Berk)
+
+| Brand | Model | Weight (g) | Price S$ | Basis |
+|---|---|---|---|---|
+| Crane | Suzu bell (55 mm, brass) | 85 | 23 | page (price); Bike24 weight |
+| Crane | Suzu Mini (45 mm) | ~71 | ~21 est. | snippet (weight 71-96 g by li… |
+| Berk | Bell (titanium/carbon) | n/a | n/a | no product |
+
+<details><summary>Where to buy, links and fit notes</summary>
+
+1. **Crane Suzu bell (55 mm, brass)** — orig. GBP 13.49; where: SJS Cycles UK; https://www.sjscycles.co.uk/bells-horns/crane-suzu-bell-brass/; fit: Clamp 22.2-25.4 mm, fits Brompton bars. Silver colours are aluminium.
+2. **Crane Suzu Mini (45 mm)** — orig. ~GBP 12 est.; where: Galaxus; https://www.galaxus.de/en/s3/product/crane-suzu-bike-bells-54968354; fit: Weight listings disagree.
+3. **Berk Bell (titanium/carbon)** — orig. n/a; where: none found; ; fit: Searches show Berk Composites sells saddles; no bell found.
+
+</details>
+
+
+### Cranks (Praxis Doon, e*thirteen)
+
+| Brand | Model | Weight (g) | Price S$ | Basis |
+|---|---|---|---|---|
+| Praxis Works | Doon Carbon arms only, 172.5 mm, M30-THRU | 342 | 410 | snippet |
+| Praxis Works | Doon Carbon with 48/32 rings, 172.5 mm | 542 (set, no BB) | 585 | snippet |
+| e*thirteen | XCX Race Carbon, direct mount, 175 mm | 346 (arms, MBR measured); 3… | 572 | snippet |
+
+<details><summary>Where to buy, links and fit notes</summary>
+
+1. **Praxis Works Doon Carbon arms only, 172.5 mm, M30-THRU** — orig. US$315; where: bikeparts.com; https://bikeparts.com/BPC210937/praxis-works-doon-cranks-50-34t-170mm; fit: 170 and 165 mm also exist. Direct-mount; needs spider for 110/130 BCD.
+2. **Praxis Works Doon Carbon with 48/32 rings, 172.5 mm** — orig. US$450; where: bikeparts.com; https://www.sigmasports.com/item/Praxis-Works/Doon-Carbon-Chainset/15YR8; fit: UK price GBP 375-450 (S$638-765). Rings not wanted for a 1X Brompton.
+3. **e*thirteen XCX Race Carbon, direct mount, 175 mm** — orig. US$439.95; where: Cahaba Cycles; https://www.cahabacycles.com/products/e-thirteen-xcx-race-carbon-mountain-73mm-175mm-black; fit: Direct mount, MTB-only UL rings (30-38T). Very small rings give far lower gearing than a Brompton wants. Probably a poor fit.
+
+</details>
+
+
+### Spiders (Lightworks and others)
+
+| Brand | Model | Weight (g) | Price S$ | Basis |
+|---|---|---|---|---|
+| Lightworks | 1X carbon spider | 36 | 250 SG | T20 doc |
+| EC | Spider for Praxis crank 110/130 BCD | 42 | 65 | snippet |
+| Praxis Works | Direct-mount spider (DM3) | 66 | ~85 est. | snippet (weight); price est. |
+
+<details><summary>Where to buy, links and fit notes</summary>
+
+1. **Lightworks 1X carbon spider** — orig. S$250 (sale); where: Elite Custom SG; /Users/asri/Developer/foldie-project/T20_Build_Options.md; fit: Direct-mount to 110 BCD 5-arm. Lightworks' own spider not found in a web search; carbon ring V2 110 BCD is S$245.
+2. **EC Spider for Praxis crank 110/130 BCD** — orig. US$50; where: Brompton Kitchen; https://bromptonkitchen.com/products/ec-spider-for-praxis-crank; fit: Direct mount to 110 or 130 BCD. Brompton-specific shop sells it.
+3. **Praxis Works Direct-mount spider (DM3)** — orig. ~US$65 est.; where: Bumsonthesaddle; Rouleur NZ NZ$99.90; https://bumsonthesaddle.com/products/praxis-direct-mount-spider; fit: Alloy-crank spiders do not fit carbon Doon.
+
+</details>
+
+
+### Cassettes (Nuton)
+
+| Brand | Model | Weight (g) | Price S$ | Basis |
+|---|---|---|---|---|
+| Nuton Cycling | null1 MTB 12S HG 11-50T | 286 | 249 | T20 doc |
+| Nuton Cycling | null1 MTB 12S HG 11-46T | 275 | ~241 est. | T20 doc (weight); price est. |
+
+<details><summary>Where to buy, links and fit notes</summary>
+
+1. **Nuton Cycling null1 MTB 12S HG 11-50T** — orig. JPY 28,600; where: Nuton direct (per T20 doc); /Users/asri/Developer/foldie-project/T20_Build_Options.md; fit: 12-speed: fits an HG freehub body but needs a 12-speed shifter and RD. Does NOT work with a 7-speed drivetrain.
+2. **Nuton Cycling null1 MTB 12S HG 11-46T** — orig. ~JPY 27,700 est.; where: Nuton direct; /Users/asri/Developer/foldie-project/T20_Build_Options.md; fit: No 7-speed Nuton cassette found.
+
+</details>
+
+
+### Chains (KMC)
+
+| Brand | Model | Weight (g) | Price S$ | Basis |
+|---|---|---|---|---|
+| KMC | X8 (8-speed, 114 links) | 319 | 14 | snippet |
+| KMC | Z8.1 (6-8 speed, 116 links, nickel) | ~330 est. | 23 | snippet (price); weight est.… |
+| KMC | Z7 (7-speed, 116 links) | 325 | 18 | snippet |
+| KMC | X12 Ti-N | 234 | 85 | snippet (price); weight from… |
+
+<details><summary>Where to buy, links and fit notes</summary>
+
+1. **KMC X8 (8-speed, 114 links)** — orig. EUR 9.58; where: Kaufland PL / EU retailers; https://www.kaufland.pl/product/333982761/; fit: 319 g is the shipping weight. 8-speed chain works on a 7-speed HG cassette.
+2. **KMC Z8.1 (6-8 speed, 116 links, nickel)** — orig. US$18; where: US retailers; https://www.redrockbicycle.com/product-list/parts-1051/chains-1059/?rb_br=1854; fit: Replaces Z7.
+3. **KMC Z7 (7-speed, 116 links)** — orig. US$14; where: Nashbar; https://nashbar.com/kmc-z7-chain-grey-7-speed-116-links-3-32-z7-116l-gy-br/p891785; fit: Same as existing round 2 row but with the US$14 price in this search (round 2 said S$15).
+4. **KMC X12 Ti-N** — orig. GBP 50; where: UK retailer; https://www.redrockbicycle.com/product-list/parts-1051/chains-1059/?rb_br=1854; fit: 12-speed, too thin for 7-speed cassette (loose on wide cogs). Listed to show no Ti-N 7/8-speed KMC exists.
+
+</details>
+
+
+### Ultralight bolts
+
+| Brand | Model | Weight (g) | Price S$ | Basis |
+|---|---|---|---|---|
+| Extralite | ExtraBolt 1.2 chainring bolts (set of 4) | 4.8 (set) | 24 | T20 doc |
+
+<details><summary>Where to buy, links and fit notes</summary>
+
+1. **Extralite ExtraBolt 1.2 chainring bolts (set of 4)** — orig. EUR 16; where: Extralite dealers; /Users/asri/Developer/foldie-project/T20_Build_Options.md; fit: Check the spider bolt count first (Lightworks 5-arm).
+
+</details>
+

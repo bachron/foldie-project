@@ -1129,3 +1129,155 @@ _Rows: 847. Rows with an estimated weight or price: about 336._
 
 ### Notes
 
+
+
+## Added 25 Oct 2026: BBInfinite and other T20-plan brands
+
+Rows from the T20 plan brands the first pass missed (BBInfinite, CEMA, Chris King, Eggbeater, Lightworks spider and others). Same columns. These rows are also in the Foldie Build page.
+
+
+### Bottom brackets
+
+| Brand | Model | Weight (g) | Price S$ | Basis |
+|---|---|---|---|---|
+| BBInfinite | BSA Shimano road 24 mm, ABEC-7 steel (6805) | 91 | 199 SG | page (price, 16B); weight pag… |
+| BBInfinite | BSA Shimano road 24 mm, ABEC-7 steel (6805) | 91 | 286 | page |
+| BBInfinite | BSA Shimano road 24 mm, Ceramitech (6805) | 89 | 269 SG | page (price); weight from BBI… |
+| BBInfinite | BSA Shimano road 24 mm, Ceramitech (6805) | 89 | 399 SG | page |
+| BBInfinite | BSA Shimano road 24 mm, Ceramitech (6805) | 89 | 286 | page |
+| BBInfinite | BSA Shimano road 24 mm, WS2 Ceramitech (6805) | 88 | 286 | page |
+| BBInfinite | BSA SRAM DUB road (29 mm, 4030), ABEC-7 | 78 | 332 | page |
+| BBInfinite | BSA SRAM DUB road (29 mm, 4030), Ceramitech | 75 | 332 | page |
+| BBInfinite | BSA SRAM DUB road (29 mm, 4030), WS2 Ceramitech | 73 | 332 | page |
+| BBInfinite | BSA GXP road cup (24/22 mm, 6805), ABEC-7 | 96 | 293 | page |
+| BBInfinite | BSA GXP road cup, Ceramitech | 94 | 293 | page |
+| BBInfinite | BSA GXP road cup, WS2 Ceramitech | 93 | 293 | page |
+| BBInfinite | BSA 30 mm road "BSA30" (4030), ABEC-7 stainless | 76 | 306 | page |
+| BBInfinite | BSA 30 mm road "BSA30" (4030), Ceramitech | 73 | 306 | page |
+| BBInfinite | BSA 30 mm road "BSA30" (4030), Ceramitech | 73 | 299 SG | page |
+| BBInfinite | BSA 30 mm road "BSA30" (4030), Ceramitech | 73 | 399 SG | page |
+| BBInfinite | BSA 30 mm road "BSA30" (4030), WS2 Ceramitech | 71 | 306 | page |
+| BBInfinite | BSA Praxis M30 (28/30 mm, 4030), ABEC-7 | 83 | 345 | page |
+| BBInfinite | BSA Praxis M30 (28/30 mm, 4030), Ceramitech | 80 | 345 | page |
+| BBInfinite | BSA Praxis M30 (28/30 mm, 4030), WS2 Ceramitech | 78 | 345 | page |
+| BBInfinite | BSA 30 mm MTB (73 mm shell), Ceramitech | 73 | 306 | page |
+| BBInfinite | BSA Shimano MTB 24 mm (73 mm shell), Ceramitech | 89 | 286 | page |
+| BBInfinite | 30 mm and DUB to Shimano 24 mm adaptor set (Delrin, 2 pcs) | ~6 est. | 59 | page (price); weight est. (tw… |
+| BBInfinite | ABEC-7 replacement bearings, 6805 (25x37x7), pair | 39 (19.5 each) | 91 | page |
+| CEMA | BSA for Praxis M30, ceramic | ~91 | 142 | page (price); weight from T20… |
+| CEMA | BSA for Praxis M30, stainless | ~95 | 138 | T20 doc (not re-read at vendo… |
+| CEMA | BSA for SRAM DUB, ceramic | ~90 est. | 142 | page (price); weight est. (M3… |
+| CEMA | BSA to Shimano Hollowtech II 24 mm, ceramic | ~88 est. | ~140 est. | snippet; page blocked (403) |
+| Chris King | ThreadFit 24, steel bearings | 89 | 276 | snippet |
+| Chris King | ThreadFit 24, ceramic bearings | 85 | 419 | snippet |
+| Chris King | ThreadFit 30 (Fit Kit #3, Praxis/30 mm), steel | ~94 | 385 SG | T20 doc |
+| Chris King | ThreadFit 30 (Fit Kit #3), ceramic | ~92 est. | 550 SG | T20 doc; weight est. (slightl… |
+| Chris King | ThreadFit 30 with Fit Kit 1 (DUB MTB), steel | ~94 est. | 311 | snippet; archived price |
+| Praxis Works | M30 BSA OEM, stainless | 103 | 128 SG | T20 doc |
+| Praxis Works | M30 BSA, ceramic | ~98 est. | 229 | snippet (price); weight est.… |
+| Extralite | Superlight/Hyper BSA cups + Enduro 6806 and 6806/28 bearings | ~69 est. | ~84 est. | T20 doc; est. |
+| Enduro | Maxhit BSA (DUB), full 440C stainless, no alloy cups | ~100 est. | 259 | page (price); weight est. (pa… |
+| Enduro | XD-15 angular-contact BSA cups, 24 mm | ~95 est. | 194 | snippet (price); weight est. |
+| Enduro | BK-6034 BSA (thread-in, ABEC-3) | ~110 est. | 152 | snippet (price); weight est. |
+| Wheels Manufacturing | BSA 30 mm base (Praxis M30/28 and 30 mm), steel | ~100 est. | 130 | snippet |
+| Wheels Manufacturing | BSA 30 mm angular contact | ~102 | 172 | snippet |
+| Wheels Manufacturing | BSA threaded, SRAM DUB base | ~100 est. | 130 | snippet |
+| Hope | BSA 24 mm threaded, stainless | 110 | 179 | snippet |
+| Hope | BSA30 threaded (30 mm axle; DUB-compatible version exists) | 102 | 187 | page |
+| Token | BSA threaded ceramic (TBT, 24 mm) | 100 | 170 | page |
+| Token | BSA threaded ceramic (SRAM DUB 28.99) | 100 | 238 | page |
+| Token | BSA outboard steel (30 mm DUB) | ~105 est. | 77 | snippet (price); weight est. |
+| Rotor | BB1 BSA 24 mm, steel | 93 | 65 | page |
+| Rotor | BB1 BSA 24 mm, ceramic | 91 | 195 | page |
+| Rotor | BSA 30 mm, steel (68/73 mm) | 96 | 85 | snippet |
+| Rotor | BSA 30 mm, ceramic | 89 | 260 | snippet |
+
+### Pedals (Crankbrothers Eggbeater and Candy)
+
+| Brand | Model | Weight (g) | Price S$ | Basis |
+|---|---|---|---|---|
+| Crankbrothers | Eggbeater 1 | 256 | 78 | snippet (2011 BikeRadar); T20… |
+| Crankbrothers | Eggbeater 2 | 280 | 124 | T20 doc |
+| Crankbrothers | Eggbeater 3 | 280 | 130 | page (OutdoorGearLab) |
+| Crankbrothers | Eggbeater 11 (Ti) | 179 | 524 | snippet |
+| Crankbrothers | Candy 3 | ~285 est. | 175 | snippet (price); weight est.… |
+| Crankbrothers | Candy 7 | 325 | 220 | snippet |
+| Crankbrothers | Candy 11 | 249 | 650 | snippet |
+
+### Saddles (Berk, Gelu, Bontrager)
+
+| Brand | Model | Weight (g) | Price S$ | Basis |
+|---|---|---|---|---|
+| Gelu | K-3 carbon | 39 | 794 | page |
+| Gelu | K-3+ gravel | 49 | ~824 est. | snippet (weight); price est.… |
+| Berk | Lupina Short padded carbon | 98 | 459 | page |
+| Berk | Lupina 3K carbon, bare | 77 | 525 | T20 doc; price = mid of range |
+| Berk | Lupina Monocoque open padded | 125 | 808 | page |
+| Berk | Lupina Monocoque padded gravel | 129 | 714 | page |
+| Bontrager | Aeolus RSL carbon rails | 142 (145 mm) / 146 (155 mm) | 409 | snippet |
+| Bontrager | Verse Short Pro (carbon rails) | 180-190 | 247 | snippet |
+| Bontrager | Verse Short Elite (alloy rails) | 229 | 208 | snippet |
+
+### Bike computers, lights and mounts (Garmin, Wahoo, Lezyne)
+
+| Brand | Model | Weight (g) | Price S$ | Basis |
+|---|---|---|---|---|
+| Garmin | Edge 130 Plus | 33 | 246 | snippet |
+| Wahoo | ELEMNT Bolt V2 | 70 | 364 | snippet |
+| Lezyne | Mini GPS (same weight as Micro) | ~45 est. | ~104 est. | est. (article gives no figure… |
+| Lezyne | Femto USB Drive light set (front 22 g, rear 23 g) | 45 (set) | 65 | page |
+| K-Edge | Garmin Race Mount | 32 | ~46 est. | snippet (weight); price est. |
+| K-Edge | Wahoo Max XL Combo mount | 63 | 136 | page |
+| Wheeltop | Bike computer or light | n/a | n/a | no product |
+
+### Electronic shifting (Wheeltop EDS)
+
+| Brand | Model | Weight (g) | Price S$ | Basis |
+|---|---|---|---|---|
+| Wheeltop | EDS OX2.0 (shifter 69 g + MTB rear derailleur 411 g) | 480 (RD+shifter) | 595 | T20 doc |
+
+### Bells (Crane and Berk)
+
+| Brand | Model | Weight (g) | Price S$ | Basis |
+|---|---|---|---|---|
+| Crane | Suzu bell (55 mm, brass) | 85 | 23 | page (price); Bike24 weight |
+| Crane | Suzu Mini (45 mm) | ~71 | ~21 est. | snippet (weight 71-96 g by li… |
+| Berk | Bell (titanium/carbon) | n/a | n/a | no product |
+
+### Cranks (Praxis Doon, e*thirteen)
+
+| Brand | Model | Weight (g) | Price S$ | Basis |
+|---|---|---|---|---|
+| Praxis Works | Doon Carbon arms only, 172.5 mm, M30-THRU | 342 | 410 | snippet |
+| Praxis Works | Doon Carbon with 48/32 rings, 172.5 mm | 542 (set, no BB) | 585 | snippet |
+| e*thirteen | XCX Race Carbon, direct mount, 175 mm | 346 (arms, MBR measured); 3… | 572 | snippet |
+
+### Spiders (Lightworks and others)
+
+| Brand | Model | Weight (g) | Price S$ | Basis |
+|---|---|---|---|---|
+| Lightworks | 1X carbon spider | 36 | 250 SG | T20 doc |
+| EC | Spider for Praxis crank 110/130 BCD | 42 | 65 | snippet |
+| Praxis Works | Direct-mount spider (DM3) | 66 | ~85 est. | snippet (weight); price est. |
+
+### Cassettes (Nuton)
+
+| Brand | Model | Weight (g) | Price S$ | Basis |
+|---|---|---|---|---|
+| Nuton Cycling | null1 MTB 12S HG 11-50T | 286 | 249 | T20 doc |
+| Nuton Cycling | null1 MTB 12S HG 11-46T | 275 | ~241 est. | T20 doc (weight); price est. |
+
+### Chains (KMC)
+
+| Brand | Model | Weight (g) | Price S$ | Basis |
+|---|---|---|---|---|
+| KMC | X8 (8-speed, 114 links) | 319 | 14 | snippet |
+| KMC | Z8.1 (6-8 speed, 116 links, nickel) | ~330 est. | 23 | snippet (price); weight est.… |
+| KMC | Z7 (7-speed, 116 links) | 325 | 18 | snippet |
+| KMC | X12 Ti-N | 234 | 85 | snippet (price); weight from… |
+
+### Ultralight bolts
+
+| Brand | Model | Weight (g) | Price S$ | Basis |
+|---|---|---|---|---|
+| Extralite | ExtraBolt 1.2 chainring bolts (set of 4) | 4.8 (set) | 24 | T20 doc |
