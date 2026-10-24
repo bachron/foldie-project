@@ -698,3 +698,12 @@ Asked for: **Light Bicycle**, **SMC Plume** and "**Lunatee**". ⚠️ No product
 - Light Bicycle: can they build the RF621 rear on a Brompton 3-speed hub or Hubsmith 6-speed? Confirm shipping and duty to Singapore.
 
 **Sources:** [Light Bicycle RF621](https://www.lightbicycle.com/rf621-16inch-carbon-wheelset-for-brompton-bike.html) · [SMC Plume 6-speed](https://www.speedminicycle.com/mini-wheels/16-inch-349-carbon-wheels/16-inch-349-plume-super-light-carbon-wheels-for-brompton-6-speed.html) · [SMC Plume 2-4/7-speed](https://www.speedminicycle.com/use-for/brompton/plume-16-inch-349-super-light-22mm-carbon-wheels-for-brompton-external-2-3-4-speed.html) · [SMC Lunate CW3](https://www.speedminicycle.com/use-for/brompton/lunate-349-cw3-16-inch-349-38mm-carbon-wheels-for-brompton-ratchet-system-7-speed.html) · [B.Spokes Plume](https://www.b-spokes.co/products/smc-16349-plume-carbon-wheel) · [Fantastic4Toys Plume](https://www.fantastic4toys.com/products/smc-16-340-plume-carbon-lightweight-wheelset-for-brompton-bicycle)
+
+## 7a. Update (24 Oct 2026): owner runs their own external drivetrain, no Brompton hub or BWR
+
+This removes route (a). Consequences for the shortlist above:
+- **Out:** SMC Plume 6-speed (CW2FR). It is a rear *rim* for the stock Brompton hub, which will not be used.
+- **Still in, all complete freehub sets (74/112 mm):** Light Bicycle RF621 (816 g, from US$605, Shimano 5/7-speed freehub, 130 kg), SMC Plume 7-speed RHET (about 780 g, US$1,198, 100-110 kg), SMC Lunate 7-speed RHET (880 g, US$1,198, 120 kg). A 6-speed cassette (H&H 12-28T) runs on a 7-speed freehub.
+- **Light Bicycle moves from "custom-order only" to the natural fit:** its default hub is already a Shimano freehub at 112 mm, so no special build is needed. It is the cheapest and has the highest rider limit; the trade-off is a 20H rear and a 30 mm rim vs Plume's 22 mm.
+- **Check with each seller:** freehub body is Shimano HG (not Brompton-specific ratchet) or the RHET ratchet, which decides which cassettes and derailleur fit. SMC's RHET is a ratchet system, so confirm it takes the H&H cassette; Light Bicycle's Shimano freehub avoids that question.
+- **Dropout fit:** a 112 mm rear needs the Ti triangle (or frame) to take a freehub hub and derailleur hanger; still the open item in the Plan.

@@ -11,7 +11,7 @@
 
 > ✅ **DECISION (23 Oct 2026): the wheelset is a 6-SPEED set, and this applies to every candidate bike and every part choice below.** Where a candidate has a different wheelset, the 6-speed set replaces it. The wheelset, rear triangle, chainring and derailleur choices all have to work together as a 6-speed system.
 >
-> ⏳ **One thing to pin down:** "6-speed" means two different systems on a Brompton. **(a) The stock Brompton 6-speed:** a Sturmey Archer 3-speed hub plus the 2-speed derailleur (BWR), stock 112mm rear, same family as bikes A, D and E. **(b) An external 6-/7-speed freehub set** (Hubsmith, Suncord, Silverock, SMC "7 speed" sets with a cassette such as the H&H 6-speed 12-28T). Both stay in the Brompton 112mm system. Tell me which; the Singapore prices for each are in `C_Line_Build_Options.md` §6.
+> ⏳ **One thing to pin down:** "6-speed" means two different systems on a Brompton. **(a) The stock Brompton 6-speed:** a Sturmey Archer 3-speed hub plus the 2-speed derailleur (BWR), stock 112mm rear, same family as bikes A, D and E. **(b) An external 6-/7-speed freehub set** (Hubsmith, Suncord, Silverock, SMC "7 speed" sets with a cassette such as the H&H 6-speed 12-28T). Both stay in the Brompton 112mm system. **Owner answered 24 Oct: route (b), own external drivetrain, no Brompton hub/BWR.** (Original question: which; the Singapore prices for each are in `C_Line_Build_Options.md` §6.)
 
 ---
 
