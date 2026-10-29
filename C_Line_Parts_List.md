@@ -459,61 +459,27 @@ Full links, where-to-buy and fit notes: `C_Line_Parts_Research.md`.
 ## Cranks and bottom brackets
 
 
-### Cranksets and crank arms
+### Crank arms only (single chainring build; no 2x, no complete road sets)
 
-| Brand | Model | Weight (g) | Price S$ | Basis |
-|---|---|---|---|---|
-| Elilee (Eilileee) | XXE X310 carbon, 24 mm Ti spindle, 155-172.5 mm | 310 P+spindle (seller); 3… | 550 | listing/snippet, Oct 2026; we… |
-| Elilee | XXE X310 carbon, DUB 28.99 mm alu spindle | 310 P+spindle (approx) | 450 | listing/snippet, Oct 2026 |
-| Elilee | X260 (X-Novanta successor) carbon, DUB carbon spindle | 255 P (spindle incl. per… | 965 | page |
-| Elilee | XXE crankset via AliExpress (WW forum, Feb 2023) | 320 (alloy spindle, forum) | 510 | forum, old price |
-| Cane Creek | eeWings All-Road titanium (crank + spider, 170 mm) | 398 P+30 mm spindle, no r… | 1400 | listing/snippet |
-| Cane Creek | eeWings All-Road Ti, US retail 165 mm | ~398 P+spindle | 1689 | page |
-| Cane Creek | eeWings Brompton "Aegean Edition" crank arm set | ~398 P est. (same arms) | 1500 | est./snippet |
-| Cane Creek | eeWings BCD110 spider (needed for ring) | ~45 est. | 89 | page; weight est. |
-| Extralite | QRC-3S (30 mm axle, 170 mm, BCD 110 integrated spider) | 348 S (arms, spider, axle… | 1261 | page |
-| Extralite | QRC-2 (older) | 476 S (from, arms) | 741 | snippet |
-| Ti Parts Workshop | Cerakote Ti hollow cranks (30 mm, 170 mm, Q 163, 3-bolt DM) | 520 (page, "crank weight") | 865 | page |
-| Ti Parts Workshop | Ti hollow cranks + Ti BSA30 BB set | ~605 est. (520 + 85 BB) | 1560 | page; weight est. |
-| Ti Parts Workshop | Ti square-taper crank arms (sold out) | ~520 est. (hollow set wei… | 605 | est. |
-| H&H | Square Taper crankset BCD130 | 563 S with H&H Ti BB, no… | 437 | page |
-| H&H | Alloy lightweight crankset 30 mm spindle (BSA30 or T47 BB), 170 mm | ~600 S with spider, spind… | 571 | page |
-| Brompton | Superlight carbon crankset 50T (30 mm external BB) | 767 S (Condor) | 425 | page; Brompton site says "2.2… |
-| Brompton | OEM spider crankset 44T/50T (JIS 119) | 661 S (426 R arm+spider,… | 153 | page |
-| White Industries | R30 crankset, 30 mm spindle, 160-175 mm | 560 P+spindle (170 mm) | 520 | page (price), SJS (weight) |
-| White Industries | Square taper cranks | 514 P (170 mm, no spindle) | 462 | page |
-| Joseph Kuosac | Crank arms for Brompton (7075), 155-195 mm | 420 (155), 490 (160), 480… | 204 | page |
-| Joseph Kuosac | Crankset with BB + ring/guard (1 arm listed) | ~730 est. (490 arms + 243… | 449 | est. |
-| Union Jack | "Poker" 50T ring + arms, square taper | 395 P (round 1; unconfirm… | 124 | snippet (r1) |
-| Union Jack | BSA30 crankset (130 or 110 spider, 52T ring) | ~450 est. | 321 | est. (similar 30 mm alloy set… |
-| Union Jack | BCD110 BB30 CNC offset crankset 165/170 | ~450 est. | 302 | est. |
-| Ridea | Pneuma BCSA (1x) / BCSB (2x), Ti spindle, 170 mm | 480 / 490 P+spindle, no r… | 796 | page (r1) |
-| Ridea | ES BCSC (Birdy) crank arms, Ti or steel spindle | ~520 est. | 636 | est. (Pneuma 480 g, ES heavie… |
-| Aceoffix | Unchained Carbon DUB gravel crankset, 50T incl. | 385 ±5 S with 50T ring | 286 | page (r1) |
-| Neutron | Carbon crank arm (24 mm spindle, SRAM 8-bolt DM) | 335 P+spindle; +80 g powe… | 454 / 909 PM | page (r1) |
-| LitzMo | UL-01 carbon, 29 mm Al spindle, 130 BCD 5-bolt, 170 mm | 366 S (2 arms, spindle, s… | 1033 | page |
-| Rpantahi | PP5 ultralight carbon, 24 mm Ti spindle, 110 BCD | ~340 est. | 243 | est. (similar 24 mm carbon cr… |
-| thx4ride | Custom Ti cranks with Extralite ring (SG used-bike parts value) | ~500 est. | 700 | est. (Ti arms 520 g TPW; ring… |
-| Praxis Works | Zayante Carbon-S 50/34, 170 mm, M30/28 spindle | 684 S, with rings, no BB | 358 | page |
-| Praxis Works | Cadet Gen2 M30 (forged alu, 3-bolt DM, 170 mm) | 558 P+spindle, no ring | 183 | page |
-| Praxis Works | Alba-GR alloy (172.5 mm, 50/34 or 48/32) | 800-840 S with rings | 257 | snippet; price range upper bo… |
-| Rotor | Aldhu carbon arms, 24 mm spindle, 170 mm | 355 P (+150 spindle = ~50… | 375 | page |
-| Hope | Evo crankset 170 mm, 30 mm spindle, DM | 560 S, no ring | 479 | page |
-| Shimano | 105 FC-R7100 50/34 170 mm (Hollowtech II 24 mm) | 754 S with rings | 293 | page |
-| SRAM | Apex 1 Wide DUB 40T, 170 mm | 704 S with ring | 130 | page |
-| FSA | Gossamer Pro 2x 50/34, 170 mm, MegaExo 24 mm | 808 S with rings | 281 | page |
-| Sugino | RD2 single-speed 48T, 170 mm, 130 BCD, JIS square taper | 565 S with ring | 168 | page |
-| Strida | Lightweight carbon crankset | 760 S | 659 | page |
-| ROLLCii | 13 BCD130 narrow-wide, 40/42T, 170/172.5 mm | ~480 est. | 205 | est. (alu 130 BCD cranks 500-… |
-| Generic | "Polished crankset for Brompton" (OEM-style) | ~650 est. | 51 | est. (OEM spider 661 g) |
-| Praxis Works | Doon Carbon arms only, 172.5 mm, M30-THRU | 342 | 410 | snippet |
-| Praxis Works | Doon Carbon with 48/32 rings, 172.5 mm | 542 (set, no BB) | 585 | snippet |
-| e*thirteen | XCX Race Carbon, direct mount, 175 mm | 346 (arms, MBR measured);… | 572 | snippet |
-| Aceoffix | Light Weight CNC Crank Set for Brompton 170mm BCD-130 | 320 (set) | S$162.50 | page |
-| Cane Creek | Crankset eeWings All Road | ~420 est. (set) | S$1,429.99 | est.: Cane Creek eeWings 8-bo… |
-| Extralite | EXTRALITE QRC-2 road crankset BSA68 | 476 (each) | S$812.50 | page |
-| Extralite | EXTRALITE QRC-3S Single Crankset 170mm | 414 (each) | S$1,248.00 | page |
-| H&H Retail | H&H CNC Crankset | 410 (each) | S$520.00 | page |
+Arms only: ring, spider and BB are bought separately. **Fit gate first:** a C Line has the stock JIS square-taper BB (119 mm, post-2013). Arms on a 24/28/30 mm spindle need a new BB, and Condor says the BB shell must be faced and re-tapped on A/C/P Line (one source, unverified). Ring BCD on Brompton spider is 130; direct-mount arms take a DM ring instead.
+
+| Brand | Model | Spindle / ring mount | Weight (g) | Price S$ | Fit on C Line | Basis |
+|---|---|---|---|---|---|---|
+| Brompton | OEM left arm 170 mm | JIS square taper | 210 | 42 (£25) | Stock, fits | SJS page |
+| Brompton | OEM right spider crank 170 mm (no ring) | JIS square taper, 130 BCD | 312 (SJS) vs 426 (older note), conflict | 54 (£32) | Stock, fits | SJS page |
+| Joseph Kuosac | 7075 alloy arms, 155-195 mm | Spindle type not stated; own BB listed; 130 BCD via JK spider | 420 (155), 490 (160), 480 (180), pair | 204 (£119.99) | Needs new BB; can catch rear triangle when folded (1.5-3 mm spacer) | SJS page |
+| H&H | Alloy lightweight, 170 mm | 30 mm spindle, 130 BCD 5-bolt | ~600 with spider, spindle, BB | 571 | Needs new BB (not T Line stock BB compatible); arms alone not sold | Brompton Kitchen |
+| Ti Parts Workshop | Cerakote Ti hollow arms, 170 mm | 30 mm, 3-bolt direct mount | 520 | 865 | Needs new BB, shell prep | page |
+| Elilee | XXE X310 carbon, 155-172.5 mm | 24 mm Ti spindle (or DUB 28.99 alu) | 310 | 450-550 | Unverified | snippet |
+| Neutron | Carbon arms | 24 mm, SRAM 8-bolt DM | 335 + spindle | 454 | Unverified | page |
+| Rotor | Aldhu carbon arms, 170 mm | 24 mm | 355 (arms only) | 375 | Unverified | page |
+| Praxis Works | Doon Carbon arms, 172.5 mm | M30 thru | 342 | 410 | Unverified | snippet |
+| e*thirteen | XCX Race Carbon, 175 mm | Direct mount | 346 | 572 | Unverified, 175 mm long | snippet |
+| Cane Creek | eeWings Brompton "Aegean" arms | 30 mm | ~398 est. | 1500 est. | Unverified | snippet |
+| Ridea | Pneuma BCSA (1x), 170 mm | Ti spindle | 480 | 796 | Unverified | page |
+| Extralite | QRC-3S (arms + integrated BCD110 spider + 30 mm axle) | 30 mm, BCD 110 | 348 | 1261 | Needs new BB; heavier BB shell prep | page |
+
+Not found: any titanium or carbon arm made for the Brompton JIS square taper. The only square-taper arms are OEM, Joseph Kuosac (unclear) and H&H (square-taper variant, ~400 g arm + spider, price not re-checked). Dropped as 2x or road sets: Praxis Zayante, Alba-GR, Doon+rings, Shimano 105, FSA Gossamer, Ridea BCSB.
 
 ### Bottom brackets
 
