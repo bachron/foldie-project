@@ -6,17 +6,17 @@ Scoring method, inspection checklist and buy/pass rules: `C_Line_Used_Bike_Short
 
 ## Shortlist at a glance
 
-Rows are in recommendation order (30 Oct 2026, see the recommendation below); letters are unchanged.
+Rows are in recommendation order (re-ranked 30 Oct 2026 for the Ti triangle/fork, carbon 6-7 speed wheels, carbon bar/ring/crank plan on a tight budget; see the recommendation below); letters are unchanged.
 
 | | Model (as listed) | Ask (S$) | Condition | Gears | Ti parts | Upgrades | Remarks |
 |---|---|---|---|---|---|---|---|
-| **C** | [C Line Explore M6L, black lacquer](https://www.carousell.sg/p/brompton-c-line-explore-black-lacquer-m6l-6-speed-1467554174/) | **2,200** | Like<br>new | 6 | No | • 44T chainring | — |
 | **B** | [C Line, black lacquer ("dark bronze"), "urgently need to sell"](https://www.carousell.sg/p/brompton-c-line-black-lacquer-urgently-need-to-sell%E2%80%BC%EF%B8%8F-1448157771/) | **2,000** | Like<br>new | 6 | No | • H&H carbon seatpost<br>• Brooks Cambium C13 carbon saddle<br>• Ti Parts Workshop Double X pedals<br>• SMC carbon handlebar M40 | — |
-| **I** | [H6L, Black Edition, black lacquer, "rode less than 3 times"](https://www.carousell.sg/p/brompton-h6l-black-lacquer-black-edition-rode-less-than-3-times-1457451517/) | **1,950** | Like<br>new | 6 | No | None (stock, original saddle) | — |
 | **E** | [2021 Brompton M6L black lacquer, C Line Explore Black Edition, with H&H components](https://www.carousell.sg/p/2021-brompton-m6l-black-lacquer-c-line-explore-black-edition-folding-bike-foldable-trifold-bicycle-with-h-h-components-1459226577/) | **1,700** | Lightly<br>used | 6 | No | • H&H hinge clamps<br>• H&H coil rear shock<br>• DMR 25th Anniversary saddle<br>• Ergon grips | — |
-| **D** | [C Line M6L special Black Edition, all-black components](https://www.carousell.sg/p/brompton-folding-bike-black-edition-black-lacquer-1429057209/) | **2,400** | Like<br>new | 6 | No | • Upgraded wheels<br>• Upgraded grips | — |
-| **A** | [C Line Explore Low Bar + Rack / S6R, Black Edition, black lacquer, PPF-wrapped](https://www.carousell.sg/p/brompton-c-line-explore-low-bar-with-rack-s6r-black-edition-black-lacquer-ppf-wrapped-since-day-1-1464440833/) | **2,099** | Lightly<br>used | 6 | No | None | — |
+| **I** | [H6L, Black Edition, black lacquer, "rode less than 3 times"](https://www.carousell.sg/p/brompton-h6l-black-lacquer-black-edition-rode-less-than-3-times-1457451517/) | **1,950** | Like<br>new | 6 | No | None (stock, original saddle) | — |
+| **C** | [C Line Explore M6L, black lacquer](https://www.carousell.sg/p/brompton-c-line-explore-black-lacquer-m6l-6-speed-1467554174/) | **2,200** | Like<br>new | 6 | No | • 44T chainring | — |
 | **F** | [**Custom build, already has Ti fork + triangle**](https://www.carousell.sg/p/brompton-folding-bike-custom-build-1444221621/) | **2,800** | Lightly<br>used | 3 | • Fork<br>• Triangle | • Chris King headset<br>• Joseph Kuosac handlebar<br>• Paul brake lever<br>• Ergon grips<br>• Ti Parts Workshop hinge<br>• Ti22 fork and triangle<br>• Hubsmith wheelset<br>• H&H crank<br>• Ridea oval 54T ring<br>• MKS pedals<br>• Token bottom bracket<br>• Ti bolts and nuts | — |
+| **A** | [C Line Explore Low Bar + Rack / S6R, Black Edition, black lacquer, PPF-wrapped](https://www.carousell.sg/p/brompton-c-line-explore-low-bar-with-rack-s6r-black-edition-black-lacquer-ppf-wrapped-since-day-1-1464440833/) | **2,099** | Lightly<br>used | 6 | No | None | — |
+| **D** | [C Line M6L special Black Edition, all-black components](https://www.carousell.sg/p/brompton-folding-bike-black-edition-black-lacquer-1429057209/) | **2,400** | Like<br>new | 6 | No | • Upgraded wheels<br>• Upgraded grips | — |
 | **H** | [**Superlight** S6L-X, Black Edition, black lacquer](https://www.carousell.sg/p/brompton-superlight-black-lacquer-black-edition-1462118241/) | **3,883** | Lightly<br>used | 2/3 (mod) | • Stem<br>• Fork<br>• Triangle | • 2/3-speed conversion<br>• Bumble Bee alloy wheelset<br>• Swiss/DT-type shifter<br>• Compact EZ pedals<br>• Joseph Kuosac bar<br>• H&H hinge clamps<br>• Third-party titanium stem | — |
 | **G** | [**Main frame only**, black lacquer (build from scratch)](https://www.carousell.sg/p/brompton-main-frame-black-lacquer-1433478217/) | **1,299** | Like<br>new | — | No | None | — |
 
@@ -107,14 +107,19 @@ Rows are in recommendation order (30 Oct 2026, see the recommendation below); le
 4. **A** costs the most weight for the money (rack, roller rack, all steel) and the PPF hides the frame.
 5. **H** only makes sense if you want the genuine Ti parts and they come with the mods you want; otherwise buy a C Line and the Ti kit.
 
-### Recommendation after adding I (30 Oct 2026)
-Ranking on paper, cheapest per what you get (nobody has inspected any of them):
-1. **C (S$2,200)** stays first: best paper trail, serviced Aug 2026, 44T ring already fitted.
-2. **B (S$2,000)** is next: a like-new 6-speed with a carbon post, carbon saddle, Ti pedals and an SMC carbon bar already on it, so it beats **I** on content for S$50 more.
-3. **I (S$1,950)** is a fair mid-pack fallback, not a leader: stock bike with no upgrades, an older (likely 2020-21) frame, and an H-bar you would replace. Its edge is 2 months unsold plus a dealer-type seller, so it is a good bike to use as a price anchor against C and B. It is above the S$1,600-1,900 range seen for older used C Lines (live check below), so open low (my estimate: ~S$1,700-1,800).
-4. **E (S$1,700)** is still the cheapest complete bike, but it is a 2021 with a rear shock to resolve.
-5. **D**, **A**, **F**, **H**, **G** are unchanged from the read above.
-What would change this: I's receipt and serial confirm a newer frame, or the seller drops under about S$1,750.
+### Recommendation, re-ranked for the owner's plan (30 Oct 2026)
+**Plan and priorities (from the owner):** Ti triangle + fork, carbon 6-7 speed wheelset (new derailleur), carbon bar, carbon chainring + crank. Money is short, so the pick is the best value now with the mods done later. Paper trail and service history are **not** needed. Mods already on the bike count if they are in the plan; other mods are a bonus.
+
+Value logic: a planned mod already fitted saves buying it (Ti fork + triangle S$450-620 new; steel fork + triangle only resells for ~S$160-190). Anything the plan replaces anyway (stock wheels, tyres, tubes, cables, the ring) is worth little. Values below are my estimates from prices seen in this file, not quotes, and the mods on B, E, F, H are read from photos and not confirmed.
+
+1. **B (S$2,000)**: only bike with a **planned mod already on** (SMC carbon handlebar M40), plus a carbon seatpost, carbon saddle and Ti pedals. Cheapest way to start the carbon list. Verify the bar is a real SMC carbon and which stem/bar fit.
+2. **E (S$1,700)**: lowest ask for a complete bike. H&H hinge clamps and Ergon grips have some value; the rear shock and DMR saddle are outside the plan (shock adds weight). Check the frame year before buying a Ti triangle (2021).
+3. **I (S$1,950)**: stock, like new, unsold 2 months, so room to haggle (try ~S$1,750). No mods, tall H-bar you would replace.
+4. **C (S$2,200)**: drops from 1st. Its edge was the paper trail and the August 2026 service, which you do not need, and the new tyres, tubes and cables are mostly wasted when the wheels get replaced. It costs about S$250 more than I for a 44T ring you would swap for a carbon one.
+5. **F (S$2,800)**: front-loads the Ti fork + triangle, but the Ti22 parts are unverified clones, the wheels are 3-speed (not your 6-speed plan), and the H&H crank is alloy and the 54T ring is too big. Roughly the same as C or B plus a Ti kit, so it only wins if you want to spend once; heavy for a tight budget.
+6. **A (S$2,099)**, **D (S$2,400)**, **H (S$3,883)**, **G (S$1,299)**: A and D add nothing in the plan; H costs ~S$900-1,100 more than a C Line plus Ti parts and has alloy 2/3-speed wheels; G looks cheap but needs every other part bought (about S$4,000-5,000+ total, my estimate).
+
+**What would change this:** if B's carbon bar turns out not to be SMC or the seller won't negotiate, E becomes first; if E's frame is too old for the Ti triangle, I becomes second.
 
 ## Negotiation anchors
 Evidence for the first offer, with its quality:
