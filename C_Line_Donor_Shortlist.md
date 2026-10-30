@@ -16,6 +16,7 @@ Scoring method, inspection checklist and buy/pass rules: `C_Line_Used_Bike_Short
 | **F** | [**Custom build, already has Ti fork + triangle**](https://www.carousell.sg/p/brompton-folding-bike-custom-build-1444221621/) | **2,800** | Lightly<br>used | 3 | • Fork<br>• Triangle | • Chris King headset<br>• Joseph Kuosac handlebar<br>• Paul brake lever<br>• Ergon grips<br>• Ti Parts Workshop hinge<br>• Ti22 fork and triangle<br>• Hubsmith wheelset<br>• H&H crank<br>• Ridea oval 54T ring<br>• MKS pedals<br>• Token bottom bracket<br>• Ti bolts and nuts | — |
 | **G** | [**Main frame only**, black lacquer (build from scratch)](https://www.carousell.sg/p/brompton-main-frame-black-lacquer-1433478217/) | **1,299** | Like<br>new | — | No | None | — |
 | **H** | [**Superlight** S6L-X, Black Edition, black lacquer](https://www.carousell.sg/p/brompton-superlight-black-lacquer-black-edition-1462118241/) | **3,883** | Lightly<br>used | 2/3 (mod) | • Stem<br>• Fork<br>• Triangle | • 2/3-speed conversion<br>• Bumble Bee alloy wheelset<br>• Swiss/DT-type shifter<br>• Compact EZ pedals<br>• Joseph Kuosac bar<br>• H&H hinge clamps<br>• Third-party titanium stem | — |
+| **I** | [H6L, Black Edition, black lacquer, "rode less than 3 times"](https://www.carousell.sg/p/brompton-h6l-black-lacquer-black-edition-rode-less-than-3-times-1457451517/) | **1,950** | Like<br>new | 6 | No | None (stock, original saddle) | — |
 
 **Remarks** tracks the negotiation. Use one of: **1. Arrange for viewing** · **2. Viewed** · **3. Nego (price offered)** · **4. Reject / counter offer (price)**. "—" means not started. Example: `3. Nego S$2,000`.
 
@@ -89,12 +90,29 @@ Scoring method, inspection checklist and buy/pass rules: `C_Line_Used_Bike_Short
 - The 2/3-speed conversion changes the gearing plan. For a child-seat rider ask the gear ratios.
 - Ask: the mods list with receipts, the weight of the bike as it stands.
 
+## [I — Brompton H6L Black Edition, black lacquer — S$1,950](https://www.carousell.sg/p/brompton-h6l-black-lacquer-black-edition-rode-less-than-3-times-1457451517/)
+- Listed about 2 months ago and still unsold (added 30 Oct 2026). **Like new**, 6-speed, **H-bar** (tall bar), "original Brompton condition", comes with the **original Brompton saddle**. No upgrades listed. Meet-up at Khatib MRT.
+- Seller text: "Covid cyclist sale", "rode less than 3 times". A **COVID-era purchase points to a 2020-21 frame**, so it is likely an older rear-frame generation than the 2022+ bikes here (not stated: **confirm**).
+- Seller is a **professional seller account** (5.0, 26 reviews, 5 years on Carousell), not a one-off owner, so a "my own bike" story needs checking: ask where it was bought and for the receipt.
+- Not stated: model line (the title says H6L Black Edition, which should be a C Line Explore, confirm), purchase date, receipt, serial, service history, weight. Photos not checked by me.
+- 💡 **H-bar:** the Plan swaps the bar for a carbon one anyway, but the tall H-bar and stem height change the fit with a child seat. Ask the exact bar and stem, and whether the seller would take a bar swap.
+- Negotiation: unsold for 2 months and a professional seller who expects offers, so there should be room. Offer box and S$ amount to be decided with the owner.
+
 ## Quick read (not a verdict: nobody has inspected these)
 1. **C** is the cleanest paper trail and the easiest to anchor a negotiation on. **D** has the best negotiating position (3+ months unsold) but the highest ask.
 2. **F** may be the best value on paper (Ti fork + triangle, Hubsmith wheels, H&H crank, Chris King headset, Paul levers already fitted for S$2,800), but it needs the gearing and stem fixed and every part verified.
 3. **B** is the cheapest; the unknowns (model, mods) decide it.
 4. **A** costs the most weight for the money (rack, roller rack, all steel) and the PPF hides the frame.
 5. **H** only makes sense if you want the genuine Ti parts and they come with the mods you want; otherwise buy a C Line and the Ti kit.
+
+### Recommendation after adding I (30 Oct 2026)
+Ranking on paper, cheapest per what you get (nobody has inspected any of them):
+1. **C (S$2,200)** stays first: best paper trail, serviced Aug 2026, 44T ring already fitted.
+2. **B (S$2,000)** is next: a like-new 6-speed with a carbon post, carbon saddle, Ti pedals and an SMC carbon bar already on it, so it beats **I** on content for S$50 more.
+3. **I (S$1,950)** is a fair mid-pack fallback, not a leader: stock bike with no upgrades, an older (likely 2020-21) frame, and an H-bar you would replace. Its edge is 2 months unsold plus a dealer-type seller, so it is a good bike to use as a price anchor against C and B. It is above the S$1,600-1,900 range seen for older used C Lines (live check below), so open low (my estimate: ~S$1,700-1,800).
+4. **E (S$1,700)** is still the cheapest complete bike, but it is a 2021 with a rear shock to resolve.
+5. **D**, **A**, **F**, **H**, **G** are unchanged from the read above.
+What would change this: I's receipt and serial confirm a newer frame, or the seller drops under about S$1,750.
 
 ## Negotiation anchors
 Evidence for the first offer, with its quality:
