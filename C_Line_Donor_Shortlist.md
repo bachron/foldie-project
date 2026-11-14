@@ -6,20 +6,21 @@ Scoring method, inspection checklist and buy/pass rules: `C_Line_Used_Bike_Short
 
 ## Shortlist at a glance
 
-Rows are in recommendation order (re-ranked 30 Oct 2026 for the Ti triangle/fork, carbon 6-7 speed wheels, carbon bar/ring/crank plan on a tight budget; see the recommendation below); letters are unchanged.
+Rows are in recommendation order (re-ranked 14 Nov 2026 with K added; see the recommendation below); letters are unchanged. **E, C and H were removed from Carousell (checked 14 Nov 2026) and sit at the bottom.**
 
 | | Model (as listed) | Ask (S$) | Condition | Gears | Ti parts | Upgrades | Remarks |
 |---|---|---|---|---|---|---|---|
 | **B** | [C Line, black lacquer ("dark bronze"), "urgently need to sell"](https://www.carousell.sg/p/brompton-c-line-black-lacquer-urgently-need-to-sell%E2%80%BC%EF%B8%8F-1448157771/) | **2,000** | Like<br>new | 6 | No | • H&H carbon seatpost<br>• Brooks Cambium C13 carbon saddle<br>• Ti Parts Workshop Double X pedals<br>• SMC carbon handlebar M40 | — |
-| **E** | [2021 Brompton M6L black lacquer, C Line Explore Black Edition, with H&H components](https://www.carousell.sg/p/2021-brompton-m6l-black-lacquer-c-line-explore-black-edition-folding-bike-foldable-trifold-bicycle-with-h-h-components-1459226577/) | **1,700** | Lightly<br>used | 6 | No | • H&H hinge clamps<br>• H&H coil rear shock<br>• DMR 25th Anniversary saddle<br>• Ergon grips | — |
+| **K** | [Modded Brompton C Line black lacquer 2022, Hubsmith, Lightworks, Praxis](https://www.carousell.sg/p/modded-brompton-c-line-black-lacquer-2022-with-stock-parts-1450126300/) | **2,500** | Lightly<br>used | external (count not stated) | Ti bar, Ti rear rack (fork, triangle and stem are steel) | • Lightworks carbon chainring<br>• Praxis Doon crank<br>• Carbon seatpost<br>• Hubsmith wheelset<br>• Ridea brake<br>• Lights and Brompton bag | — |
 | **I** | [H6L, Black Edition, black lacquer, "rode less than 3 times"](https://www.carousell.sg/p/brompton-h6l-black-lacquer-black-edition-rode-less-than-3-times-1457451517/) | **1,950** | Like<br>new | 6 | No | None (stock, original saddle) | — |
-| **C** | [C Line Explore M6L, black lacquer](https://www.carousell.sg/p/brompton-c-line-explore-black-lacquer-m6l-6-speed-1467554174/) | **2,200** | Like<br>new | 6 | No | • 44T chainring | — |
 | **F** | [**Custom build, already has Ti fork + triangle**](https://www.carousell.sg/p/brompton-folding-bike-custom-build-1444221621/) | **2,800** | Lightly<br>used | 3 | • Fork<br>• Triangle | • Chris King headset<br>• Joseph Kuosac handlebar<br>• Paul brake lever<br>• Ergon grips<br>• Ti Parts Workshop hinge<br>• Ti22 fork and triangle<br>• Hubsmith wheelset<br>• H&H crank<br>• Ridea oval 54T ring<br>• MKS pedals<br>• Token bottom bracket<br>• Ti bolts and nuts | — |
 | **J** | [C Line black lacquer, "7speed", tan leather accents, lime saddle and grips, Ti rack](https://www.carousell.sg/p/brompton-folding-bike-c-line-black-lacquer-7speed-1450356858/) | **2,500** | Lightly<br>used | 7 (listed) | No | • Rear titanium rack<br>• New tyre<br>• New fenders | — |
 | **A** | [C Line Explore Low Bar + Rack / S6R, Black Edition, black lacquer, PPF-wrapped](https://www.carousell.sg/p/brompton-c-line-explore-low-bar-with-rack-s6r-black-edition-black-lacquer-ppf-wrapped-since-day-1-1464440833/) | **2,099** | Lightly<br>used | 6 | No | None | — |
 | **D** | [C Line M6L special Black Edition, all-black components](https://www.carousell.sg/p/brompton-folding-bike-black-edition-black-lacquer-1429057209/) | **2,400** | Like<br>new | 6 | No | • Upgraded wheels<br>• Upgraded grips | — |
-| **H** | [**Superlight** S6L-X, Black Edition, black lacquer](https://www.carousell.sg/p/brompton-superlight-black-lacquer-black-edition-1462118241/) | **3,883** | Lightly<br>used | 2/3 (mod) | • Stem<br>• Fork<br>• Triangle | • 2/3-speed conversion<br>• Bumble Bee alloy wheelset<br>• Swiss/DT-type shifter<br>• Compact EZ pedals<br>• Joseph Kuosac bar<br>• H&H hinge clamps<br>• Third-party titanium stem | — |
 | **G** | [**Main frame only**, black lacquer (build from scratch)](https://www.carousell.sg/p/brompton-main-frame-black-lacquer-1433478217/) | **1,299** | Like<br>new | — | No | None | — |
+| **E** (removed) | [2021 Brompton M6L black lacquer, C Line Explore Black Edition, with H&H components](https://www.carousell.sg/p/2021-brompton-m6l-black-lacquer-c-line-explore-black-edition-folding-bike-foldable-trifold-bicycle-with-h-h-components-1459226577/) | **1,700** | Lightly<br>used | 6 | No | • H&H hinge clamps<br>• H&H coil rear shock<br>• DMR 25th Anniversary saddle<br>• Ergon grips | **Item removed** (page error 14 Nov 2026)|
+| **C** (removed) | [C Line Explore M6L, black lacquer](https://www.carousell.sg/p/brompton-c-line-explore-black-lacquer-m6l-6-speed-1467554174/) | **2,200** | Like<br>new | 6 | No | • 44T chainring | **Item removed** (page error 14 Nov 2026)|
+| **H** (removed) | [**Superlight** S6L-X, Black Edition, black lacquer](https://www.carousell.sg/p/brompton-superlight-black-lacquer-black-edition-1462118241/) | **3,883** | Lightly<br>used | 2/3 (mod) | • Stem<br>• Fork<br>• Triangle | • 2/3-speed conversion<br>• Bumble Bee alloy wheelset<br>• Swiss/DT-type shifter<br>• Compact EZ pedals<br>• Joseph Kuosac bar<br>• H&H hinge clamps<br>• Third-party titanium stem | **Item removed** (page error 14 Nov 2026)|
 
 **Remarks** tracks the negotiation. Use one of: **1. Arrange for viewing** · **2. Viewed** · **3. Nego (price offered)** · **4. Reject / counter offer (price)**. "—" means not started. Example: `3. Nego S$2,000`.
 
@@ -108,6 +109,13 @@ Rows are in recommendation order (re-ranked 30 Oct 2026 for the Ti triangle/fork
 - Not stated: model code, year, receipt, serial, weight, service history, bar type (low/mid/high). Photos not checked by me.
 - Value read: the Ti rack and new tyre/fenders are outside the plan (the Ti build drops the rack, see Plan §5, so the rack is a sell-on item). At S$2,500 it is S$300-800 above B, E, I and C, so it only earns a place if the 7-speed is a real conversion worth keeping.
 
+## [K — Modded 2022 C Line, Hubsmith / Lightworks / Praxis — S$2,500](https://www.carousell.sg/p/modded-brompton-c-line-black-lacquer-2022-with-stock-parts-1450126300/)
+- Added 14 Nov 2026 (seller offered S$2,500 to the owner in chat; the public listing is also S$2,500). Lightly used, listed over 3 months ago, 13 likes. Seller is an individual (5.0, 8 reviews, 4 years on Carousell). Meet-up at Canberra MRT.
+- **Seen in the 9 photos:** Lightworks carbon chainring with Praxis Doon crank, carbon seatpost, Ti handlebar, Ti rear rack with Ti Easy Wheels, Hubsmith wheelset (black alloy, external-gear rear hub with chain tensioner), Ridea brake, Brooks-style saddle, light, Brompton roll bag. **Fork, rear triangle and stem are lacquered steel**, so the planned Ti swap is still needed.
+- Includes the original stock rims, Sturmey-Archer hubs and other take-offs (resale only). Reason for sale: "considering other builds/upgrades".
+- Not stated: weight, gear count and ratios, receipts, prices per part.
+- Value read: the carbon ring/crank and seatpost are on the plan; the Hubsmith wheels, Ti bar and Ti rack are replaced or dropped. Fair at about S$2,000-2,200 if the wheels and rack resell; S$2,500 only if the stock take-offs are dropped. Ask: weight, what the drivetrain is, price of the carbon parts alone.
+
 ## Quick read (not a verdict: nobody has inspected these)
 1. **C** is the cleanest paper trail and the easiest to anchor a negotiation on. **D** has the best negotiating position (3+ months unsold) but the highest ask.
 2. **F** may be the best value on paper (Ti fork + triangle, Hubsmith wheels, H&H crank, Chris King headset, Paul levers already fitted for S$2,800), but it needs the gearing and stem fixed and every part verified.
@@ -115,7 +123,10 @@ Rows are in recommendation order (re-ranked 30 Oct 2026 for the Ti triangle/fork
 4. **A** costs the most weight for the money (rack, roller rack, all steel) and the PPF hides the frame.
 5. **H** only makes sense if you want the genuine Ti parts and they come with the mods you want; otherwise buy a C Line and the Ti kit.
 
-### Recommendation, re-ranked for the owner's plan (30 Oct 2026, with J added)
+### Recommendation, re-ranked for the owner's plan (14 Nov 2026: K added; E, C and H removed from Carousell)
+**Update 14 Nov 2026:** E, C and H are gone, so ignore their ranks below. Live order is now B, K, I, F, J, A, D, G. K comes second: it carries the planned carbon ring and crank and a carbon post, but its wheels, bar and rack are replaced or dropped and the Ti fork, triangle and stem are not on it (see K).
+
+(Original 30 Oct ranking follows.)
 **Plan and priorities (from the owner):** Ti triangle + fork, carbon 6-7 speed wheelset (new derailleur), carbon bar, carbon chainring + crank. Money is short, so the pick is the best value now with the mods done later. Paper trail and service history are **not** needed. Mods already on the bike count if they are in the plan; other mods are a bonus.
 
 Value logic: a planned mod already fitted saves buying it (Ti fork + triangle S$450-620 new; steel fork + triangle only resells for ~S$160-190). Anything the plan replaces anyway (stock wheels, tyres, tubes, cables, the ring) is worth little. Values below are my estimates from prices seen in this file, not quotes, and the mods on B, E, F, H are read from photos and not confirmed.
