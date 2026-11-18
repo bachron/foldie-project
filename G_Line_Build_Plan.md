@@ -1,82 +1,107 @@
-# Foldie Project: Brompton G Line (Upgraded) build plan
+# Foldie Project: Brompton G Line (Upgraded) Build Plan
 
-**Status (18 Nov 2026):** in progress. Used Brompton G Line, size S, bought as listed (see `G_Line_Upgraded_Build.md`).
-**This is a separate build from the HEXATI T20.** `T20_Build_Plan.md` and `T20_Build_Options.md` are unchanged and still describe the T20. This file reuses the T20 research as a menu of upgrade candidates for the G Line, filtered for what fits a real Brompton G Line.
-**Current parts, weights and prices:** `G_Line_Current_Parts_List.md` (estimated 10.6-12.9 kg, mid ~11.7 kg, vs ~14.8 kg stock).
-Child seats and their mounts are excluded from planning weights, as in every build.
+**Base bike:** used Brompton G Line, size S, bought as listed 18 Nov 2026 (listing and spec: `G_Line_Upgraded_Build.md`).
+**Status:** in progress. Parts to swap are still being chosen.
+**Separate from the HEXATI T20.** `T20_Build_Plan.md` and `T20_Build_Options.md` are unchanged. The T20 research is reused here as a menu of candidates, but only where it fits a real G Line.
+**Rider priorities (carried over, confirm):** general city use, weight-conscious, Singapore sellers where possible. Child seats and their mounts are excluded from planning weights.
+**Target weight:** not set yet. Suggested for discussion: **~10 kg** (see scenarios below).
+**Weight today:** ~10.6-12.9 kg estimated, mid ~11.7 kg, unweighed. Full list: `G_Line_Current_Parts_List.md`. Stock G Line is ~14.8 kg (Brompton, 32.63 lb).
 
-## Planned work already known
-1. Convert size S to M: M stem (Ti preferred), longer seatpost, check front brake hose length.
-2. Swap brakes between the G Line and the mini velo (see `G_Line_Upgraded_Build.md`).
-3. Upgrades below, to be chosen by you.
+> **Decision rule:** a part only moves from "Candidates" to "Chosen" when you say so. Every figure below is an estimate until the part is weighed.
 
 ## Benchmarks
 | Build | Weight | Note |
 |---|---|---|
-| Stock G Line 8-speed | ~14.8 kg | Brompton lists 32.63 lb |
-| Your G Line today | ~10.6-12.9 kg (est.) | Unweighed |
+| Stock G Line 8-speed | ~14.8 kg | Steel frame, aluminium fork, Alfine hub gear |
+| Your G Line today | ~11.7 kg (est.) | Unweighed |
 | CyclingAbout lightest G Line | 9.02 kg | Ti rear triangle (~510g saved) + Silverrock Mini Bro carbon fork |
-| Documented 8.3kg G Line build | 8.3 kg | No child seat, rack or mudguards |
-| HEXATI Ti G Line | 7.48 kg | Full titanium treatment, 3D-printed Ti stem (HEXATI claim) |
+| Documented 8.3 kg G Line | 8.3 kg | No child seat, rack or mudguards |
+| HEXATI Ti G Line | 7.48 kg | Full Ti treatment, 3D-printed Ti stem (HEXATI claim) |
 
-## Candidate upgrades (from the T20 research)
-"Current" weights are my estimates from the parts list. Weights and prices are the T20 file's figures unless noted; check each candidate against the G Line before buying.
+## 1. Frameset
 
-### Quoted by Chris Yeo (your list)
-| Candidate | Quote | Est. weight change | Notes |
+| Part | Current | Candidates | Status |
 |---|---|---|---|
-| Ti stem | S$980 (assumed S$) | about -290 to -550g | T20 plan: the Ti stem is the one that meets G Line geometry for the Thule Yepp Mini mount. Needs M height |
-| Silverrock carbon fork + stem | S$1,580 (assumed S$) | about -700 to -1,150g | T20 plan: carbon stem did not meet G Line spec for the Yepp Mini mount. Fork 388g incl. thru-axle. Overlaps the Ti stem |
+| Main frame | Steel, 2,290g | COMEPLAY/HEXATI Ti G Line, 1,351g, US$1,200-1,350 (saves ~940g; effectively a new frame) | Open, probably not now |
+| Rear triangle | Steel, 1,240-1,310g | COMEPLAY Ti 571g, US$520; tibicycles Ti 633.5g, US$830-1,360 | Open. Biggest single saving (~670-740g). Confirm dropout spacing (listed 142 / 135mm) |
+| Fork | Juin-branded, material unconfirmed, ~600-900g | Silverrock carbon 388g incl. thru-axle; Titanium-DX carbon 290g; EasyTi Ti ~290g (claimed) | Open. Identify and weigh the current fork first. Needs flat mount, 100x12, 160mm rotor and 54mm tyre clearance |
+| Stem (size S to M) | Steel, ~850-1,000g (est.) | **Ti stem S$980** (Chris Yeo); **Silverrock carbon fork + stem S$1,580** (Chris Yeo); COMEPLAY Ti M stem ~S$550-750 (estimate, no public price) | Open. See "Stem and fork" below |
 
-### Frameset
-| Candidate | Weight | Price | Fits a G Line? |
+### Stem and fork (your two Chris Yeo quotes; assumed S$)
+| Option | Quote | Est. weight change | Cost per kg saved |
 |---|---|---|---|
-| COMEPLAY Ti G Line rear triangle | 571g | US$520 | Yes, G Line part. Saves ~670-740g vs steel 1,240-1,310g. Dropout spacing listed 142 / 135mm: confirm |
-| tibicycles Ti rear triangle (G Line) | 633.5g | US$830-1,360 | Yes, 142mm thru-axle |
-| COMEPLAY/HEXATI Ti G Line main frame | 1,351g | US$1,200-1,350 | Yes. Saves ~940g vs steel 2,290g, but it is effectively a new frame |
-| Fork: Titanium-DX carbon | 290g published | eBay | Fits G Line pattern; verify flat mount and 100x12 |
-| Fork: EasyTi titanium | ~290g claimed | — | Claim unverified |
+| A. Ti stem | S$980 | about -290 to -550g | ~S$1,800-3,400/kg |
+| B. Silverrock carbon fork + stem | S$1,580 | about -700 to -1,150g (carbon stem weight is a guess, 300-400g) | ~S$1,400-2,300/kg |
 
-### Cockpit and contact points
-| Part | Current (est.) | Candidates | Notes |
+1. A and B overlap on the stem: pick one, unless the fork can be bought alone.
+2. The bike is size S and you need M. Confirm both quotes are M height and fit the Chris King headset.
+3. T20 plan finding: the carbon stem did not meet G Line spec for the Thule Yepp Mini front seat mount; the Ti stem did. Matters if the seat goes on this bike.
+4. Carbon stems and bars have low rider-weight limits, and child seats can void the warranty.
+
+## 2. Drivetrain
+
+| Part | Current | Candidates | Status |
 |---|---|---|---|
-| Handlebar | Schmolke carbon 31.8mm, 65-105g | Darimo 79-98g (~S$233), Ridea HS3C 90g | Already have the Schmolke; no change needed |
-| Saddle | Fizik carbon, 150-220g | Berk Lupina 75-104g (~S$469-581); Tioga Spyder Stratum 124g (~S$213-254) | Weigh the Fizik first |
-| Grips | Ergon, 85-115g est. | ESI foam 50-60g/pair (budget) | Check which Ergon model |
-| Seatpost | Hexagon Ti, 170-240g est. | TPW Ti 284g, H&H Ti 311-368g, WOOdman GT2 277-307g | These are likely **heavier** than what you have; weigh before spending. M size needs a longer post |
-| Pedals | Unknown | H&H Ti 215g; WOOdman carbon ~186g; Aerolite Ti Road 73g (clipless, future) | Largest cheap saving if the pedals are stock (~400g) |
+| Crank + chainring | Juin 54T, ~480-600g (est.) | Praxis Doon 335-342g + Lightworks spider 36g + Lightworks ring ~56-79g (T20 pick) | Open. Doon is M30; needs the M30 BB below. Saves ~150-250g. Price not researched for this bike |
+| Bottom bracket | Juin BSA24 ceramic | BBInfinite Ceramitech M30, 80g, ~US$175 (est.) | Only if the crank changes |
+| Rear derailleur + shifter | SRAM Force (AXS per chat), shifter/battery unconfirmed | None | T20 picks (Shimano XT M8100) do not fit XDR. Keep |
+| Cassette, chain | 12-speed XDR (model unconfirmed) | None researched | A lighter XDR cassette would need new research |
+| Chain tensioner | Modified Union Jack | None | Keep: stops the chain falling off when folded |
 
-### Small parts
-| Part | Candidate | Weight | Price | Notes |
-|---|---|---|---|---|
-| Dropout hanger | Ti Parts Workshop GRP-21B (135mm) / GRP-22B (142x12) | 48g / 54g | ~S$70-82 | G Line pattern confirmed in the T20 research |
-| Rear rack | Ti Parts Workshop Ti, G Line | 328g | — | Your own plan is a lighter Ti/carbon rack later (~135-227g); stock rack ~564g |
-| Bottom bracket | BBInfinite Ceramitech M30 | 80g | ~US$175 | **Only if you change to a Praxis M30 crank.** Current Juin BB is BSA24 |
+## 3. Brakes
+| Part | Current | Plan | Status |
+|---|---|---|---|
+| Calipers, levers, hoses | Juin 4-piston hydraulic (likely JF401, flat mount), ~450-600g | Move this set to the mini velo (after its flat-bar conversion); fit the mini velo's Juin R1 hybrids with Extralite UltraLevers 3S (41g/pair, 22.2mm, short-pull) | Planned. Check mount type on the mini velo, hose length, pad compound |
+| Rotors | 160mm 6-bolt two-piece x2 | Reuse as is (same size on both bikes) | Keep. T20 centre-lock rotors do not fit |
 
-### Drivetrain: T20 picks that do not carry over
-| T20 pick | Why it does not apply |
-|---|---|
-| Praxis Doon crank 335-342g + Lightworks 36g spider + 48T ring | Doon is an M30 spindle; your Juin BB is BSA24, so it needs the M30 BB above. Worth ~150-250g vs the Juin crank (480-600g est.); price unknown |
-| Shimano XT M8100 12-speed, Nuton 11-50T HG cassette | Your wheelset is SMC **XDR**, and you have SRAM Force. HG parts do not fit. A lighter XDR cassette needs separate research |
-| Ti-Parts carbon rotors (centre-lock, 77g) | Your rotors are 6-bolt |
-| Juin GT-F calipers, Extralite UltraLevers 3, Growtac Equal | You already run Juin 4-piston hydraulic. UltraLevers 3S are for the R1 hybrids moved to the G Line, per the brake swap plan |
-| Wheelset (SMC Plume) and Chris King headset | Already fitted |
+## 4. Wheels and tyres
+| Part | Current | Candidates | Status |
+|---|---|---|---|
+| Wheelset | SMC 12-speed XDR carbon, RHET hubs, ~1,000-1,105g | None | Keep. Do not swap with the mini velo (axles, freehub, tyre clearance) |
+| Tyres | Schwalbe G-One 54-406, ~900-1,050g pair | Continental Contact Urban 50-406, 860g pair (T20 pick) | Optional, small saving (~50-200g), different tread |
 
-### Largest savings first (rough, assumes my estimates are right)
-1. Rear triangle swap: ~670-740g, from US$520.
-2. Stem and fork: 290-550g (Ti stem) or 700-1,150g (Silverrock set).
-3. Pedals: up to ~200-400g if currently stock.
-4. Crank, ring and M30 BB: ~150-250g, cost unknown.
-5. Saddle: ~50-100g.
-Weigh the pedals, fork, seatpost, saddle and stem first: they decide which of these are worth buying.
+## 5. Cockpit and seating
+| Part | Current | Candidates | Status |
+|---|---|---|---|
+| Headset | Chris King | None | Keep |
+| Handlebar | Schmolke carbon 31.8mm, 65-105g (free with bike) | Darimo 79-98g, Ridea HS3C 90g | Keep |
+| Grips | Ergon (model unknown), ~85-115g | ESI foam 50-60g/pair | Check which Ergon |
+| Seatpost | Hexagon Ti, ~170-240g (est.) | TPW Ti 284g, H&H Ti 311-368g, WOOdman GT2 277-307g | Probably already lighter than all candidates: weigh. M size needs a longer post |
+| Saddle | Fizik carbon, ~150-220g (est.) | Berk Lupina 75-104g; Tioga Spyder Stratum 124g | Weigh first |
 
-## Your chosen upgrades
+## 6. Small parts
+| Part | Current | Candidates | Status |
+|---|---|---|---|
+| Pedals | Unknown (stock would be ~350-420g) | H&H Ti 215g; WOOdman carbon ~186g (unverified); Aerolite Ti Road 73g (clipless, future) | Open. Confirm what came with the bike |
+| Dropout hanger | Unknown | Ti Parts Workshop GRP-21B 48g (135mm) / GRP-22B 54g (142x12), ~S$70-82 | Open, cheap. Confirm rear axle standard |
+| Rear rack | None fitted | TPW Ti G Line rack 328g; lighter Ti/carbon rack ~135-227g (your earlier plan) | Later |
+| Easy wheels, kickstand, blocks | Juin | None | Keep |
+
+## 7. Weight and cost scenarios (rough, mid estimates)
+Starting point ~11.7 kg. Prices are the quotes or estimates above, not totals including pedals.
+
+| Scenario | Changes | Est. weight | Added cost |
+|---|---|---|---|
+| Today | none | ~11.7 kg | S$0 |
+| A | Ti stem + Ti rear triangle (COMEPLAY US$520, ~S$680) + H&H Ti pedals | ~10.4 kg | ~S$1,660 + pedals |
+| B | Silverrock fork + stem + Ti rear triangle + H&H Ti pedals | ~9.9 kg | ~S$2,260 + pedals |
+| B + crank | B plus Praxis Doon, Lightworks ring, M30 BB | ~9.7 kg | B + crank price (not researched) |
+
+Weights assume pedals are stock (~385g) and the current fork ~750g; if either is already light, the savings shrink. Exchange rate used: US$1 ~ S$1.3. These are planning numbers, not quotes.
+
+## 8. Open decisions and next steps
+- [ ] You review the T20 tables and pick which candidates to move into Chosen.
+- [ ] Weigh the bike, and the pedals, fork, stem, seatpost and saddle (free, and settles most open rows).
+- [ ] Confirm quote currency for the Chris Yeo prices (assumed S$).
+- [ ] Confirm the Chris Yeo stems are size M and fit the Chris King headset.
+- [ ] Decide Ti stem (A) vs Silverrock fork and stem (B); decide whether the child seat goes on this bike.
+- [ ] Confirm the Silverrock fork fits (flat mount, 100x12, 160mm rotors, 54mm tyres).
+- [ ] Get a COMEPLAY quote: M Ti stem, Ti rear triangle (confirm dropout spacing), possibly a Ti seatpost.
+- [ ] Ask the seller or check the bike: fork, pedals, shifter/battery, tyre, rotor and cassette models.
+- [ ] Test ride S and M before committing to the M conversion.
+- [ ] Mini velo: measure brake mount type and tyre clearance before the brake swap.
+
+## Chosen upgrades
 | Part | Replacement | Price | Weight change | Status |
 |---|---|---|---|---|
-| (to be filled in) | | | | |
-
-## Open questions
-- Quote currency for the Chris Yeo prices.
-- Fork material and weight; pedals; shifter and battery model.
-- Whether Chris Yeo's stems are M height and fit the Chris King headset.
-- Whether the child seat will go on this bike (decides carbon stem vs Ti stem).
+| (to be filled in after your review) | | | | |
