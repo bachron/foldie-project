@@ -60,7 +60,7 @@ Corrected 18 Nov: the Silverrock quote is the fork **and rear triangle**, not a 
 | Part | Current | Candidates | Status |
 |---|---|---|---|
 | Wheelset | SMC 12-speed XDR carbon, RHET hubs, ~1,000-1,105g | None | Keep. Do not swap with the mini velo (axles, freehub, tyre clearance) |
-| Tyres | Schwalbe G-One 54-406, ~900-1,050g pair | Continental Contact Urban 50-406, 860g pair (T20 pick) | Optional, small saving (~50-200g), different tread |
+| Tyres | Schwalbe G-One 54-406, ~900-1,050g pair (est.) | **Leaning: Continental Contact Urban 50-406, 860g pair** (~-115g). Also: Contact Urban 55-406 G Line, ~1,120g pair. Full list: `G_Line_Tyre_List.md` | Leaning. Check rim width and carbon fork/triangle clearance |
 
 ## 5. Cockpit and seating
 | Part | Current | Candidates | Status |
