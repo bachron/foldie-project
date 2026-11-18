@@ -14,7 +14,7 @@
 |---|---|
 | Headset | Chris King |
 | Front / rear blocks, stem cap | Juin float front block, Juin rear suspension block, Juin stem cap |
-| Brakes | Juin 4-pot **full hydraulic**, red Juin hydraulic levers + hoses. Caliper model unconfirmed (likely ETF flat-mount; "JF401" not found online) |
+| Brakes | Juin 4-pot **full hydraulic**, red Juin hydraulic levers + hoses. Caliper model unconfirmed, likely the Juin JF401 4-piston set (it exists: Shopee SG ~S$750, US$650) |
 | Rotors | 160mm **6-bolt** two-piece (confirmed) |
 | Drivetrain | **SRAM Force AXS (wireless) 1x12**, modified Union Jack chain tensioner; Juin crank 54T; Juin BSA24 ceramic BB |
 | Wheels | **SMC 12-speed XDR carbon**, RHET ceramic hubs; Schwalbe G-One 54-406 |
@@ -25,7 +25,7 @@
 ## Price check
 - New G Line 8-speed S$4,950 (Brompton SG); grey import ~S$3,968-4,117; used near-stock M ~S$3,600; working base S$3,800.
 - Rebuilding this spec new ≈ **S$9,200-10,900**. Verdict: good value versus building, but mods hold little resale value.
-- Estimated built weight ~11.5-12.5 kg vs 13.9 kg stock. **Unverified: weigh it.**
+- Estimated built weight ~11.5-12.5 kg vs ~14.8 kg stock (Brompton lists 32.63 lb). **Unverified: weigh it.** Current parts list with weights and prices: `G_Line_Current_Parts_List.md`.
 
 ## Size S → M conversion
 - G Line has one frame; S/M/L differ only by stem height and seatpost (M = longer seatpost).
