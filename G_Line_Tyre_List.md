@@ -1,6 +1,6 @@
 # Foldie Project: Brompton G Line tyre list
 
-**Date:** 18 Nov 2026. **Leaning:** Continental Contact Urban (your pick). **Size:** 20" / 406mm bead seat, SMC carbon rims, G Line frame designed for 54-406.
+**Date:** 18 Nov 2026. **Chosen (18 Nov 2026): Continental Contact Urban 50-406.** **Size:** 20" / 406mm bead seat, SMC carbon rims, G Line frame designed for 54-406.
 **Current tyres:** Schwalbe G-One 54-406 (G-One Allround, the stock G Line tyre). Weight is not published in anything I found; I estimate ~450-525g each (900-1,050g a pair), unweighed.
 **Currency:** prices are US retail from the shops I found, plus a rough S$ at US$1 ~ S$1.3. I have not found Singapore prices; check Carousell, Shopee or Happy Owl.
 
@@ -15,7 +15,7 @@ Both are the same tyre family: SafetyPro Breaker puncture belt, BlackChili compo
 | Vs your current ~900-1,050g pair | about **-40 to -190g** | about **+70 to +220g** (heavier) |
 | Fit | 50mm is narrower than the G Line's 54-406 design size: more clearance, slightly less volume | 55mm is 1mm over the stock 54: check clearance, especially with the carbon fork and triangle |
 
-**Recommendation: the 50-406.** It is the tyre in the T20 plan, it saves weight instead of adding it, and it keeps the Contact Urban puncture protection that suits city riding with a child. The 55-406 is the "official" G Line size and the more comfortable of the two, but it costs ~260g a pair over the 50-406 for 5mm of width.
+**Decision: the 50-406 (chosen).** It is the tyre in the T20 plan, it saves weight instead of adding it, and it keeps the Contact Urban puncture protection that suits city riding with a child. The 55-406 is the "official" G Line size and the more comfortable of the two, but it costs ~260g a pair over the 50-406 for 5mm of width.
 
 ## Other 406 options
 | Option | Size | Weight | Price | Notes |

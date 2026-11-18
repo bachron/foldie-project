@@ -1,10 +1,10 @@
 # Foldie Project: Brompton G Line (Upgraded) Build Plan
 
 **Base bike:** used Brompton G Line, size S, bought as listed 18 Nov 2026 (listing and spec: `G_Line_Upgraded_Build.md`).
-**Status:** in progress. Four upgrades chosen (below); more may follow.
+**Status:** in progress. Five upgrades chosen (below); more may follow.
 **Separate from the HEXATI T20.** `T20_Build_Plan.md` and `T20_Build_Options.md` are unchanged. The T20 research is reused here as a menu of candidates, but only where it fits a real G Line.
 **Rider priorities (carried over, confirm):** general city use, weight-conscious, Singapore sellers where possible. Child seats and their mounts are excluded from planning weights.
-**Target weight:** not set yet. With the chosen upgrades the estimate is about **9.9 kg**.
+**Target weight:** not set yet. With the chosen upgrades the estimate is about **9.8 kg**.
 **Weight today:** ~10.9-13.1 kg estimated, mid ~12.0 kg, unweighed. Full list: `G_Line_Current_Parts_List.md`. Stock G Line is ~14.8 kg (Brompton, 32.63 lb).
 
 > **Decision rule:** a part only moves from "Candidates" to "Chosen" when you say so. Every figure below is an estimate until the part is weighed.
@@ -14,7 +14,7 @@
 |---|---|---|
 | Stock G Line 8-speed | ~14.8 kg | Steel frame, aluminium fork, Alfine hub gear |
 | Your G Line today | ~12.0 kg (est.) | Unweighed; stock bar and pedals |
-| Your G Line with chosen upgrades | ~9.9 kg (est.) | See scenarios |
+| Your G Line with chosen upgrades | ~9.8 kg (est.) | See scenarios |
 | CyclingAbout lightest G Line | 9.02 kg | Ti rear triangle (~510g saved) + Silverrock Mini Bro carbon fork |
 | Documented 8.3 kg G Line | 8.3 kg | No child seat, rack or mudguards |
 | HEXATI Ti G Line | 7.48 kg | Full Ti treatment, 3D-printed Ti stem (HEXATI claim) |
@@ -60,7 +60,7 @@ Corrected 18 Nov: the Silverrock quote is the fork **and rear triangle**, not a 
 | Part | Current | Candidates | Status |
 |---|---|---|---|
 | Wheelset | SMC 12-speed XDR carbon, RHET hubs, ~1,000-1,105g | None | Keep. Do not swap with the mini velo (axles, freehub, tyre clearance) |
-| Tyres | Schwalbe G-One 54-406, ~900-1,050g pair (est.) | **Leaning: Continental Contact Urban 50-406, 860g pair** (~-115g). Also: Contact Urban 55-406 G Line, ~1,120g pair. Full list: `G_Line_Tyre_List.md` | Leaning. Check rim width and carbon fork/triangle clearance |
+| Tyres | Schwalbe G-One 54-406, ~900-1,050g pair (est.) | **Chosen: Continental Contact Urban 50-406, 860g pair** (~-115g). Also: Contact Urban 55-406 G Line, ~1,120g pair. Full list: `G_Line_Tyre_List.md` | Chosen. Check rim width and carbon fork/triangle clearance before buying |
 
 ## 5. Cockpit and seating
 | Part | Current | Candidates | Status |
@@ -86,8 +86,9 @@ Corrected 18 Nov: the Silverrock quote is the fork **and rear triangle**, not a 
 | Schmolke carbon bar | provided | ~11.75 kg | free |
 | Carbon pedals | look-alike WOOdman | ~11.6 kg | ~S$55 |
 | Ti stem | Chris Yeo | ~11.2 kg | S$980 |
-| Silverrock fork + triangle set | Chris Yeo | **~9.9 kg** | S$1,580 |
-| **Total** | | **~9.9 kg, about -2.05 kg** | **~S$2,615** |
+| Silverrock fork + triangle set | Chris Yeo | ~9.9 kg | S$1,580 |
+| Tyres | Continental Contact Urban 50-406 | **~9.8 kg** | ~S$140 (est.) |
+| **Total** | | **~9.8 kg, about -2.2 kg** | **~S$2,755** |
 
 The range is wide (about 8.3-11.6 kg) because the stock bar, pedals, stem and fork are still unweighed. Savings by cost: the set is the best value (~S$1,300/kg saved), pedals are cheapest, the Ti stem is the most expensive per kg (~S$2,300/kg). Possible later: Praxis Doon crank + M30 BB (~150-250g), lighter saddle (~50-100g). Not included: the M conversion's longer seatpost.
 
@@ -110,4 +111,5 @@ The range is wide (about 8.3-11.6 kg) because the stock bar, pedals, stem and fo
 | Fork + rear triangle | Silverrock carbon set, Chris Yeo | 1,580 | -1,000 to -1,450g | Chosen |
 | Handlebar | Schmolke carbon 31.8mm | free (provided) | -175 to -315g | Chosen |
 | Pedals | Carbon look-alike (WOOdman style), Carousell | ~55 | -90 to -250g | Chosen |
-| **Total** | | **~2,615** | **about -1,550 to -2,565g** | |
+| Tyres x2 | Continental Contact Urban 50-406 (430g each) | ~140 (est., US$55 each; SG price not found) | -40 to -190g | Chosen |
+| **Total** | | **~2,755** | **about -1,600 to -2,750g** | |
