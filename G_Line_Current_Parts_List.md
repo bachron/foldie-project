@@ -18,7 +18,7 @@
 | 3 | Stock bike (base) | Stem, size S | Steel, stock. Estimate; Ti stem budgets are 450-560g | 850-1,000 | in base bike | Low |
 | 4 | Stock bike (base) | Front fork | Listed as Juin-branded; material unconfirmed. Stock G Line fork is aluminium; confirm by weighing | 600-900 | in base bike | Low |
 | 5 | Stock bike (base) | Hinges, clamps, locking block, misc hardware | Stock. Estimate | 250-400 | in base bike | Low |
-| 6 | Stock bike (base) | Pedals | Not in listing; assumed stock. Confirm what came with it | 350-420 | in base bike | Low |
+| 6 | Stock bike (base) | Pedals | Stock (confirmed 18 Nov) | 350-420 | in base bike | Low |
 | 7 | Added / swapped | Headset | Chris King (Brompton fit). Repo ~112g, ~S$195 | 110-115 | 195-260 | Med |
 | 8 | Added / swapped | Stem cap | Juin | 10-25 | 40-80 | Low |
 | 9 | Added / swapped | Front block | Juin float | 90-150 | 180-300 | Low |
@@ -41,29 +41,35 @@
 | 26 | Added / swapped | Seatpost | Hexagon Ti | 170-240 | 350-450 | Low |
 | 27 | Added / swapped | Saddle | Fizik carbon. Model not stated | 150-220 | 250-450 | Low |
 | 28 | Added / swapped | Grips | Ergon | 85-115 | 50-90 | Low |
-| 29 | Added / swapped | Handlebar | Schmolke carbon 31.8mm (free with bike). Repo Schmolke figures; retail price shown, you got it free | 65-105 | 412-551 | Med |
+| 29 | Stock bike (base) | Handlebar | Stock (corrected 18 Nov: not the Schmolke). Weight is my estimate | 280-380 | in base bike | Low |
 
 ## Totals
-- **Estimated weight: 10.6-12.9 kg** (mid ~11.7 kg). Stock base items 5.6-6.3 kg; added/swapped parts 5.1-6.5 kg. Not counted: cables and brake hose runs beyond the hardware line, bolts, lights, mudguards, bar tape. Compared with ~14.8 kg stock, the mods are worth roughly 2.5-3 kg.
-- **Aftermarket parts, new retail: S$6,262-9,036** (includes the Schmolke bar that was free, S$412-551).
+- **Estimated weight: 10.9-13.1 kg** (mid ~12.0 kg). Stock base items 5.9-6.7 kg; added/swapped parts 5.0-6.4 kg. Not counted: cables and brake hose runs beyond the hardware line, bolts, lights, mudguards, bar tape. Compared with ~14.8 kg stock, the mods are worth roughly 2-3.5 kg.
+- **Aftermarket parts, new retail: S$5,850-8,485** (the Schmolke bar is not on the bike yet; it is being provided free).
 - **Base G Line value:** S$3,600-4,950 (used near-stock to new SG retail; chat assumption S$3,800). The base already includes some parts that were swapped out (stock wheels, hub gear, brakes, saddle, post, bar), so adding it to the aftermarket total overstates a rebuild by roughly S$1,000-1,400.
-- **Rough replacement cost to rebuild this spec: S$8,462-12,986.** The 16-18 Nov chat estimated S$9,200-10,900, which sits inside this wider range.
+- **Rough replacement cost to rebuild this spec: S$8,050-12,435.** The 16-18 Nov chat estimated S$9,200-10,900, which sits inside this wider range.
+- Corrected 18 Nov: the handlebar is stock and the pedals are stock; the Schmolke carbon bar will be provided and fitted as an upgrade.
 - Missing detail that moves the numbers most: fork material and weight, shifter/battery, tyre and rotor models, cassette model, whether the pedals are stock.
 
-## Upgrades under consideration (quotes from Chris Yeo)
-Currency not stated in your message; I assumed **S$** because his other quotes in the T20 plan are S$. Tell me if these are US$.
-
-| Option | Quote | Replaces | Est. weight change | Cost per kg saved |
+## Upgrades chosen so far (corrected 18 Nov; quotes in S$)
+| Upgrade | Cost | Replaces | Est. weight change | Source of weight |
 |---|---|---|---|---|
-| 1. Ti stem | S$980 | Stock steel stem (850-1,000g, est.) | Ti stem budgets 450-560g, so about **-290 to -550g** | ~S$1,800-3,400/kg |
-| 2. Silverrock carbon fork **and** stem | S$1,580 | Current fork (600-900g, est.) and steel stem | Fork ~388g incl. thru-axle (T20 plan figure); carbon stem weight unknown, guess 300-400g. About **-700 to -1,150g** | ~S$1,400-2,300/kg |
+| Ti stem (Chris Yeo) | S$980 | Stock steel stem 850-1,000g (est.) | about **-290 to -550g** (Ti stems 450-560g) | T20 plan figures |
+| Silverrock carbon **fork + rear triangle** set (Chris Yeo) | S$1,580 | Current fork 600-900g (est.) + steel rear triangle 1,240-1,310g | about **-1,000 to -1,450g** | Retailer lists rear triangle 368g + thru-axle and accessories 99.5g = 467.5g, 142mm thru-axle; fork 388g incl. thru-axle (T20 plan) |
+| Schmolke carbon bar 31.8mm | free (provided) | Stock bar 280-380g (est.) | about **-175 to -315g** | Schmolke 65-105g |
+| Carbon pedals, a WOOdman look-alike from Carousell | ~S$55 | Stock pedals 350-420g (est.) | about **-90 to -250g** | Genuine WOOdman is listed at 168-186g a pair; a copy's real weight is unknown |
+| **Total** | **~S$2,615** | | about **-1,550 to -2,565g**, mid about **-2.05 kg** | |
+
+Estimated bike after these: about **9.9 kg** (mid), from about 12.0 kg. The range is wide (roughly 8.3-11.6 kg) until the stock parts are weighed.
 
 Things to settle before buying:
-1. **1 and 2 overlap on the stem.** Pick the Ti stem (1) or the carbon fork and stem set (2), unless the fork can be bought alone.
-2. **Size M stem.** The bike is size S and you need M, so both quotes must be the M height. Confirm the quoted stems are M and fit the **Chris King headset** and the Juin stem cap.
-3. **Fork fit:** this bike has Juin 4-piston flat-mount brakes. Check the Silverrock fork has the right flat-mount tab, 100x12 thru-axle, 160mm rotor clearance and 54mm tyre clearance. Confirm what fork is fitted now (weigh it).
-4. **Front child seat:** the T20 plan found the carbon stem did not meet G Line spec for the Thule Yepp Mini mount. Check this before choosing option 2 if the seat goes on this bike.
-5. Carbon stem and bars have low rider-weight limits and child seats can void the warranty (T20 plan notes).
+1. **Stem and set are separate, so they stack.** The Silverrock quote is the fork and rear triangle, not a stem.
+2. **Size M stem.** The bike is size S and you need M. Confirm the Ti stem is M height and fits the **Chris King headset** and the Juin stem cap.
+3. **Carbon triangle fit:** the set is a **142mm thru-axle** rear. Check your SMC rear hub is 142x12, not 135mm QR, and that the rear brake mount is flat mount for the Juin caliper, the rear derailleur hanger takes the SRAM Force, and the Juin rear suspension block and easy wheels still fit.
+4. **Carbon fork fit:** check the flat-mount tab, 100x12 thru-axle, 160mm rotor clearance and 54mm tyre clearance.
+5. **Front child seat:** the T20 plan found the carbon stem did not meet G Line spec for the Thule Yepp Mini mount; the Ti stem is the safe choice if the seat goes on this bike.
+6. **Look-alike pedals:** quality, bearings and real weight are unverified. Treat the claimed weight as unknown until you weigh them, and check the axle thread and quick-release fit.
+7. Carbon parts and bars have low rider-weight limits, and child seats can void the warranty (T20 plan notes).
 
 ## Next
 Tell me which parts you want to swap and I'll update the table with the new weight, price and net change. Weigh the bike and any parts you remove to replace my Low-confidence figures.
