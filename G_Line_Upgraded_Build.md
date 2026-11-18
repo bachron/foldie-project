@@ -1,6 +1,6 @@
 # Foldie Project — Brompton G Line (Upgraded, bought used)
 
-**Status (18 Nov 2026):** bought. Source: Carousell listing "Brompton G Line – Upgraded" (Singapore): https://www.carousell.sg/p/brompton-g-line-upgraded-1474099065/ (reference only; the listing may be removed now that it is sold).
+**Status (18 Nov 2026):** in progress (bought; choosing parts to swap). Source: Carousell listing "Brompton G Line – Upgraded" (Singapore): https://www.carousell.sg/p/brompton-g-line-upgraded-1474099065/ (reference only; the listing may be removed now that it is sold).
 **Not recorded here:** price paid and delivery details (kept out of this public repo).
 **Origin of this file:** summary of Asri's chat of 16-18 Nov 2026 (pasted into the session), not re-verified against the listing.
 
