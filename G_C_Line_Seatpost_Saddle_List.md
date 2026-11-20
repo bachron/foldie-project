@@ -7,6 +7,19 @@
 > **Conflict to settle:** `C_Line_Build_Plan.md` excludes carbon seatposts because a rear child seat would clamp to the post (owner rule, T20 and C Line notes). If either bike will carry that seat, take an alloy or Ti post from the table instead. Carbon posts also have low rider-weight limits (WOOdman lists 110 kg).
 > **G Line note:** the G Line already has a Hexagon Ti post (about 170-240 g, estimated, unweighed). Every carbon post below is 204-310 g, so a carbon post of the same length saves little or nothing unless the Hexagon is heavier than estimated. Weigh it first. Before ordering a shorter post, measure how much of the 560 mm is currently unused: a 540 mm post loses 20 mm of reach.
 
+**Decision (20 Nov 2026): 540 mm fits both the G Line and the P Line.** Buy the H&H carbon 540 mm for each bike.
+
+## Carousell listings, H&H carbon 540 mm (weights per H&H spec; listings do not state weight)
+
+| Listing | Head type | Weight (spec) | Price | Condition |
+|---|---|---|---|---|
+| [H&H ultralight carbon 540 mm, A/C/G/P/T Line](https://www.carousell.sg/p/like-new-h-h-ultralight-carbon-seatpost-540mm-for-brompton-a-c-g-p-t-line-b75-m6l-s6l-m3l-m2l-s2l-m4l-1472319835/) | not stated, ask | 257 g (DC) or 280 g (SC) | S$120 | Like new |
+| [H&H carbon 540 mm direct clamp](https://www.carousell.sg/p/h-h-carbon-seatpost-540mm-direct-clamp-for-brompton-upgrade-1298437215/) | DC | 257 g | S$220 | New |
+| [H&H carbon, SC/DC types, 540 or 600 mm](https://www.carousell.sg/p/ready-stock-h-h-carbon-seatpost-for-brompton-3k-12k-design-sc-dc-type-540mm-600mm-1335475253/) | SC or DC | 280 g (SC) / 257 g (DC) | S$220 | New |
+| [H&H carbon 3K/12K](https://www.carousell.sg/p/h-h-carbon-seatpost-3k-12k-for-brompton-1250990162/) | not stated | 257-280 g | S$200 | New |
+
+Weight saved against the stock steel post (394-420 g): about 115-160 g. Against the G Line's Hexagon Ti post (170-240 g, estimated, unweighed) a carbon post saves nothing, so weigh the Hexagon before swapping it.
+
 ## Seatposts (carbon, 31.8 mm class)
 
 | Post | Length | Weight | Price | Fits G Line M (560 mm max) | Fits C / P Line | Notes |

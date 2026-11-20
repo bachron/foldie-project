@@ -47,8 +47,28 @@ Corrected 18 Nov: the Silverrock quote is the fork **and rear triangle**, not a 
 | Crank + chainring | Juin 54T, ~480-600g (est.) | Praxis Doon 335-342g + Lightworks spider 36g + Lightworks ring ~56-79g (T20 pick) | Open. Doon is M30; needs the M30 BB below. Saves ~150-250g. Price not researched for this bike |
 | Bottom bracket | Juin BSA24 ceramic | BBInfinite Ceramitech M30, 80g, ~US$175 (est.) | Only if the crank changes |
 | Rear derailleur + shifter | SRAM Force (AXS per chat), shifter/battery unconfirmed | None | T20 picks (Shimano XT M8100) do not fit XDR. Keep |
-| Cassette, chain | 12-speed XDR (model unconfirmed) | None researched | A lighter XDR cassette would need new research |
+| Cassette, chain | 12-speed XDR, 10-36T (owner, 20 Nov) | None researched | Gearing analysis below |
 | Chain tensioner | Modified Union Jack | None | Keep: stops the chain falling off when folded |
+
+### Gearing: 54T chainring x 10-36T cassette (analysed 20 Nov 2026)
+Rolling circumference used: 1,565 mm (50-406 tyre, Cateye and Wahoo tables), about 19.6 in wheel diameter. Cogs assumed to be 10-11-12-13-15-17-19-21-24-28-32-36 (SRAM XG-1270 10-36T layout).
+
+| Cog | Ratio | Gear inches | km/h at 80 rpm | km/h at 90 rpm |
+|---|---|---|---|---|
+| 10 | 5.40 | 106 | 40.6 | 45.6 |
+| 12 | 4.50 | 88 | 33.8 | 38.0 |
+| 15 | 3.60 | 71 | 27.0 | 30.4 |
+| 17 | 3.18 | 62 | 23.9 | 26.8 |
+| 21 | 2.57 | 50 | 19.3 | 21.7 |
+| 24 | 2.25 | 44 | 16.9 | 19.0 |
+| 28 | 1.93 | 38 | 14.5 | 16.3 |
+| 36 | 1.50 | 29 | 11.3 | 12.7 |
+
+- Range 360 percent, steps of 8-14 percent. Cruising at 20-30 km/h at 80-90 rpm falls on the 15-21T cogs, the middle of the cassette.
+- Top gear is 106 in (46 km/h at 90 rpm), more than a city folder uses. The two smallest cogs are for descents and tailwinds.
+- Lowest gear is 29 in, about the same as 34x34 on a 700c road bike. That is fine for a light bike and flat Singapore riding. It is much taller than the T20 plan's 48T x 11-50T (about 19 in), so expect it to be hard with a child seat and a child on a ramp or bridge.
+- A smaller ring would move the whole range: 50T gives 27 in low and 98 in high, 48T gives 26 in and 94 in. Ring availability and chain clearance not checked.
+- Check: the Force AXS rear derailleur must be the version marked for a 36T largest cog (older Force eTap AXS derailleurs were limited to 33T). Chain length must be set for the 10-36T range with the tensioner.
 
 ## 3. Brakes
 | Part | Current | Plan | Status |

@@ -30,7 +30,7 @@
 | 15 | Added / swapped | Rear derailleur | SRAM Force (AXS per chat summary). Listing says only 'SRAM Force'; confirm AXS | 255-305 | 650-850 | Med |
 | 16 | Added / swapped | Shifter / battery | Unconfirmed. Not stated in listing; needed to shift | 80-180 | 250-450 | Low |
 | 17 | Added / swapped | Chain tensioner | Modified Union Jack | 60-110 | 100-200 | Low |
-| 18 | Added / swapped | Cassette | 12-speed XDR. Not named in listing | 260-330 | 300-500 | Low |
+| 18 | Added / swapped | Cassette | 12-speed XDR, 10-36T (owner, 20 Nov). Brand not stated; SRAM Force XG-1270 10-36T cogs are 10-11-12-13-15-17-19-21-24-28-32-36 | 260-330 | 300-500 | Low |
 | 19 | Added / swapped | Chain | 12-speed | 230-280 | 60-120 | Low |
 | 20 | Added / swapped | Wheelset | SMC 12-speed XDR carbon, 406. SMC Plume DW2 from 945g; 1,080g +/-25 and US$1,238 on one retailer | 1,000-1,105 | 1,500-1,750 | Med |
 | 21 | Added / swapped | Tyres x2 | Schwalbe G-One 54-406. Tyre model from chat summary | 900-1,050 | 110-170 | Low |
