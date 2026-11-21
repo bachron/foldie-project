@@ -4,6 +4,8 @@
 **Status:** in progress. Five upgrades chosen (below); more may follow.
 **Separate from the HEXATI T20.** `T20_Build_Plan.md` and `T20_Build_Options.md` are unchanged. The T20 research is reused here as a menu of candidates, but only where it fits a real G Line.
 **Rider priorities (carried over, confirm):** general city use, weight-conscious, Singapore sellers where possible. Child seats and their mounts are excluded from planning weights.
+**Measured weight (owner, 21 Nov 2026, rough scale reading): the current G Line build is about 10 kg.** The ~12.0 kg "Today" figure in this plan was an estimate and is about 2 kg too high, so the stock-part weights behind it were overestimated and the savings below are likely overstated. Projection from 10 kg: if the savings scale down in proportion (x0.83) the finished bike is about 8.0 kg; if the full -2.35 kg were real it would be about 7.65 kg. Treat about 7.7-8.1 kg as the range. Weigh the stock bar, stem, fork, pedals and tyres as they come off to firm this up.
+
 **Target weight:** not set yet. With the chosen upgrades the estimate is about **9.65 kg**.
 **Weight today:** ~10.9-13.1 kg estimated, mid ~12.0 kg, unweighed. Full list: `G_Line_Current_Parts_List.md`. Stock G Line is ~14.8 kg (Brompton, 32.63 lb).
 
