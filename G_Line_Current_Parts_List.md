@@ -58,10 +58,10 @@
 | Silverrock carbon **fork + rear triangle** set (Chris Yeo) | S$1,580 | Current fork 600-900g (est.) + steel rear triangle 1,240-1,310g | about **-1,000 to -1,450g** | Retailer lists rear triangle 368g + thru-axle and accessories 99.5g = 467.5g, 142mm thru-axle; fork 388g incl. thru-axle (T20 plan) |
 | Schmolke carbon bar 31.8mm | free (provided) | Stock bar 280-380g (est.) | about **-175 to -315g** | Schmolke 65-105g |
 | Carbon pedals, a WOOdman look-alike from Carousell | ~S$55 | Stock pedals 350-420g (est.) | about **-90 to -250g** | Genuine WOOdman is listed at 168-186g a pair; a copy's real weight is unknown |
-| Tyres x2: Continental Contact Urban 50-406 | ~S$140 (est.; SG price not found) | Current tyres 900-1,050g pair (est.) | about **-40 to -190g** (860g pair) | Manufacturer 430g each; see `G_Line_Tyre_List.md` |
-| **Total** | **~S$2,755** | | about **-1,600 to -2,750g**, mid about **-2.2 kg** | |
+| Tyres x2: Continental Contact Urban 42-406 | ~S$140 (est., 50-406 price; 42-406 and SG price not checked) | Current tyres 900-1,050g pair (est.) | about **-190 to -340g** (710g pair) | 355g each (T20 plan figure); see `G_Line_Tyre_List.md` |
+| **Total** | **~S$2,755** | | about **-1,750 to -2,900g**, mid about **-2.35 kg** | |
 
-Estimated bike after these: about **9.8 kg** (mid), from about 12.0 kg. The range is wide (roughly 8.3-11.6 kg) until the stock parts are weighed.
+Estimated bike after these: about **9.65 kg** (mid), from about 12.0 kg. The range is wide (roughly 8.15-11.45 kg) until the stock parts are weighed.
 
 Things to settle before buying:
 1. **Stem and set are separate, so they stack.** The Silverrock quote is the fork and rear triangle, not a stem.

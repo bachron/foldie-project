@@ -1,8 +1,8 @@
 # Foldie Project: Brompton G Line tyre list
 
-**Date:** 18 Nov 2026. **Chosen (18 Nov 2026): Continental Contact Urban 50-406.** **Size:** 20" / 406mm bead seat, SMC carbon rims, G Line frame designed for 54-406.
+**Date:** 18 Nov 2026. **Chosen (21 Nov 2026, owner): Continental Contact Urban 42-406 (20 x 1.6), changed from the 50-406 chosen on 18 Nov.** **Size:** 20" / 406mm bead seat, SMC carbon rims, G Line frame designed for 54-406.
 **Current tyres:** Schwalbe G-One 54-406 (G-One Allround, the stock G Line tyre). Weight is not published in anything I found; I estimate ~450-525g each (900-1,050g a pair), unweighed.
-**Owner note (21 Nov 2026):** the tyre planned for later is a Contact Urban in 40-45-406, narrower than the 50-406 chosen above. The Contact Urban in that range is the 42-406 (20 x 1.6, 355g each per the T20 plan, 710g a pair), about 150g a pair lighter than the 50-406 and roughly 190-340g lighter than the current G-One pair (est.). The totals and the Chosen line above have not been changed yet, pending the owner's go-ahead.
+**Owner note (21 Nov 2026):** the tyre planned for later is a Contact Urban in 40-45-406, narrower than the 50-406 chosen above. The Contact Urban in that range is the 42-406 (20 x 1.6, 355g each per the T20 plan, 710g a pair), about 150g a pair lighter than the 50-406 and roughly 190-340g lighter than the current G-One pair (est.). On 21 Nov the owner confirmed the switch to the 42-406; the Chosen line and totals are updated. The 42-406 price was not checked, so the S$140 figure is still the 50-406 estimate.
 **Currency:** prices are US retail from the shops I found, plus a rough S$ at US$1 ~ S$1.3. I have not found Singapore prices; check Carousell, Shopee or Happy Owl.
 
 ## The two Continental Contact Urban sizes
@@ -16,7 +16,7 @@ Both are the same tyre family: SafetyPro Breaker puncture belt, BlackChili compo
 | Vs your current ~900-1,050g pair | about **-40 to -190g** | about **+70 to +220g** (heavier) |
 | Fit | 50mm is narrower than the G Line's 54-406 design size: more clearance, slightly less volume | 55mm is 1mm over the stock 54: check clearance, especially with the carbon fork and triangle |
 
-**Decision: the 50-406 (chosen).** It is the tyre in the T20 plan, it saves weight instead of adding it, and it keeps the Contact Urban puncture protection that suits city riding with a child. The 55-406 is the "official" G Line size and the more comfortable of the two, but it costs ~260g a pair over the 50-406 for 5mm of width.
+**Decision (superseded 21 Nov 2026 by the 42-406; the reasoning below is the original 50-406 case).** It is the tyre in the T20 plan, it saves weight instead of adding it, and it keeps the Contact Urban puncture protection that suits city riding with a child. The 55-406 is the "official" G Line size and the more comfortable of the two, but it costs ~260g a pair over the 50-406 for 5mm of width.
 
 ## Other 406 options
 | Option | Size | Weight | Price | Notes |
@@ -40,6 +40,7 @@ Weights marked "not published" are ones I could not confirm; do not use them for
 5. **Singapore price:** find a local seller before buying from overseas.
 
 ## Weight effect on the build
-- Contact Urban 50-406: about -115g (mid) from today, which would bring the estimate to about 9.8 kg.
+- **Contact Urban 42-406 (chosen): 710g a pair, about -265g (mid; range -190 to -340g) from today, which brings the estimate to about 9.65 kg.**
+- Contact Urban 50-406: about -115g (mid) from today, about 9.8 kg.
 - Contact Urban 55-406: about +145g (mid), about 10.0 kg.
 These are rough because the current tyres are unweighed. Weigh one current tyre, then the numbers firm up.
