@@ -50,24 +50,25 @@ Corrected 18 Nov: the Silverrock quote is the fork **and rear triangle**, not a 
 | Cassette, chain | 12-speed XDR, 10-36T (owner, 20 Nov) | None researched | Gearing analysis below |
 | Chain tensioner | Modified Union Jack | None | Keep: stops the chain falling off when folded |
 
-### Gearing: 54T chainring x 10-36T cassette (analysed 20 Nov 2026)
-Rolling circumference used: 1,565 mm (50-406 tyre, Cateye and Wahoo tables), about 19.6 in wheel diameter. Cogs assumed to be 10-11-12-13-15-17-19-21-24-28-32-36 (SRAM XG-1270 10-36T layout).
+### Gearing: 54T chainring x 10-36T cassette (analysed 20 Nov, updated 21 Nov 2026)
+Tyres: now Schwalbe G-One 54-406, future Continental Contact Urban 40-45-406 (owner, 21 Nov). Rolling circumference is not published for every size: the Cateye table lists 40-406 at 1,490 mm, 47-406 at 1,515 mm and 50-406 at 1,565 mm and has no 54-406 row. I used about 1,590 mm for the 54-406 (extrapolated, estimate) and about 1,505 mm for a 42-406 (interpolated, estimate); both are good to roughly 1 percent. Cogs assumed to be 10-11-12-13-15-17-19-21-24-28-32-36 (SRAM XG-1270 10-36T layout).
 
-| Cog | Ratio | Gear inches | km/h at 80 rpm | km/h at 90 rpm |
+| Cog | Gear inches now (54-406) | Gear inches future (42-406) | km/h at 90 rpm now | km/h at 90 rpm future |
 |---|---|---|---|---|
-| 10 | 5.40 | 106 | 40.6 | 45.6 |
-| 12 | 4.50 | 88 | 33.8 | 38.0 |
-| 15 | 3.60 | 71 | 27.0 | 30.4 |
-| 17 | 3.18 | 62 | 23.9 | 26.8 |
-| 21 | 2.57 | 50 | 19.3 | 21.7 |
-| 24 | 2.25 | 44 | 16.9 | 19.0 |
-| 28 | 1.93 | 38 | 14.5 | 16.3 |
-| 36 | 1.50 | 29 | 11.3 | 12.7 |
+| 10 | 108 | 102 | 46.4 | 43.9 |
+| 12 | 90 | 85 | 38.6 | 36.6 |
+| 15 | 72 | 68 | 30.9 | 29.3 |
+| 17 | 63 | 60 | 27.3 | 25.8 |
+| 21 | 51 | 49 | 22.1 | 20.9 |
+| 24 | 45 | 42 | 19.3 | 18.3 |
+| 28 | 38 | 36 | 16.6 | 15.7 |
+| 36 | 30 | 28 | 12.9 | 12.2 |
 
-- Range 360 percent, steps of 8-14 percent. Cruising at 20-30 km/h at 80-90 rpm falls on the 15-21T cogs, the middle of the cassette.
-- Top gear is 106 in (46 km/h at 90 rpm), more than a city folder uses. The two smallest cogs are for descents and tailwinds.
-- Lowest gear is 29 in, about the same as 34x34 on a 700c road bike. That is fine for a light bike and flat Singapore riding. It is much taller than the T20 plan's 48T x 11-50T (about 19 in), so expect it to be hard with a child seat and a child on a ramp or bridge.
-- A smaller ring would move the whole range: 50T gives 27 in low and 98 in high, 48T gives 26 in and 94 in. Ring availability and chain clearance not checked.
+- The narrower tyre makes every gear about 5 percent lower: the same pedalling is about 5 percent slower and about 5 percent easier. The range stays 360 percent, steps of 8-14 percent.
+- Cruising at 20-30 km/h at 80-90 rpm sits on the 15-21T cogs, the middle of the cassette, with either tyre.
+- Top gear is 102-108 in (44-46 km/h at 90 rpm), more than a city folder uses.
+- Lowest gear is 28-30 in, about the same as 34x34 on a 700c road bike. Fine for a light bike and flat Singapore riding. Much taller than the T20 plan's 48T x 11-50T (about 19 in), so expect it to be hard with a child seat and a child on a ramp or bridge. The 42-406 tyre makes it about 1.6 in easier.
+- A smaller ring would move the range: with the 42-406, 50T gives 26 in low and 94 in high, 48T gives 25 in and 91 in. Ring availability and chain clearance not checked.
 - Check: the Force AXS rear derailleur must be the version marked for a 36T largest cog (older Force eTap AXS derailleurs were limited to 33T). Chain length must be set for the 10-36T range with the tensioner.
 
 ## 3. Brakes

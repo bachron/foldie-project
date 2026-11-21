@@ -2,6 +2,7 @@
 
 **Date:** 18 Nov 2026. **Chosen (18 Nov 2026): Continental Contact Urban 50-406.** **Size:** 20" / 406mm bead seat, SMC carbon rims, G Line frame designed for 54-406.
 **Current tyres:** Schwalbe G-One 54-406 (G-One Allround, the stock G Line tyre). Weight is not published in anything I found; I estimate ~450-525g each (900-1,050g a pair), unweighed.
+**Owner note (21 Nov 2026):** the tyre planned for later is a Contact Urban in 40-45-406, narrower than the 50-406 chosen above. The Contact Urban in that range is the 42-406 (20 x 1.6, 355g each per the T20 plan, 710g a pair), about 150g a pair lighter than the 50-406 and roughly 190-340g lighter than the current G-One pair (est.). The totals and the Chosen line above have not been changed yet, pending the owner's go-ahead.
 **Currency:** prices are US retail from the shops I found, plus a rough S$ at US$1 ~ S$1.3. I have not found Singapore prices; check Carousell, Shopee or Happy Owl.
 
 ## The two Continental Contact Urban sizes
