@@ -4,10 +4,10 @@
 **Status:** in progress. Five upgrades chosen (below); more may follow.
 **Separate from the HEXATI T20.** `T20_Build_Plan.md` and `T20_Build_Options.md` are unchanged. The T20 research is reused here as a menu of candidates, but only where it fits a real G Line.
 **Rider priorities (carried over, confirm):** general city use, weight-conscious, Singapore sellers where possible. Child seats and their mounts are excluded from planning weights.
-**Measured weight (owner, 21 Nov 2026, rough scale reading): the current G Line build is about 10 kg.** The ~12.0 kg "Today" figure in this plan was an estimate and is about 2 kg too high, so the stock-part weights behind it were overestimated and the savings below are likely overstated. Projection from 10 kg: if the savings scale down in proportion (x0.83) the finished bike is about 8.0 kg; if the full -2.35 kg were real it would be about 7.65 kg. Treat about 7.7-8.1 kg as the range. Weigh the stock bar, stem, fork, pedals and tyres as they come off to firm this up.
+**Measured weight (owner, 21 Nov 2026, rough scale reading): the current G Line build is about 10 kg.** The earlier ~12.0 kg "Today" figure was my estimate and was about 2 kg too high. Method used to redo the savings: every old-part weight in the tables was scaled by 10/12 (0.83) because I cannot tell which parts were overestimated, then the new-part weight was subtracted. The new-part weights are published or quoted figures and were not scaled. Result: about **-1.5 kg (range -1.0 to -2.0 kg), finished bike about 8.5 kg (8.0-9.0 kg)**. Weigh each old part as it comes off and replace these rows with real numbers.
 
-**Target weight:** not set yet. With the chosen upgrades the estimate is about **9.65 kg**.
-**Weight today:** ~10.9-13.1 kg estimated, mid ~12.0 kg, unweighed. Full list: `G_Line_Current_Parts_List.md`. Stock G Line is ~14.8 kg (Brompton, 32.63 lb).
+**Target weight:** not set yet. With the chosen upgrades the estimate is about **8.5 kg** (from the measured 10 kg).
+**Weight today:** about 10 kg measured (owner, rough scale, 21 Nov 2026); the parts-list estimate of 10.9-13.1 kg (mid 12.0 kg) was too high. Full list: `G_Line_Current_Parts_List.md`. Stock G Line is ~14.8 kg (Brompton, 32.63 lb).
 
 > **Decision rule:** a part only moves from "Candidates" to "Chosen" when you say so. Every figure below is an estimate until the part is weighed.
 
@@ -15,8 +15,8 @@
 | Build | Weight | Note |
 |---|---|---|
 | Stock G Line 8-speed | ~14.8 kg | Steel frame, aluminium fork, Alfine hub gear |
-| Your G Line today | ~12.0 kg (est.) | Unweighed; stock bar and pedals |
-| Your G Line with chosen upgrades | ~9.65 kg (est.) | See scenarios |
+| Your G Line today | ~10 kg (measured, rough) | Stock bar and pedals |
+| Your G Line with chosen upgrades | ~8.5 kg (est., from measured 10 kg) | See scenarios |
 | CyclingAbout lightest G Line | 9.02 kg | Ti rear triangle (~510g saved) + Silverrock Mini Bro carbon fork |
 | Documented 8.3 kg G Line | 8.3 kg | No child seat, rack or mudguards |
 | HEXATI Ti G Line | 7.48 kg | Full Ti treatment, 3D-printed Ti stem (HEXATI claim) |
@@ -83,7 +83,7 @@ Owner confirmed (21 Nov): 54T chainring with the 10-36T 12-speed cassette is the
 | Part | Current | Candidates | Status |
 |---|---|---|---|
 | Wheelset | SMC 12-speed XDR carbon, RHET hubs, ~1,000-1,105g | None | Keep. Do not swap with the mini velo (axles, freehub, tyre clearance) |
-| Tyres | Schwalbe G-One 54-406, ~900-1,050g pair (est.) | **Chosen (21 Nov): Continental Contact Urban 42-406, 710g pair** (~-265g). Also: 50-406 860g pair; 55-406 G Line, ~1,120g pair. Full list: `G_Line_Tyre_List.md` | Chosen. Check rim width and carbon fork/triangle clearance before buying |
+| Tyres | Schwalbe G-One 54-406, ~900-1,050g pair (est.; ~750-875g after the 10 kg rescale) | **Chosen (21 Nov): Continental Contact Urban 42-406, 710g pair** (~-100g on the rescaled baseline). Also: 50-406 860g pair; 55-406 G Line, ~1,120g pair. Full list: `G_Line_Tyre_List.md` | Chosen. Check rim width and carbon fork/triangle clearance before buying |
 
 ## 5. Cockpit and seating
 | Part | Current | Candidates | Status |
@@ -105,15 +105,15 @@ Owner confirmed (21 Nov): 54T chainring with the 10-36T 12-speed cassette is the
 ## 7. Weight and cost with the chosen upgrades (mid estimates)
 | Step | Change | Weight after (est.) | Cost |
 |---|---|---|---|
-| Today | stock bar and pedals | ~12.0 kg | S$0 |
-| Schmolke carbon bar | provided | ~11.75 kg | free |
-| Carbon pedals | look-alike WOOdman | ~11.6 kg | ~S$55 |
-| Ti stem | Chris Yeo | ~11.2 kg | S$980 |
-| Silverrock fork + triangle set | Chris Yeo | ~9.9 kg | S$1,580 |
-| Tyres | Continental Contact Urban 42-406 | **~9.65 kg** | ~S$140 (est.; 42-406 price not checked) |
-| **Total** | | **~9.65 kg, about -2.35 kg** | **~S$2,755** |
+| Today | measured, rough scale reading (owner, 21 Nov) | ~10.0 kg | S$0 |
+| Schmolke carbon bar | provided (-190g) | ~9.8 kg | free |
+| Carbon pedals | look-alike WOOdman (-105g) | ~9.7 kg | ~S$55 |
+| Ti stem | Chris Yeo (-265g) | ~9.45 kg | S$980 |
+| Silverrock fork + triangle set | Chris Yeo (-830g) | ~8.6 kg | S$1,580 |
+| Tyres | Continental Contact Urban 42-406 (-100g) | **~8.5 kg** | ~S$140 (est.; 42-406 price not checked) |
+| **Total** | | **~8.5 kg, about -1.5 kg** | **~S$2,755** |
 
-The range is wide (about 8.15-11.45 kg) because the stock bar, pedals, stem and fork are still unweighed. Savings by cost: the set is the best value (~S$1,300/kg saved), pedals are cheapest, the Ti stem is the most expensive per kg (~S$2,300/kg). Possible later: Praxis Doon crank + M30 BB (~150-250g), lighter saddle (~50-100g). Not included: the M conversion's longer seatpost.
+The range is wide (about 8.0-9.0 kg) because the stock bar, pedals, stem, fork and tyres are still unweighed. Savings by cost (redone on the 10 kg baseline): the set is the best value (~S$1,900/kg saved), tyres ~S$1,400/kg, pedals ~S$500/kg, the Ti stem by far the worst (~S$3,700/kg, and it could save as little as ~150g). Overall ~S$1,850/kg. The M stem will also be taller and a little heavier than the S figures here. Possible later: Praxis Doon crank + M30 BB (~150-250g), lighter saddle (~50-100g). Not included: the M conversion's longer seatpost.
 
 ## 8. Open decisions and next steps
 - [ ] You review the T20 tables and pick further candidates (crank, saddle, rack, etc.).
@@ -130,9 +130,9 @@ The range is wide (about 8.15-11.45 kg) because the stock bar, pedals, stem and 
 ## Chosen upgrades
 | Part | Replacement | Price (S$) | Weight change (est.) | Status |
 |---|---|---|---|---|
-| Stem | Ti stem, Chris Yeo | 980 | -290 to -550g | Chosen |
-| Fork + rear triangle | Silverrock carbon set, Chris Yeo | 1,580 | -1,000 to -1,450g | Chosen |
-| Handlebar | Schmolke carbon 31.8mm | free (provided) | -175 to -315g | Chosen |
-| Pedals | Carbon look-alike (WOOdman style), Carousell | ~55 | -90 to -250g | Chosen |
-| Tyres x2 | Continental Contact Urban 42-406 (355g each) | ~140 (est., 50-406 price; 42-406 not checked) | -190 to -340g | Chosen |
-| **Total** | | **~2,755** | **about -1,750 to -2,900g** | |
+| Stem | Ti stem, Chris Yeo | 980 | -150 to -380g | Chosen |
+| Fork + rear triangle | Silverrock carbon set, Chris Yeo | 1,580 | -680 to -990g | Chosen |
+| Handlebar | Schmolke carbon 31.8mm | free (provided) | -130 to -250g | Chosen |
+| Pedals | Carbon look-alike (WOOdman style), Carousell | ~55 | -30 to -180g | Chosen |
+| Tyres x2 | Continental Contact Urban 42-406 (355g each) | ~140 (est., 50-406 price; 42-406 not checked) | -40 to -165g | Chosen |
+| **Total** | | **~2,755** | **about -1,000 to -2,000g (mid -1.5 kg)** | |

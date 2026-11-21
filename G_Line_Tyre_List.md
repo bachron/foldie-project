@@ -40,7 +40,7 @@ Weights marked "not published" are ones I could not confirm; do not use them for
 5. **Singapore price:** find a local seller before buying from overseas.
 
 ## Weight effect on the build
-- **Contact Urban 42-406 (chosen): 710g a pair, about -265g (mid; range -190 to -340g) from today, which brings the estimate to about 9.65 kg.**
-- Contact Urban 50-406: about -115g (mid) from today, about 9.8 kg.
+- **Contact Urban 42-406 (chosen): 710g a pair. On the 10 kg baseline (21 Nov) the current G-One pair is rescaled to about 750-875g, so the saving is only about -40 to -165g (mid -100g). The bike estimate is about 8.5 kg overall. If the G-One pair really weighs 900g+, the saving is larger: weigh one.**
+- Contact Urban 50-406 (860g pair): about +35g (mid) against the rescaled G-One, i.e. no saving.
 - Contact Urban 55-406: about +145g (mid), about 10.0 kg.
 These are rough because the current tyres are unweighed. Weigh one current tyre, then the numbers firm up.
