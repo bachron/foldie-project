@@ -28,7 +28,7 @@
 | 13 | Added / swapped | Crankset + 54T ring | Juin | 480-600 | 350-600 | Low |
 | 14 | Added / swapped | Bottom bracket | Juin BSA24 ceramic | 80-110 | 150-250 | Low |
 | 15 | Added / swapped | Rear derailleur | SRAM Force AXS (owner physically checked, 23 Nov) | 255-305 | 650-850 | Med |
-| 16 | Added / swapped | Shifter / battery | Unconfirmed. Not stated in listing; needed to shift | 80-180 | 250-450 | Low |
+| 16 | Added / swapped | Shifter / battery | SRAM AXS Rocker Paddle (owner, 23 Nov). Weight not yet found; battery not confirmed | 80-180 | 250-450 | Low |
 | 17 | Added / swapped | Chain tensioner | Modified Union Jack | 60-110 | 100-200 | Low |
 | 18 | Added / swapped | Cassette | SRAM Force, 12-speed XDR, 10-36T (owner physically checked, 23 Nov). SRAM Force XG-1270 10-36T cogs are 10-11-12-13-15-17-19-21-24-28-32-36 | 260-330 | 300-500 | Low |
 | 19 | Added / swapped | Chain | 12-speed | 230-280 | 60-120 | Low |
