@@ -44,3 +44,19 @@ Weights marked "not published" are ones I could not confirm; do not use them for
 - Contact Urban 50-406 (860g pair): about +35g (mid) against the rescaled G-One, i.e. no saving.
 - Contact Urban 55-406: about +145g (mid), about 10.0 kg.
 These are rough because the current tyres are unweighed. Weigh one current tyre, then the numbers firm up.
+
+## 451 option (added 25 Nov 2026): 451 rims instead of 406
+451 is the other "20-inch" size (the mini velo uses it). 406 and 451 tyres are **not interchangeable**: the rim and tyre bead seat numbers must match, so this option means new wheels, not just new tyres.
+
+**Tyres:** I did not find any **35-451** tyre. The 451 sizes I could confirm are **23-451, 25-451, 28-451 (20 x 1-1/8) and 37-451 (20 x 1-3/8)** (Michelin size chart). Schwalbe One 28-451 is 280g (Perennial Cycle) and Schwalbe One 451 is US$45 (Bike Tires Direct). Schwalbe Kojak 20 x 1.35 is **35-406**, not 451: do not mix it up. Nearest to what you asked for: **37-451**; ask a shop before ordering whether a 35-451 exists.
+
+**Wheelsets for a G Line (451, disc):**
+| Wheelset | Weight (g) | Price | Source |
+|---|---|---|---|
+| Silverock 20" 451 3-spoke carbon, convertible to thru-axle | 660 front + 751 rear = 1,411 | US$649.50 | Fantastic4Toys listing |
+| Suncord 451 full carbon tri-spoke | not found | US$1,285-1,315 | Suncord |
+| SMC Plume carbon 451 (discussed in the Brompton G Line Society) | not found | not found | Facebook group post |
+
+- **Weight:** the Silverock 451 pair is about 300-400g heavier than your SMC 406 wheelset (1,000-1,105g, est.), before the tyres.
+- **Outer diameter (my arithmetic, not a published figure):** a 35-451 would be about 451 + 2 x 35 = 521mm, close to the 54-406 at about 514mm, so frame and fork clearance should be similar in length; a 35mm tyre is narrower than 54mm, so side clearance is not the issue. Confirm with the wheel seller and Chris Yeo, because the fork and triangle are Silverrock parts.
+- **Not checked:** XDR freehub option on the 451 wheelsets, rotor mount (6-bolt vs Centerlock), rim width, and whether your Juin kickstand and easy wheels still clear.
