@@ -60,3 +60,8 @@ These are rough because the current tyres are unweighed. Weigh one current tyre,
 - **Weight:** the Silverock 451 pair is about 300-400g heavier than your SMC 406 wheelset (1,000-1,105g, est.), before the tyres.
 - **Outer diameter (my arithmetic, not a published figure):** a 35-451 would be about 451 + 2 x 35 = 521mm, close to the 54-406 at about 514mm, so frame and fork clearance should be similar in length; a 35mm tyre is narrower than 54mm, so side clearance is not the issue. Confirm with the wheel seller and Chris Yeo, because the fork and triangle are Silverrock parts.
 - **Not checked:** XDR freehub option on the 451 wheelsets, rotor mount (6-bolt vs Centerlock), rim width, and whether your Juin kickstand and easy wheels still clear.
+
+### Twisted Wheels 7.4 kg G Line (owner, 25 Nov 2026: video used 451 wheels with 35 mm tyres)
+- A search excerpt of the Twisted Wheels post "World's Lightest Brompton G Line 7.4kg" lists **Panaracer Agilest limited edition tyres** among the featured parts. I could not open the post itself (Facebook, Reddit and YouTube are not readable by Firecrawl), so the tyre size, the wheel size and the weights are **unverified**.
+- Panaracer's Agilest limited edition for the standard Brompton is a 16 x 1.35 (**35-349**, 225 g). I did not find a 20-inch Agilest listed (the PanaracerUSA page shows only 700c sizes), so a **35-451** or 35-406 Agilest is unconfirmed.
+- Next step: watch the video description or ask Oleg for the exact tyre size and wheelset, then add it here.
