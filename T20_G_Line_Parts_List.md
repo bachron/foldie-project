@@ -8,7 +8,7 @@
 |---|---|---|---|---|---|---|---|
 | 1 | Frameset | Main frame: HEXATI Ti G Line | T20 | 1,351 (assumed) | S$2,900 bundle (frame, triangle, Ti stem, fork; fork credit TBC) | Purchased, unassembled | Confirm weight with Chris Yeo |
 | 2 | Frameset | Rear triangle: Ti (Chris Yeo) | T20 | not confirmed | in bundle | Purchased | Axle 142x12 vs 135 QR open |
-| 3 | Frameset | Fork: SilverRock carbon, incl. thru-axle | T20 | 388 | bought separately, price TBC | Decided | Same as #12 |
+| 3 | Frameset | Fork: SilverRock carbon, incl. thru-axle | Both | 388 | bought separately, price TBC | Decided | Same as #12 |
 | 4 | Frameset | Stem: HEXATI Ti, 3D-printed hinge | T20 | 450-560 (budget) | +S$500 in bundle | Decided | Needed for Thule Yepp Mini fit |
 | 5 | Frameset | Main frame: steel G Line | G Line | 2,290 | in base bike | Current | |
 | 6 | Frameset | Rear triangle: steel | G Line | 1,240-1,310 | in base bike | Current | |
@@ -17,9 +17,9 @@
 | 9 | Frameset | Hinges, clamps, locking block, hardware | G Line | 250-400 | in base bike | Current | |
 | 10 | Frameset | Stem: Ti, size M (Chris Yeo) | G Line | -150 to -380 vs steel | S$980 | Chosen upgrade | Check M height, Chris King headset fit |
 | 11 | Frameset | Rear triangle: Silverrock carbon | G Line | 467.5 incl. thru-axle and accessories | S$1,580 set with the fork | Chosen upgrade | Check 142x12 rear hub, flat mount |
-| 12 | Frameset | Fork: Silverrock carbon | G Line | 388 incl. thru-axle | in the S$1,580 set | Chosen upgrade | Same as #3 |
-| 13 | Drivetrain | Crank: Praxis Doon 170mm | T20 | 335-342 pair | not priced | Decided | M30 spindle |
-| 14 | Drivetrain | Spider: Lightworks 1X carbon | T20 | 36 | S$250 | Decided | 110 BCD, 5-arm |
+| 12 | Frameset | Fork: Silverrock carbon | Both | 388 incl. thru-axle | in the S$1,580 set | Chosen upgrade | Same as #3 |
+| 13 | Drivetrain | Crank: Praxis Doon 170mm | Both | 335-342 pair | not priced | Decided | M30 spindle |
+| 14 | Drivetrain | Spider: Lightworks 1X carbon | Both | 36 | S$250 | Decided | 110 BCD, 5-arm |
 | 15 | Drivetrain | Chainring: Lightworks V2 48T | T20 | ~56-60 | ~US$150 | Decided 24 Sep | 48T sold out at Elite Custom SG |
 | 16 | Drivetrain | Bottom bracket: BBInfinite Ceramitech BSA M30 | T20 | 80 | ~US$175 (est.) | Ranked first | |
 | 17 | Drivetrain | Rear derailleur: Shimano XT M8100 (12-speed) | T20 | 283 | ~S$190 with shifter | Chosen | 11 vs 12 speed still open |
@@ -44,30 +44,30 @@
 | 36 | Wheels | Tyres x2: Schwalbe G-One 54-406 | G Line | 900-1,050 pair (est.) | S$110-170 | Current | |
 | 37 | Wheels | Inner tubes x2 | G Line | 180-260 | S$25-45 | Current | |
 | 38 | Wheels | Tyres x2: Continental Contact Urban 42-406 | G Line | 710 pair | ~S$140 (est.) | Chosen upgrade | 42-406 price not checked |
-| 39 | Cockpit | Handlebar: carbon 31.8mm (Schmolke, Darimo, Ridea or WOOdman SL) | T20 | 65-105 (Schmolke) | S$233-551 by model | Carbon decided, model open | |
-| 40 | Cockpit | Grips: Ergon GP2 Evo | T20 | 230 (S) / ~260 (L) | ~S$57-73 | Selected | |
+| 39 | Cockpit | Handlebar: carbon 31.8mm (Schmolke, Darimo, Ridea or WOOdman SL) | Both | 65-105 (Schmolke) | S$233-551 by model | Carbon decided, model open | |
+| 40 | Cockpit | Grips: Ergon GP2 Evo | Both | 230 (S) / ~260 (L) | ~S$57-73 | Selected | |
 | 41 | Cockpit | Headset: H&H alloy (A/C/P/T pattern) or WOOdman Axis BPT (G Line pattern) | T20 | 96.3 / 105 | ~S$90 / ~S$155 | Open | Depends on frame pattern |
 | 42 | Cockpit | Seatpost: WOOdman GT2 31.8mm | T20 | 277-307 | S$189 | Decided | |
 | 43 | Cockpit | Saddle: Tioga Spyder Stratum (best-value pick) | T20 | 124 | ~S$213-254 | Open | Brooks C13 and Berk Lupina are the alternatives |
 | 44 | Cockpit | Headset: Chris King (Brompton fit) | G Line | 110-115 | S$195-260 | Current | Keep |
-| 45 | Cockpit | Stem cap: Juin | G Line | 10-25 | S$40-80 | Current | |
+| 45 | Cockpit | Stem cap: Juin | Both | 10-25 | S$40-80 | Current | |
 | 46 | Cockpit | Handlebar: stock | G Line | 280-380 | in base bike | Current | |
-| 47 | Cockpit | Grips: Ergon, model unknown | G Line | 85-115 | S$50-90 | Current | |
+| 47 | Cockpit | Grips: Ergon, model unknown | Both | 85-115 | S$50-90 | Current | |
 | 48 | Cockpit | Seatpost: Hexagon Ti | G Line | 170-240 | S$350-450 | Current | M size needs a longer post |
-| 49 | Cockpit | Seatpost clamp: Juin | G Line | 15-35 | S$40-90 | Current | |
+| 49 | Cockpit | Seatpost clamp: Juin | Both | 15-35 | S$40-90 | Current | |
 | 50 | Cockpit | Saddle: Fizik carbon | G Line | 150-220 | S$250-450 | Current | |
-| 51 | Cockpit | Handlebar: Schmolke carbon 31.8mm | G Line | 65-105 | free (provided) | Chosen upgrade | Saves ~130-250g |
+| 51 | Cockpit | Handlebar: Schmolke carbon 31.8mm | Both | 65-105 | free (provided) | Chosen upgrade | Saves ~130-250g |
 | 52 | Small parts | Pedals: H&H titanium | T20 | 215 pair | not priced | Recommended | |
-| 53 | Small parts | Rear rack: Ti Parts Workshop Ti G Line | T20 | 328 | not priced | Only correct option found | Later |
-| 54 | Small parts | Dropout hanger: Ti Parts Workshop GRP-21B (135 QR) / GRP-22B (142x12) | T20 | 48 / 54 | ~S$70-82 | Open | Depends on axle standard |
-| 55 | Small parts | Front child seat: Thule Yepp Mini (clamps to stem) | T20 | excluded | not priced | Confirmed | |
-| 56 | Small parts | Rear child seat: Thule Yepp Nexxt 2 Maxi (seatpost mount) | T20 | excluded | not priced | Confirmed | |
+| 53 | Small parts | Rear rack: Ti Parts Workshop Ti G Line | Both | 328 | not priced | Only correct option found | Later |
+| 54 | Small parts | Dropout hanger: Ti Parts Workshop GRP-21B (135 QR) / GRP-22B (142x12) | Both | 48 / 54 | ~S$70-82 | Open | Depends on axle standard |
+| 55 | Small parts | Front child seat: Thule Yepp Mini (clamps to stem) | Both | excluded | not priced | Confirmed | |
+| 56 | Small parts | Rear child seat: Thule Yepp Nexxt 2 Maxi (seatpost mount) | Both | excluded | not priced | Confirmed | |
 | 57 | Small parts | Front block: Juin float | G Line | 90-150 | S$180-300 | Current | |
-| 58 | Small parts | Rear block: Juin suspension | G Line | 60-110 | S$120-220 | Current | |
-| 59 | Small parts | Easy wheels + extender bar: Juin 79mm | G Line | 100-160 | S$150-280 | Current | |
+| 58 | Small parts | Rear block: Juin suspension | Both | 60-110 | S$120-220 | Current | |
+| 59 | Small parts | Easy wheels + extender bar: Juin 79mm | Both | 100-160 | S$150-280 | Current | |
 | 60 | Small parts | Kickstand: Juin axle | G Line | 40-70 | S$80-160 | Current | |
 | 61 | Small parts | Pedals: stock | G Line | 350-420 | in base bike | Current | |
 | 62 | Small parts | Pedals: carbon look-alike (WOOdman style, Carousell) | G Line | 168-186 claimed for genuine; copy unknown | ~S$55 | Chosen upgrade | Real weight unverified |
 
-**Counts:** 62 rows. T20 27 rows (#1-4, 13-20, 28-30, 33-34, 39-43, 52-56). G Line 35 rows (the rest). No row is marked `Both` yet.
+**Counts:** 62 rows. T20 rows 27 originally, G Line rows 35 originally; the bike column now shows which are `Both`. 16 rows are marked `Both` (#3, 12, 13, 14, 39, 40, 45, 47, 49, 51, 53, 54, 55, 56, 58, 59), applied 25 Nov. Where two rows are the same part (for example #3 and #12) both rows say `Both`. #45, #49, #58 and #59 are the Juin stem cap, seatpost clamp, rear block and easy wheels, marked `Both` because the T20 frame was bought unassembled and needs them. Rows 13, 14, 40, 47, 55 and 56 still need the checks listed in the chat (Doon swap and M30 bottom bracket on the G Line, Ergon model, whether the child seats move).
 **Not in this table:** the other candidates for each T20 part (cranks, chainrings, calipers, saddles, pedals, racks), which stay in `T20_Build_Plan.md` and `T20_Build_Options.md`; the G Line tyre alternatives (`G_Line_Tyre_List.md`); and the seatpost and saddle list (`G_C_Line_Seatpost_Saddle_List.md`).
