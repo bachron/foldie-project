@@ -24,7 +24,7 @@
 | 9 | Added / swapped | Front block | Juin float | 90-150 | 180-300 | Low |
 | 10 | Added / swapped | Rear block | Juin suspension | 60-110 | 120-220 | Low |
 | 11 | Added / swapped | Brake set (2 calipers, levers, hoses) | Juin 4-piston hydraulic, probably JF401, flat mount. JF401 exists: Shopee SG S$749.90, US retailer US$650 | 450-600 | 750-870 | Med |
-| 12 | Added / swapped | Rotors x2 | 160mm 6-bolt two-piece | 190-260 | 150-300 | Low |
+| 12 | Added / swapped | Rotors x2 | 160mm 6-bolt two-piece, model unconfirmed. Reference: Carbon-Ti X-Rotor SteelCarbon 3 6-bolt 160mm is 80g each (carbon-ti.com, 25 Nov); its Centerlock version is 98g but does not fit this bike. The SteelCarbon 2 (what one Carousell listing is called) is no longer on Carbon-Ti's site; est. ~80-85g each, not confirmed | 160-260 (pair; 160 if Carbon-Ti SC3) | 150-300 (Carbon-Ti SC3 6-bolt 160mm is EUR 185 incl. 22% VAT direct) | Low (Med if SC3 confirmed) |
 | 13 | Added / swapped | Crankset + 54T ring | Juin | 480-600 | 350-600 | Low |
 | 14 | Added / swapped | Bottom bracket | Juin BSA24 ceramic | 80-110 | 150-250 | Low |
 | 15 | Added / swapped | Rear derailleur | SRAM Force AXS (owner physically checked, 23 Nov) | 255-305 | 650-850 | Med |

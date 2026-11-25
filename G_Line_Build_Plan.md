@@ -77,7 +77,7 @@ Owner confirmed (21 Nov): 54T chainring with the 10-36T 12-speed cassette is the
 | Part | Current | Plan | Status |
 |---|---|---|---|
 | Calipers, levers, hoses | Juin 4-piston hydraulic (likely JF401, flat mount), ~450-600g | Move this set to the mini velo (after its flat-bar conversion); fit the mini velo's Juin R1 hybrids with Extralite UltraLevers 3S (41g/pair, 22.2mm, short-pull) | Planned. Check mount type on the mini velo, hose length, pad compound |
-| Rotors | 160mm 6-bolt two-piece x2 | Reuse as is (same size on both bikes) | Keep. T20 centre-lock rotors do not fit |
+| Rotors | 160mm 6-bolt two-piece x2 | Reuse as is (same size on both bikes) | Keep. T20 centre-lock rotors do not fit. If you buy lighter ones, the 6-bolt Carbon-Ti SteelCarbon 3 160mm is 80g each (Centerlock is 98g and would not fit) |
 
 ## 4. Wheels and tyres
 | Part | Current | Candidates | Status |
