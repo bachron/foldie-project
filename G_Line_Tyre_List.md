@@ -61,7 +61,12 @@ These are rough because the current tyres are unweighed. Weigh one current tyre,
 - **Outer diameter (my arithmetic, not a published figure):** a 35-451 would be about 451 + 2 x 35 = 521mm, close to the 54-406 at about 514mm, so frame and fork clearance should be similar in length; a 35mm tyre is narrower than 54mm, so side clearance is not the issue. Confirm with the wheel seller and Chris Yeo, because the fork and triangle are Silverrock parts.
 - **Not checked:** XDR freehub option on the 451 wheelsets, rotor mount (6-bolt vs Centerlock), rim width, and whether your Juin kickstand and easy wheels still clear.
 
-### Twisted Wheels 7.4 kg G Line (owner, 25 Nov 2026: video used 451 wheels with 35 mm tyres)
-- A search excerpt of the Twisted Wheels post "World's Lightest Brompton G Line 7.4kg" lists **Panaracer Agilest limited edition tyres** among the featured parts. I could not open the post itself (Facebook, Reddit and YouTube are not readable by Firecrawl), so the tyre size, the wheel size and the weights are **unverified**.
-- Panaracer's Agilest limited edition for the standard Brompton is a 16 x 1.35 (**35-349**, 225 g). I did not find a 20-inch Agilest listed (the PanaracerUSA page shows only 700c sizes), so a **35-451** or 35-406 Agilest is unconfirmed.
-- Next step: watch the video description or ask Oleg for the exact tyre size and wheelset, then add it here.
+### Twisted Wheels 7.48 kg G Line: confirmed from the video (25 Nov 2026)
+Source: "I Built the World's Lightest Brompton G-Line!" (Twisted Wheels, YouTube, 24 Oct 2026), transcript read in Chrome. This **replaces my earlier note** that guessed Panaracer Agilest from a search excerpt: the video says Box One, not Panaracer.
+- **Wheels (7:44-11:27):** 451mm BSD (stock G Line is 406mm), **764g for the pair**: Light Bicycle carbon rims, limited-edition white Nonplus Components Primaro hubs, carbon spokes (transcript spellings approximate). The original G Line wheels weigh just over 3 kg with the 8-speed hub.
+- **Tyres:** **35mm Box One semi-slicks**, made for BMX race and pump track, with Tubolito S-Tubo BMX tubes. Wheels, tyres and tubes together save almost 3 kg of rotating weight against stock. I did not check the Box One product's listed ETRTO size, weight or price.
+- **Why 451:** 35mm tyres on a 406 rim would shrink the wheel and drop the bottom bracket about 15mm (lost crank clearance, pedal strikes, changed geometry). 451 rims with 35mm tyres keep the diameter much closer to stock. This matches my arithmetic above (about 521mm vs 514mm).
+- **Frame parts:** Silverrock carbon fork and rear triangle (100x12 and 142x12 thru-axles, flat mount), the **same parts you chose**, so a 451 wheel was fitted to them. He fitted a custom 3D-printed Brompton stopper because the Silverrock fork has none; he also moved the rear hook to an adjustable MiniMODs one because the wheel size changed.
+- **Brakes:** Centerlock 140mm rotors, 74g each (Taparts, Chaser brand).
+- **Result:** 7.48 kg. Cost over GBP 10,000. He notes similar client builds with gravel tyres and conventional wheels came in around 8.2 kg.
+- **Risk:** it is a BMX-race tyre on a road/commute bike (less puncture protection, race-oriented). Check wheel and tyre weight limits before using one with a child seat.
