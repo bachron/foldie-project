@@ -16,7 +16,7 @@ Lines = cables + housing, **my estimate ~180g (150-220g)**. Caliper figures mix 
 | **Juin R1 (owned, on mini velo)** | Cable-hydraulic | 142 | 284 | 324 | ~504 | [BikeRadar weigh-in](https://www.bikeradar.com/news/juin-techs-r1-disc-brakes-promise-cheap-yet-powerful-stopping) |
 | Yokozuna Motoko | not checked | 142 | 284 | 324 | ~504 | [Yokozuna, with pads](https://www.yokozunausa.com/shop/yokozuna-motoko-road-disc-brake-flat-mount-2500) |
 | TRP Spyre SLC | Mechanical | 146 | 292 | 332 | ~512 | [Competitive Cyclist](https://www.competitivecyclist.com/trp-spyre-slc-mechanical-flat-mount-disc-brake-caliper) |
-| TRP Spyre | Mechanical | 154 | 308 | 348 | ~528 | repo / Bikerumor-era figure |
+| TRP Spyre | Mechanical | 154 | 308 | 348 | ~528 | repo figure (T20_Build_Options.md) |
 | TRP HY/RD | Cable-hydraulic | 195 | 390 | 430 | ~610 | claimed, quoted by BikeRadar |
 | Paul Klamper (short pull) | Mechanical | 211 | 422 | 462 | ~642 | Bikerumor, with pads |
 
